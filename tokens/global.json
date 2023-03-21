@@ -1503,5 +1503,11 @@
         "type": "color"
       }
     }
+  },
+  "scales": {
+    "fontsize": {
+      "value": "16px",
+      "type": "fontSizes"
+    }
   }
 }
