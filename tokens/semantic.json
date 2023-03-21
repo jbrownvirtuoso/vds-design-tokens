@@ -209,7 +209,7 @@
         "unselected": {
           "idle": {
             "bg": {
-              "value": "{semantic.color.neutral.bg.surface-lightest}",
+              "value": "{semantic.color.neutral.bg.canvase}",
               "type": "color"
             },
             "fg": {
