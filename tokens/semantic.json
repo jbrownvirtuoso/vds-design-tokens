@@ -4,20 +4,20 @@
       "action": {
         "primary-accent": {
           "idle": {
-            "value": "{blue-4.500}",
+            "value": "{blue-2.500}",
             "type": "color",
             "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
           },
           "hover": {
-            "value": "{blue-4.600}",
+            "value": "{blue-2.600}",
             "type": "color"
           },
           "press": {
-            "value": "{blue-4.400}",
+            "value": "{blue-2.400}",
             "type": "color"
           },
           "focus": {
-            "value": "{blue-4.600}",
+            "value": "{blue-2.600}",
             "type": "color"
           }
         },
@@ -36,7 +36,7 @@
             "type": "color"
           },
           "focus": {
-            "value": "{violet-1.400}",
+            "value": "{violet-1.600}",
             "type": "color"
           }
         }

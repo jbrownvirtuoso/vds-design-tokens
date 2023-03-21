@@ -110,11 +110,11 @@
             "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
           },
           "surface-lighter": {
-            "value": "{neutral-1.100}",
+            "value": "{neutral-1.200}",
             "type": "color"
           },
           "surface-light": {
-            "value": "{neutral-1.200}",
+            "value": "{neutral-1.300}",
             "type": "color"
           },
           "canvase": {
