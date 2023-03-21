@@ -23,20 +23,20 @@
         },
         "default": {
           "idle": {
-            "value": "{blue-3.500}",
+            "value": "{teal-1.500}",
             "type": "color",
             "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
           },
           "hover": {
-            "value": "{blue-3.600}",
+            "value": "{teal-1.600}",
             "type": "color"
           },
           "press": {
-            "value": "{blue-3.400}",
+            "value": "{teal-1.400}",
             "type": "color"
           },
           "focus": {
-            "value": "{blue-3.400}",
+            "value": "{teal-1.400}",
             "type": "color"
           }
         }

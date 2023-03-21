@@ -394,5 +394,11 @@
       "value": "#1A1A1A",
       "type": "color"
     }
+  },
+  "key": {
+    "black": {
+      "value": "black",
+      "type": "color"
+    }
   }
 }

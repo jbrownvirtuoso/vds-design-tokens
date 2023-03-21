@@ -1495,5 +1495,13 @@
       "value": "rgba($key.white, 0.92)",
       "type": "color"
     }
+  },
+  "gradient": {
+    "neutral": {
+      "0-deg-↑": {
+        "value": "linear-gradient(180deg, rgba($neutral-1.700, 0.0) 0%, rgba($neutral-1.700, 0.3) 100%)",
+        "type": "color"
+      }
+    }
   }
 }
