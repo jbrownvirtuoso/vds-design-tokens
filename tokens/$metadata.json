@@ -1,0 +1,8 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "semantic",
+    "theme/b2b",
+    "theme/b2c"
+  ]
+}
