@@ -74,7 +74,7 @@
             "value": "{neutral-inverse-1.300}",
             "type": "color"
           },
-          "canvase": {
+          "canvas": {
             "value": "{key.black}",
             "type": "color"
           }
@@ -117,7 +117,7 @@
             "value": "{neutral-1.200}",
             "type": "color"
           },
-          "canvase": {
+          "canvas": {
             "value": "{key.white}",
             "type": "color"
           }
@@ -207,148 +207,148 @@
       },
       "input": {
         "unselected": {
-          "idle": {
-            "bg": {
-              "value": "{semantic.color.neutral.bg.canvase}",
+          "bg": {
+            "idle": {
+              "value": "{semantic.color.neutral.bg.canvas}",
               "type": "color"
             },
-            "fg": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "border-color": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "text-color": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            }
-          },
-          "hover": {
-            "bg": {
+            "hover": {
               "value": "{semantic.color.neutral.bg.surface-lighter}",
               "type": "color"
             },
-            "fg": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "border-color": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "text-color": {
-              "value": "{semantic.color.neutral.fg.emphasis}",
-              "type": "color"
-            }
-          },
-          "press": {
-            "bg": {
+            "press": {
               "value": "{semantic.color.neutral.bg.surface-light}",
               "type": "color"
             },
-            "fg": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "border-color": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "text-color": {
-              "value": "{semantic.color.neutral.fg.emphasis}",
+            "focus": {
+              "value": "{semantic.color.neutral.bg.surface-lightest}",
               "type": "color"
             }
           },
-          "focus": {
-            "bg": {
-              "value": "{semantic.color.neutral.bg.surface-lightest}",
-              "type": "color"
-            },
-            "fg": {
+          "fg": {
+            "idle": {
               "value": "{semantic.color.neutral.fg.default}",
               "type": "color"
             },
-            "border-color": {
+            "hover": {
               "value": "{semantic.color.neutral.fg.default}",
               "type": "color"
             },
-            "text-color": {
+            "press": {
+              "value": "{semantic.color.neutral.fg.default}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{semantic.color.neutral.fg.default}",
+              "type": "color"
+            }
+          },
+          "border-color": {
+            "idle": {
+              "value": "{semantic.color.neutral.fg.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.color.neutral.fg.default}",
+              "type": "color"
+            },
+            "press": {
+              "value": "{semantic.color.neutral.fg.default}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{semantic.color.neutral.fg.default}",
+              "type": "color"
+            }
+          },
+          "text-color": {
+            "idle": {
+              "value": "{semantic.color.neutral.fg.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.color.neutral.fg.emphasis}",
+              "type": "color"
+            },
+            "press": {
+              "value": "{semantic.color.neutral.fg.emphasis}",
+              "type": "color"
+            },
+            "focus": {
               "value": "{semantic.color.neutral.fg.emphasis}",
               "type": "color"
             }
           }
         },
         "selected": {
-          "idle": {
-            "bg": {
+          "bg": {
+            "idle": {
               "value": "{semantic.color.action.default.idle}",
               "type": "color"
             },
-            "fg": {
+            "hover": {
+              "value": "{semantic.color.action.default.hover}",
+              "type": "color"
+            },
+            "press": {
+              "value": "{semantic.color.action.default.press}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{semantic.color.action.default.focus}",
+              "type": "color"
+            }
+          },
+          "fg": {
+            "idle": {
               "value": "{semantic.color.neutral.fg.on-accent}",
               "type": "color"
             },
-            "border-color": {
+            "hover": {
+              "value": "{semantic.color.neutral.fg.on-accent}",
+              "type": "color"
+            },
+            "press": {
+              "value": "{semantic.color.neutral.fg.on-accent}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{semantic.color.neutral.fg.on-accent}",
+              "type": "color"
+            }
+          },
+          "border-color": {
+            "idle": {
               "value": "{semantic.color.action.default.idle}",
               "type": "color"
             },
-            "text-color": {
+            "hover": {
+              "value": "{semantic.color.action.default.hover}",
+              "type": "color"
+            },
+            "press": {
+              "value": "{semantic.color.action.default.press}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{semantic.color.action.default.focus}",
+              "type": "color"
+            }
+          },
+          "text-color": {
+            "idle": {
               "value": "{semantic.color.neutral.fg.default}",
               "type": "color"
-            }
-          },
-          "hover": {
-            "bg": {
-              "value": "{semantic.color.action.default.hover}",
-              "type": "color"
             },
-            "fg": {
-              "value": "{semantic.color.neutral.fg.on-accent}",
-              "type": "color"
-            },
-            "border-color": {
-              "value": "{semantic.color.action.default.hover}",
-              "type": "color"
-            },
-            "text-color": {
+            "hover": {
               "value": "{semantic.color.neutral.fg.emphasis}",
               "type": "color"
-            }
-          },
-          "press": {
-            "bg": {
-              "value": "{semantic.color.action.default.press}",
-              "type": "color"
             },
-            "fg": {
-              "value": "{semantic.color.neutral.fg.on-accent}",
-              "type": "color"
-            },
-            "border-color": {
-              "value": "{semantic.color.action.default.press}",
-              "type": "color"
-            },
-            "text-color": {
+            "press": {
               "value": "{semantic.color.neutral.fg.emphasis}",
               "type": "color"
-            }
-          },
-          "focus": {
-            "bg": {
-              "value": "{semantic.color.action.default.focus}",
-              "type": "color"
             },
-            "fg": {
-              "value": "{semantic.color.neutral.fg.on-accent}",
-              "type": "color"
-            },
-            "border-color": {
-              "value": "{semantic.color.action.default.focus}",
-              "type": "color"
-            },
-            "text-color": {
+            "focus": {
               "value": "{semantic.color.neutral.fg.emphasis}",
               "type": "color"
             }
