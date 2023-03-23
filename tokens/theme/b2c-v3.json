@@ -127,11 +127,11 @@
   },
   "fontFamilies": {
     "headlines": {
-      "value": "Utopia Std",
+      "value": "Sofia Pro",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "{fontFamilies.Proxima Nova}",
+      "value": "FreightDisp Pro",
       "type": "fontFamilies"
     }
   }
