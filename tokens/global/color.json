@@ -1502,6 +1502,10 @@
         "0-deg-↑": {
           "value": "linear-gradient(180deg, rgba({color.neutral-1.700}, 0.0) 0%, rgba({color.neutral-1.700}, 0.3) 100%)",
           "type": "color"
+        },
+        "0-deg-↑-copy": {
+          "value": "linear-gradient(180deg, rgba({color.neutral-1.700}, 0.0) 0%, rgba({color.neutral-1.700}, 0.3) 100%)",
+          "type": "color"
         }
       }
     }
