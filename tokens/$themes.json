@@ -1,15 +1,5 @@
 [
   {
-    "id": "3a7c26324c166e6ff7c6cf5775ff0d510a0e5d93",
-    "name": "b2b",
-    "selectedTokenSets": {
-      "theme/b2b": "enabled",
-      "global/color": "enabled",
-      "semantic/color": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "100de41353e29c4b3ab0f6a96b4f298ace2be990",
     "name": "b2c",
     "selectedTokenSets": {
@@ -207,7 +197,25 @@
     "name": "None",
     "selectedTokenSets": {
       "global/color": "enabled",
-      "semantic/color": "enabled"
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled",
+      "semantic/dimensions": "enabled",
+      "global/dimension": "enabled",
+      "global/typography": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "3a7c26324c166e6ff7c6cf5775ff0d510a0e5d93",
+    "name": "b2b",
+    "selectedTokenSets": {
+      "theme/b2b": "enabled",
+      "global/color": "source",
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled",
+      "global/typography": "source",
+      "global/dimension": "source",
+      "semantic/dimensions": "enabled"
     },
     "$figmaStyleReferences": {}
   }

@@ -5,6 +5,7 @@
     "global/dimension",
     "semantic/color",
     "semantic/dimensions",
+    "semantic/typography",
     "theme/b2b",
     "theme/b2c"
   ]
