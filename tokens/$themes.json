@@ -9,8 +9,7 @@
       "semantic/typography": "enabled",
       "global/typography": "source",
       "global/dimension": "source",
-      "semantic/dimensions": "enabled",
-      "theme/b2c-v3": "disabled"
+      "semantic/dimensions": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -24,8 +23,7 @@
       "global/typography": "source",
       "global/dimension": "source",
       "semantic/dimensions": "enabled",
-      "semantic/typography": "enabled",
-      "theme/b2c-v3": "disabled"
+      "semantic/typography": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.primary-accent.idle": "S:aa9eaafe2ad99c7858e2a66db78686a2d898d933,",
@@ -221,8 +219,7 @@
       "semantic/typography": "enabled",
       "semantic/dimensions": "enabled",
       "global/dimension": "source",
-      "global/typography": "source",
-      "theme/b2c-v3": "disabled"
+      "global/typography": "source"
     },
     "$figmaStyleReferences": {}
   },
