@@ -1,0 +1,76 @@
+{
+  "fontFamilies": {
+    "headlines": {
+      "value": "{fontFamilies.body}",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeights": {
+    "headlines": {
+      "xl": {
+        "value": "110%",
+        "type": "lineHeights"
+      },
+      "lg": {
+        "value": "110%",
+        "type": "lineHeights"
+      },
+      "default": {
+        "value": "110%",
+        "type": "lineHeights"
+      },
+      "sm": {
+        "value": "130%",
+        "type": "lineHeights"
+      }
+    },
+    "body": {
+      "relaxed": {
+        "value": "175%",
+        "type": "lineHeights"
+      },
+      "default": {
+        "value": "150%",
+        "type": "lineHeights"
+      }
+    }
+  },
+  "fontSize": {
+    "base": {
+      "value": "16",
+      "type": "scale"
+    },
+    "scale": {
+      "value": "1.2",
+      "type": "scale"
+    }
+  },
+  "letterSpacing": {
+    "body": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "headlines": {
+      "value": "-1%",
+      "type": "letterSpacing"
+    },
+    "buttons": {
+      "value": "3%",
+      "type": "letterSpacing"
+    },
+    "captions": {
+      "value": "0%",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphSpacing": {
+    "default": {
+      "value": "0",
+      "type": "paragraphSpacing"
+    }
+  }
+}
