@@ -3,7 +3,7 @@
     "global/color",
     "global/typography",
     "global/dimension",
-    "semantic",
+    "semantic/color",
     "theme/b2b",
     "theme/b2c"
   ]
