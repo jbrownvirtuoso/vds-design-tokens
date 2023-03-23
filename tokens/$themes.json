@@ -5,7 +5,8 @@
     "selectedTokenSets": {
       "theme/b2b": "enabled",
       "global/color": "enabled",
-      "semantic/color": "enabled"
+      "semantic/color": "enabled",
+      "semantic/dimensions": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -15,7 +16,8 @@
     "selectedTokenSets": {
       "theme/b2c": "enabled",
       "global/color": "enabled",
-      "semantic/color": "enabled"
+      "semantic/color": "enabled",
+      "semantic/dimensions": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.primary-accent.idle": "S:aa9eaafe2ad99c7858e2a66db78686a2d898d933,",
@@ -207,7 +209,8 @@
     "name": "None",
     "selectedTokenSets": {
       "global/color": "enabled",
-      "semantic/color": "enabled"
+      "semantic/color": "enabled",
+      "semantic/dimensions": "disabled"
     },
     "$figmaStyleReferences": {}
   }
