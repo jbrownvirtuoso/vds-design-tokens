@@ -155,7 +155,19 @@
       "type": "fontFamilies"
     },
     "Utopia": {
-      "value": "Utopia",
+      "value": "Utopia Std",
+      "type": "fontFamilies"
+    },
+    "Proxima Nova": {
+      "value": "Proxima Nova",
+      "type": "fontFamilies"
+    },
+    "Roboto": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "Roboto Slab": {
+      "value": "Roboto Slab",
       "type": "fontFamilies"
     }
   }

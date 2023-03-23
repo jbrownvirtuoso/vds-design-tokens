@@ -1,11 +1,31 @@
 [
   {
+    "id": "3a7c26324c166e6ff7c6cf5775ff0d510a0e5d93",
+    "name": "b2b",
+    "selectedTokenSets": {
+      "theme/b2b": "enabled",
+      "global/color": "source",
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled",
+      "global/typography": "source",
+      "global/dimension": "source",
+      "semantic/dimensions": "enabled",
+      "theme/b2c-v3": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "100de41353e29c4b3ab0f6a96b4f298ace2be990",
     "name": "b2c",
     "selectedTokenSets": {
       "theme/b2c": "enabled",
-      "global/color": "enabled",
-      "semantic/color": "enabled"
+      "global/color": "source",
+      "semantic/color": "enabled",
+      "global/typography": "source",
+      "global/dimension": "source",
+      "semantic/dimensions": "enabled",
+      "semantic/typography": "enabled",
+      "theme/b2c-v3": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.primary-accent.idle": "S:aa9eaafe2ad99c7858e2a66db78686a2d898d933,",
@@ -196,26 +216,27 @@
     "id": "96bee96cbecd73122589aa4e63487163e50e81c3",
     "name": "None",
     "selectedTokenSets": {
-      "global/color": "enabled",
+      "global/color": "source",
       "semantic/color": "enabled",
       "semantic/typography": "enabled",
       "semantic/dimensions": "enabled",
-      "global/dimension": "enabled",
-      "global/typography": "enabled"
+      "global/dimension": "source",
+      "global/typography": "source",
+      "theme/b2c-v3": "disabled"
     },
     "$figmaStyleReferences": {}
   },
   {
-    "id": "3a7c26324c166e6ff7c6cf5775ff0d510a0e5d93",
-    "name": "b2b",
+    "id": "002428eb6a0bcfd1a2717c6991bb821be6be5f8e",
+    "name": "b2c-v3",
     "selectedTokenSets": {
-      "theme/b2b": "enabled",
       "global/color": "source",
-      "semantic/color": "enabled",
-      "semantic/typography": "enabled",
       "global/typography": "source",
       "global/dimension": "source",
-      "semantic/dimensions": "enabled"
+      "semantic/color": "enabled",
+      "semantic/dimensions": "enabled",
+      "semantic/typography": "enabled",
+      "theme/b2c-v3": "enabled"
     },
     "$figmaStyleReferences": {}
   }

@@ -599,11 +599,11 @@
   },
   "fontFamilies": {
     "headlines": {
-      "value": "{fontFamilies.Sofia}",
+      "value": "{fontFamilies.Roboto Slab}",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "{fontFamilies.Sofia}",
+      "value": "{fontFamilies.Roboto}",
       "type": "fontFamilies"
     }
   }

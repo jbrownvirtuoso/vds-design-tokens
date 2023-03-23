@@ -7,6 +7,7 @@
     "semantic/dimensions",
     "semantic/typography",
     "theme/b2b",
-    "theme/b2c"
+    "theme/b2c",
+    "theme/b2c-v3"
   ]
 }
