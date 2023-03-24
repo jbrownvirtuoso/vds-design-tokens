@@ -126,6 +126,10 @@
       "value": "{space.base} * 4",
       "type": "sizing"
     },
+    "450": {
+      "value": "{space.base} * 4.5",
+      "type": "sizing"
+    },
     "500": {
       "value": "{space.base} * 5",
       "type": "sizing"

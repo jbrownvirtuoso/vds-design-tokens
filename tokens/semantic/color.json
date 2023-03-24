@@ -2,41 +2,41 @@
   "semantic": {
     "color": {
       "action": {
-        "primary-accent": {
+        "accent": {
           "idle": {
-            "value": "{color.blue-2.500}",
+            "value": "{color.default.blue-2.500}",
             "type": "color",
             "description": "lorem…"
           },
           "hover": {
-            "value": "{color.blue-2.600}",
+            "value": "{color.default.blue-2.600}",
             "type": "color"
           },
           "press": {
-            "value": "{color.blue-2.400}",
+            "value": "{color.default.blue-2.400}",
             "type": "color"
           },
           "focus": {
-            "value": "{color.blue-2.600}",
+            "value": "{color.default.blue-2.600}",
             "type": "color"
           }
         },
         "default": {
           "idle": {
-            "value": "{color.violet-1.500}",
+            "value": "{color.default.violet-1.500}",
             "type": "color",
             "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
           },
           "hover": {
-            "value": "{color.violet-1.600}",
+            "value": "{color.default.violet-1.600}",
             "type": "color"
           },
           "press": {
-            "value": "{color.violet-1.400}",
+            "value": "{color.default.violet-1.400}",
             "type": "color"
           },
           "focus": {
-            "value": "{color.violet-1.600}",
+            "value": "{color.default.violet-1.600}",
             "type": "color"
           }
         }
@@ -48,30 +48,30 @@
             "type": "color"
           },
           "regular": {
-            "value": "{color.neutral-inverse-1.700}",
+            "value": "{color.default.neutral-inverse-1.700}",
             "type": "color"
           },
           "subdued": {
-            "value": "{color.neutral-inverse-1.400}",
+            "value": "{color.default.neutral-inverse-1.400}",
             "type": "color"
           },
           "decorative": {
-            "value": "{color.neutral-inverse-1.100}",
+            "value": "{color.default.neutral-inverse-1.100}",
             "type": "color"
           }
         },
         "bg": {
           "surface-lightest": {
-            "value": "{color.neutral-inverse-1.100}",
+            "value": "{color.default.neutral-inverse-1.100}",
             "type": "color",
             "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
           },
           "surface-lighter": {
-            "value": "{color.neutral-inverse-1.200}",
+            "value": "{color.default.neutral-inverse-1.200}",
             "type": "color"
           },
           "surface-light": {
-            "value": "{color.neutral-inverse-1.300}",
+            "value": "{color.default.neutral-inverse-1.300}",
             "type": "color"
           },
           "canvas": {
@@ -87,15 +87,15 @@
             "type": "color"
           },
           "default": {
-            "value": "{color.neutral-1.600}",
+            "value": "{color.default.neutral-1.600}",
             "type": "color"
           },
           "subdued": {
-            "value": "{color.neutral-1.400}",
+            "value": "{color.default.neutral-1.400}",
             "type": "color"
           },
           "decorative": {
-            "value": "{color.neutral-1.100}",
+            "value": "{color.default.neutral-1.100}",
             "type": "color"
           },
           "on-accent": {
@@ -105,16 +105,16 @@
         },
         "bg": {
           "surface-lightest": {
-            "value": "{color.neutral-1.50}",
+            "value": "{color.default.neutral-1.50}",
             "type": "color",
             "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
           },
           "surface-lighter": {
-            "value": "{color.neutral-1.100}",
+            "value": "{color.default.neutral-1.100}",
             "type": "color"
           },
           "surface-light": {
-            "value": "{color.neutral-1.200}",
+            "value": "{color.default.neutral-1.200}",
             "type": "color"
           },
           "canvas": {
@@ -126,232 +126,232 @@
       "alert": {
         "Warning": {
           "emphasis": {
-            "value": "{color.yellow-1.600}",
+            "value": "{color.extended.yellow-1.600}",
             "type": "color",
             "description": "This Token can be used for foreground elements on white bgs\n\nUse a warning alert to help a user avoid an issue. If the user can take an immediate action to avoid the issue, provide a way to do that."
           },
           "regular": {
-            "value": "{color.yellow-1.500}",
+            "value": "{color.extended.yellow-1.500}",
             "type": "color",
             "description": "This Token should not be used for text or important graphic elements. It can be used as a support accent color (borders), but use should be restricted to decorative purposes.\n\nUse a warning alert to help a user avoid an issue. If the user can take an immediate action to avoid the issue, provide a way to do that."
           },
           "subdued": {
-            "value": "{color.yellow-1.400}",
+            "value": "{color.extended.yellow-1.400}",
             "type": "color",
             "description": "This Token should not be used for text or important graphic elements. It can be used as a support accent color (borders), but use should be restricted to decorative purposes.\n\nUse a warning alert to help a user avoid an issue. If the user can take an immediate action to avoid the issue, provide a way to do that."
           },
           "decorative": {
-            "value": "{color.yellow-1.100}",
+            "value": "{color.extended.yellow-1.100}",
             "type": "color",
             "description": "This Token should not be used for text or important graphic elements. It can be used as a surface/bg color in combination with neutral emphasis.\n\nUse a warning alert to help a user avoid an issue. If the user can take an immediate action to avoid the issue, provide a way to do that."
           }
         },
         "urgent": {
           "emphasis": {
-            "value": "{color.red-1.600}",
+            "value": "{color.default.red-1.600}",
             "type": "color",
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           },
           "regular": {
-            "value": "{color.red-1.500}",
+            "value": "{color.default.red-1.500}",
             "type": "color",
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           },
           "subdued": {
-            "value": "{color.red-1.300}",
+            "value": "{color.default.red-1.300}",
             "type": "color",
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           },
           "decorative": {
-            "value": "{color.red-1.200}",
+            "value": "{color.default.red-1.200}",
             "type": "color",
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           }
         },
         "success": {
           "emphasis": {
-            "value": "{color.teal-2.600}",
+            "value": "{color.default.teal-2.600}",
             "type": "color"
           },
           "regular": {
-            "value": "{color.teal-2.500}",
+            "value": "{color.default.teal-2.500}",
             "type": "color"
           },
           "subdued": {
-            "value": "{color.teal-2.200}",
+            "value": "{color.default.teal-2.200}",
             "type": "color"
           },
           "decorative": {
-            "value": "{color.teal-2.100}",
+            "value": "{color.default.teal-2.100}",
             "type": "color"
           }
         },
         "info": {
           "emphasis": {
-            "value": "{color.teal-1.600}",
+            "value": "{color.default.teal-1.600}",
             "type": "color"
           },
           "regular": {
-            "value": "{color.teal-1.500}",
+            "value": "{color.default.teal-1.500}",
             "type": "color"
           },
           "subdued": {
-            "value": "{color.teal-1.300}",
+            "value": "{color.default.teal-1.300}",
             "type": "color"
           },
           "decorative": {
-            "value": "{color.teal-1.200}",
+            "value": "{color.default.teal-1.200}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "input": {
+      "unselected": {
+        "bg": {
+          "idle": {
+            "value": "{semantic.color.neutral.bg.canvas}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.color.neutral.bg.surface-lighter}",
+            "type": "color"
+          },
+          "press": {
+            "value": "{semantic.color.neutral.bg.surface-light}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{semantic.color.neutral.bg.surface-lightest}",
+            "type": "color"
+          }
+        },
+        "fg": {
+          "idle": {
+            "value": "{semantic.color.neutral.fg.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.color.neutral.fg.default}",
+            "type": "color"
+          },
+          "press": {
+            "value": "{semantic.color.neutral.fg.default}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{semantic.color.neutral.fg.default}",
+            "type": "color"
+          }
+        },
+        "border-color": {
+          "idle": {
+            "value": "{semantic.color.neutral.fg.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.color.neutral.fg.default}",
+            "type": "color"
+          },
+          "press": {
+            "value": "{semantic.color.neutral.fg.default}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{semantic.color.neutral.fg.default}",
+            "type": "color"
+          }
+        },
+        "text-color": {
+          "idle": {
+            "value": "{semantic.color.neutral.fg.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.color.neutral.fg.emphasis}",
+            "type": "color"
+          },
+          "press": {
+            "value": "{semantic.color.neutral.fg.emphasis}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{semantic.color.neutral.fg.emphasis}",
             "type": "color"
           }
         }
       },
-      "input": {
-        "unselected": {
-          "bg": {
-            "idle": {
-              "value": "{semantic.color.neutral.bg.canvas}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.color.neutral.bg.surface-lighter}",
-              "type": "color"
-            },
-            "press": {
-              "value": "{semantic.color.neutral.bg.surface-light}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{semantic.color.neutral.bg.surface-lightest}",
-              "type": "color"
-            }
+      "selected": {
+        "bg": {
+          "idle": {
+            "value": "{semantic.color.action.default.idle}",
+            "type": "color"
           },
-          "fg": {
-            "idle": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "press": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            }
+          "hover": {
+            "value": "{semantic.color.action.default.hover}",
+            "type": "color"
           },
-          "border-color": {
-            "idle": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "press": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            }
+          "press": {
+            "value": "{semantic.color.action.default.press}",
+            "type": "color"
           },
-          "text-color": {
-            "idle": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.color.neutral.fg.emphasis}",
-              "type": "color"
-            },
-            "press": {
-              "value": "{semantic.color.neutral.fg.emphasis}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{semantic.color.neutral.fg.emphasis}",
-              "type": "color"
-            }
+          "focus": {
+            "value": "{semantic.color.action.default.focus}",
+            "type": "color"
           }
         },
-        "selected": {
-          "bg": {
-            "idle": {
-              "value": "{semantic.color.action.default.idle}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.color.action.default.hover}",
-              "type": "color"
-            },
-            "press": {
-              "value": "{semantic.color.action.default.press}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{semantic.color.action.default.focus}",
-              "type": "color"
-            }
+        "fg": {
+          "idle": {
+            "value": "{semantic.color.neutral.fg.on-accent}",
+            "type": "color"
           },
-          "fg": {
-            "idle": {
-              "value": "{semantic.color.neutral.fg.on-accent}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.color.neutral.fg.on-accent}",
-              "type": "color"
-            },
-            "press": {
-              "value": "{semantic.color.neutral.fg.on-accent}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{semantic.color.neutral.fg.on-accent}",
-              "type": "color"
-            }
+          "hover": {
+            "value": "{semantic.color.neutral.fg.on-accent}",
+            "type": "color"
           },
-          "border-color": {
-            "idle": {
-              "value": "{semantic.color.action.default.idle}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.color.action.default.hover}",
-              "type": "color"
-            },
-            "press": {
-              "value": "{semantic.color.action.default.press}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{semantic.color.action.default.focus}",
-              "type": "color"
-            }
+          "press": {
+            "value": "{semantic.color.neutral.fg.on-accent}",
+            "type": "color"
           },
-          "text-color": {
-            "idle": {
-              "value": "{semantic.color.neutral.fg.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.color.neutral.fg.emphasis}",
-              "type": "color"
-            },
-            "press": {
-              "value": "{semantic.color.neutral.fg.emphasis}",
-              "type": "color"
-            },
-            "focus": {
-              "value": "{semantic.color.neutral.fg.emphasis}",
-              "type": "color"
-            }
+          "focus": {
+            "value": "{semantic.color.neutral.fg.on-accent}",
+            "type": "color"
+          }
+        },
+        "border-color": {
+          "idle": {
+            "value": "{semantic.color.action.default.idle}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.color.action.default.hover}",
+            "type": "color"
+          },
+          "press": {
+            "value": "{semantic.color.action.default.press}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{semantic.color.action.default.focus}",
+            "type": "color"
+          }
+        },
+        "text-color": {
+          "idle": {
+            "value": "{semantic.color.neutral.fg.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.color.neutral.fg.emphasis}",
+            "type": "color"
+          },
+          "press": {
+            "value": "{semantic.color.neutral.fg.emphasis}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{semantic.color.neutral.fg.emphasis}",
+            "type": "color"
           }
         }
       }

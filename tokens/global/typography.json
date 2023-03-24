@@ -35,7 +35,7 @@
       "type": "fontWeights"
     },
     "headlines": {
-      "bold": {
+      "strong": {
         "value": "Bold",
         "type": "fontWeights"
       },
@@ -45,7 +45,7 @@
       }
     },
     "body": {
-      "bold": {
+      "strong": {
         "value": "Bold",
         "type": "fontWeights"
       },
