@@ -1,0 +1,74 @@
+{
+  "button": {
+    "disabled": {
+      "value": ".36",
+      "type": "opacity"
+    },
+    "Label": {
+      "sm": {
+        "value": "{typography.Button.Normal.Regular}",
+        "type": "typography"
+      },
+      "md": {
+        "value": "{typography.Button.Large.Regular}",
+        "type": "typography"
+      },
+      "lg": {
+        "value": "{typography.Button.XLarge.Regular}",
+        "type": "typography"
+      }
+    },
+    "spacing": {
+      "sm": {
+        "p-x": {
+          "value": "{semantic.space-around.comp.md}",
+          "type": "spacing"
+        },
+        "p-y": {
+          "value": "{semantic.space-around.comp.sm}",
+          "type": "spacing"
+        },
+        "space-around": {
+          "value": "{semantic.space-around.comp.sm}, {semantic.space-around.comp.lg}",
+          "type": "spacing"
+        },
+        "item-spacing": {
+          "value": "{semantic.space-between.comp.xs}",
+          "type": "spacing"
+        }
+      },
+      "md": {
+        "p-x": {
+          "value": "{semantic.space-around.comp.lg}",
+          "type": "spacing"
+        },
+        "p-y": {
+          "value": "{semantic.space-around.comp.md}",
+          "type": "spacing"
+        },
+        "item-spacing": {
+          "value": "{semantic.space-between.comp.md}",
+          "type": "spacing"
+        }
+      }
+    },
+    "icon-size": {
+      "sm": {
+        "value": "{semantic.size.icon.sm}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{semantic.size.icon.md}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{semantic.size.icon.reg}",
+        "type": "sizing"
+      }
+    },
+    "borderRadius": {
+      "value": "{Semantic.Comp.Border-Radius.md}",
+      "type": "borderRadius"
+    }
+  }
+}
