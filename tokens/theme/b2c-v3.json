@@ -134,5 +134,13 @@
       "value": "FreightDisp Pro",
       "type": "fontFamilies"
     }
+  },
+  "fontWeights": {
+    "body": {
+      "regular": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
+    }
   }
 }

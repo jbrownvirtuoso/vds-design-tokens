@@ -36,7 +36,7 @@
     },
     "headlines": {
       "strong": {
-        "value": "Bold",
+        "value": "{fontWeights.700}",
         "type": "fontWeights"
       },
       "regular": {
