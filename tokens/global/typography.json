@@ -51,22 +51,26 @@
       "type": "fontWeights"
     },
     "headlines": {
-      "strong": {
-        "value": "{fontWeights.700}",
+      "light": {
+        "value": "{fontWeights.300}",
         "type": "fontWeights"
       },
       "regular": {
         "value": "{fontWeights.400}",
+        "type": "fontWeights"
+      },
+      "strong": {
+        "value": "{fontWeights.700}",
         "type": "fontWeights"
       }
     },
     "body": {
-      "strong": {
-        "value": "{fontWeights.700}",
-        "type": "fontWeights"
-      },
       "regular": {
         "value": "{fontWeights.400}",
+        "type": "fontWeights"
+      },
+      "strong": {
+        "value": "{fontWeights.700}",
         "type": "fontWeights"
       }
     }
