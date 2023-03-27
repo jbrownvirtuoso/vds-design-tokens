@@ -30,8 +30,24 @@
     }
   },
   "fontWeights": {
+    "300": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "400": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "500": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "600": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    },
     "700": {
-      "value": "bold",
+      "value": "Bold",
       "type": "fontWeights"
     },
     "headlines": {
@@ -40,17 +56,17 @@
         "type": "fontWeights"
       },
       "regular": {
-        "value": "Regular",
+        "value": "{fontWeights.400}",
         "type": "fontWeights"
       }
     },
     "body": {
       "strong": {
-        "value": "Bold",
+        "value": "{fontWeights.700}",
         "type": "fontWeights"
       },
       "regular": {
-        "value": "Regular",
+        "value": "{fontWeights.400}",
         "type": "fontWeights"
       }
     }

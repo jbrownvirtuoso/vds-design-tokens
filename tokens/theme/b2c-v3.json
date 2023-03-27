@@ -138,7 +138,7 @@
   "fontWeights": {
     "body": {
       "regular": {
-        "value": "Medium",
+        "value": "{fontWeights.500}",
         "type": "fontWeights"
       }
     }
