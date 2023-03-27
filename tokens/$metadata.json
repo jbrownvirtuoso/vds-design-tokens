@@ -3,9 +3,11 @@
     "global/color",
     "global/typography",
     "global/dimension",
+    "global/radii",
     "semantic/color",
-    "semantic/dimensions",
     "semantic/typography",
+    "semantic/dimensions",
+    "comp/button",
     "theme/b2b",
     "theme/b2c",
     "theme/b2c-v3"
