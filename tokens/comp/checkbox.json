@@ -1,0 +1,30 @@
+{
+  "checkbox": {
+    "sizing": {
+      "base": {
+        "value": "{semantic.size.comp.reg}",
+        "type": "sizing"
+      },
+      "bullet": {
+        "value": "{semantic.size.comp.md}",
+        "type": "sizing"
+      }
+    },
+    "borderWidth": {
+      "default": {
+        "value": "{borderWidth.100}",
+        "type": "borderWidth"
+      },
+      "focus": {
+        "value": "{semantic.borderWidth.comp.focus}",
+        "type": "borderWidth"
+      }
+    },
+    "borderRadius": {
+      "default": {
+        "value": "{semantic.borderRadius.comp.sm}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}

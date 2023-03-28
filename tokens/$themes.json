@@ -1,5 +1,26 @@
 [
   {
+    "id": "100de41353e29c4b3ab0f6a96b4f298ace2be990",
+    "name": "b2c",
+    "selectedTokenSets": {
+      "theme/b2c": "enabled",
+      "global/color": "source",
+      "semantic/color": "enabled",
+      "global/typography": "source",
+      "global/dimension": "source",
+      "semantic/dimensions": "enabled",
+      "semantic/typography": "enabled",
+      "global/radii": "source",
+      "comp/button": "enabled",
+      "global/borders": "source",
+      "semantic/radii": "enabled",
+      "comp/toggleSwitch": "enabled",
+      "comp/checkbox": "enabled",
+      "semantic/borders": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "3a7c26324c166e6ff7c6cf5775ff0d510a0e5d93",
     "name": "b2b",
     "selectedTokenSets": {
@@ -13,7 +34,10 @@
       "global/radii": "source",
       "comp/button": "enabled",
       "global/borders": "source",
-      "semantic/radii": "enabled"
+      "semantic/radii": "enabled",
+      "comp/toggleSwitch": "enabled",
+      "semantic/borders": "enabled",
+      "comp/checkbox": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.accent.idle": "S:dc560782f7c2d426c9a08a8b3b47a3053006ca8b,",
@@ -184,24 +208,6 @@
     }
   },
   {
-    "id": "100de41353e29c4b3ab0f6a96b4f298ace2be990",
-    "name": "b2c",
-    "selectedTokenSets": {
-      "theme/b2c": "enabled",
-      "global/color": "source",
-      "semantic/color": "enabled",
-      "global/typography": "source",
-      "global/dimension": "source",
-      "semantic/dimensions": "enabled",
-      "semantic/typography": "enabled",
-      "global/radii": "source",
-      "comp/button": "enabled",
-      "global/borders": "source",
-      "semantic/radii": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "002428eb6a0bcfd1a2717c6991bb821be6be5f8e",
     "name": "b2c-v3",
     "selectedTokenSets": {
@@ -215,7 +221,10 @@
       "global/radii": "source",
       "comp/button": "enabled",
       "global/borders": "source",
-      "semantic/radii": "enabled"
+      "semantic/radii": "enabled",
+      "comp/toggleSwitch": "enabled",
+      "comp/checkbox": "enabled",
+      "semantic/borders": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -232,7 +241,10 @@
       "comp/button": "enabled",
       "global/radii": "source",
       "global/borders": "source",
-      "semantic/radii": "enabled"
+      "semantic/radii": "enabled",
+      "comp/toggleSwitch": "enabled",
+      "comp/checkbox": "enabled",
+      "semantic/borders": "enabled"
     },
     "$figmaStyleReferences": {}
   }

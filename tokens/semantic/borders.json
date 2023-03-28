@@ -1,0 +1,12 @@
+{
+  "semantic": {
+    "borderWidth": {
+      "comp": {
+        "focus": {
+          "value": "{borderWidth.200}",
+          "type": "borderWidth"
+        }
+      }
+    }
+  }
+}
