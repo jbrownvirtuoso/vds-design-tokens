@@ -1,9 +1,17 @@
 {
   "semantic": {
-    "comp": {
-      "border-radius": {
-        "value": "{radii.sm}",
-        "type": "borderRadius"
+    "borderRadius": {
+      "comp": {
+        "md": {
+          "value": "{radii.sm}",
+          "type": "borderRadius"
+        }
+      },
+      "pattern": {
+        "md": {
+          "value": "{radii.lg}",
+          "type": "borderRadius"
+        }
       }
     }
   }
