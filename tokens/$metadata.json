@@ -12,6 +12,7 @@
     "semantic/borders",
     "comp/button",
     "comp/checkbox",
+    "comp/radio",
     "comp/toggleSwitch",
     "theme/b2b",
     "theme/b2c",

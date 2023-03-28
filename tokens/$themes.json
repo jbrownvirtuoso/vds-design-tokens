@@ -16,7 +16,8 @@
       "semantic/radii": "enabled",
       "comp/toggleSwitch": "enabled",
       "comp/checkbox": "enabled",
-      "semantic/borders": "enabled"
+      "semantic/borders": "enabled",
+      "comp/radio": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -37,7 +38,8 @@
       "semantic/radii": "enabled",
       "comp/toggleSwitch": "enabled",
       "semantic/borders": "enabled",
-      "comp/checkbox": "enabled"
+      "comp/checkbox": "enabled",
+      "comp/radio": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.accent.idle": "S:dc560782f7c2d426c9a08a8b3b47a3053006ca8b,",
@@ -224,7 +226,8 @@
       "semantic/radii": "enabled",
       "comp/toggleSwitch": "enabled",
       "comp/checkbox": "enabled",
-      "semantic/borders": "enabled"
+      "semantic/borders": "enabled",
+      "comp/radio": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -244,7 +247,8 @@
       "semantic/radii": "enabled",
       "comp/toggleSwitch": "enabled",
       "comp/checkbox": "enabled",
-      "semantic/borders": "enabled"
+      "semantic/borders": "enabled",
+      "comp/radio": "disabled"
     },
     "$figmaStyleReferences": {}
   }
