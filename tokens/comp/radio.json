@@ -1,15 +1,5 @@
 {
-  "checkbox": {
-    "sizing": {
-      "base": {
-        "value": "{semantic.size.comp.reg}",
-        "type": "sizing"
-      },
-      "bullet": {
-        "value": "{semantic.size.comp.md}",
-        "type": "sizing"
-      }
-    },
+  "radio": {
     "borderWidth": {
       "default": {
         "value": "{borderWidth.100}",
@@ -22,8 +12,34 @@
     },
     "borderRadius": {
       "default": {
-        "value": "{semantic.borderRadius.comp.sm}",
+        "value": "{semantic.borderRadius.comp.max}",
         "type": "borderRadius"
+      }
+    },
+    "sizing": {
+      "base": {
+        "default": {
+          "value": "{semantic.size.comp.reg}",
+          "type": "sizing"
+        }
+      },
+      "bullet": {
+        "idle": {
+          "value": "8",
+          "type": "sizing"
+        },
+        "Hover": {
+          "value": "10",
+          "type": "sizing"
+        },
+        "press": {
+          "value": "6",
+          "type": "sizing"
+        },
+        "focus": {
+          "value": "8",
+          "type": "sizing"
+        }
       }
     }
   }
