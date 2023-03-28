@@ -29,7 +29,7 @@
           "type": "sizing"
         },
         "Hover": {
-          "value": "10",
+          "value": "{semantic.size.comp.xs}",
           "type": "sizing"
         },
         "press": {
@@ -39,6 +39,14 @@
         "focus": {
           "value": "8",
           "type": "sizing"
+        }
+      }
+    },
+    "color": {
+      "bullet": {
+        "border-color": {
+          "value": "{color.default.gradient.neutral.0-deg-↑}",
+          "type": "color"
         }
       }
     }
