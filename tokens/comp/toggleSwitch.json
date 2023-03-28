@@ -1,0 +1,182 @@
+{
+  "Toggle": {
+    "Border-Radius": {
+      "Track": {
+        "value": "{Border.Radius_Max}",
+        "type": "borderRadius"
+      },
+      "Handle": {
+        "value": "{Border.Radius_Max}",
+        "type": "borderRadius"
+      }
+    },
+    "Border-Width": {
+      "Default": {
+        "value": "{Semantic.Comp.Border-Width.Default}",
+        "type": "borderWidth"
+      },
+      "Focus": {
+        "value": "{Semantic.Comp.Border-Width.Focus}",
+        "type": "borderWidth"
+      }
+    },
+    "Unselected": {
+      "Idle": {
+        "Bg": {
+          "value": "{Semantic.Color.Input.Unselected.Idle.Bg}",
+          "type": "color"
+        },
+        "Fg": {
+          "value": "{Semantic.Color.Input.Unselected.Idle.Fg}",
+          "type": "color"
+        },
+        "BorderColor": {
+          "value": "{Semantic.Color.Input.Unselected.Idle.BorderColor}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Bg": {
+          "value": "{Semantic.Color.Input.Unselected.Hover.Bg}",
+          "type": "color"
+        },
+        "Fg": {
+          "value": "{Semantic.Color.Input.Unselected.Hover.Fg}",
+          "type": "color"
+        },
+        "BorderColor": {
+          "value": "{Semantic.Color.Input.Unselected.Hover.BorderColor}",
+          "type": "color"
+        }
+      },
+      "Press": {
+        "Bg": {
+          "value": "{Semantic.Color.Neutral.Bg.Surface-300}",
+          "type": "color"
+        },
+        "Fg": {
+          "value": "{Semantic.Color.Input.Unselected.Hover.Fg}",
+          "type": "color"
+        },
+        "BorderColor": {
+          "value": "{Semantic.Color.Neutral.Fg.Emphasis}",
+          "type": "color"
+        }
+      }
+    },
+    "Selected": {
+      "Idle": {
+        "Bg": {
+          "value": "{Semantic.Color.Action.Default.Idle}",
+          "type": "color"
+        },
+        "Fg": {
+          "value": "{Semantic.Color.Neutral_Inverse.Fg.Emphasis}",
+          "type": "color"
+        },
+        "BorderColor": {
+          "value": "{Semantic.Color.Action.Default.Idle}",
+          "type": "color"
+        },
+        "Util-BorderColor": {
+          "value": "{Foundation.Gradient.Neutral.0-deg-↑}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Bg": {
+          "value": "{Semantic.Color.Action.Default.Hover}",
+          "type": "color"
+        },
+        "Fg": {
+          "value": "{Semantic.Color.Neutral_Inverse.Fg.Emphasis}",
+          "type": "color"
+        },
+        "BorderColor": {
+          "value": "{Semantic.Color.Action.Default.Hover}",
+          "type": "color"
+        },
+        "Util-BorderColor": {
+          "value": "{Foundation.Gradient.Neutral.0-deg-↑}",
+          "type": "color"
+        }
+      },
+      "Press": {
+        "Bg": {
+          "value": "{Semantic.Color.Action.Default.Press}",
+          "type": "color"
+        },
+        "Fg": {
+          "value": "{Semantic.Color.Neutral_Inverse.Fg.Emphasis}",
+          "type": "color"
+        },
+        "BorderColor": {
+          "value": "{Semantic.Color.Action.Default.Press}",
+          "type": "color"
+        },
+        "Util-BorderColor": {
+          "value": "{Foundation.Gradient.Neutral.0-deg-↑}",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Bg": {
+          "value": "{Semantic.Color.Action.Default.Focus}",
+          "type": "color"
+        },
+        "Fg": {
+          "value": "{Semantic.Color.Neutral_Inverse.Fg.Emphasis}",
+          "type": "color"
+        },
+        "BorderColor": {
+          "value": "{Semantic.Color.Action.Default.Focus}",
+          "type": "color"
+        },
+        "Focus-BorderColor": {
+          "value": "{Semantic.Color.Neutral.Fg.Emphasis}",
+          "type": "color"
+        },
+        "Util-BorderColor": {
+          "value": "{Foundation.Gradient.Neutral.0-deg-↑}",
+          "type": "color"
+        }
+      }
+    },
+    "Disabled": {
+      "value": "{Semantic.Comp.Disabled}",
+      "type": "opacity"
+    }
+  },
+  "toggle": {
+    "sizing": {
+      "track": {
+        "height": {
+          "value": "{semantic.size.comp.reg}",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "{semantic.size.comp.xl}",
+          "type": "sizing"
+        }
+      },
+      "handle": {
+        "height": {
+          "value": "{semantic.size.comp.xs}",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "{semantic.size.comp.xs}",
+          "type": "sizing"
+        }
+      }
+    },
+    "spacing": {
+      "unselected": {
+        "space-around": {
+          "value": "{semantic.space-around.comp.xs}, {semantic.space-around.comp.xl}, {semantic.space-around.comp.xs},{semantic.space-around.comp.xs}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}
