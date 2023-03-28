@@ -10,6 +10,7 @@
     "semantic/dimensions",
     "semantic/radii",
     "comp/button",
+    "comp/toggleSwitch",
     "theme/b2b",
     "theme/b2c",
     "theme/b2c-v3"

@@ -5,6 +5,10 @@
         "md": {
           "value": "{radii.sm}",
           "type": "borderRadius"
+        },
+        "max": {
+          "value": "{radii.rounded}",
+          "type": "borderRadius"
         }
       },
       "pattern": {

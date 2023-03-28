@@ -70,6 +70,10 @@
     },
     "space-around": {
       "comp": {
+        "xs": {
+          "value": "{space.50}",
+          "type": "spacing"
+        },
         "sm": {
           "value": "{space.100}",
           "type": "spacing"
@@ -87,7 +91,7 @@
           "type": "spacing"
         },
         "xl": {
-          "value": "{space.400}",
+          "value": "{space.300}",
           "type": "spacing"
         }
       },
@@ -130,6 +134,14 @@
     },
     "size": {
       "comp": {
+        "xs": {
+          "value": "{size.150}",
+          "type": "sizing"
+        },
+        "xxs": {
+          "value": "{size.100}",
+          "type": "sizing"
+        },
         "sm": {
           "value": "{size.200}",
           "type": "sizing"
@@ -142,8 +154,8 @@
           "value": "{size.300}",
           "type": "sizing"
         },
-        "lg": {
-          "value": "{size.450}",
+        "xl": {
+          "value": "{size.500}",
           "type": "sizing"
         }
       },
