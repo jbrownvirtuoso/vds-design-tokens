@@ -65,7 +65,7 @@
       }
     },
     "borderRadius": {
-      "value": "{semantic.comp.border-radius}",
+      "value": "{semantic.borderRadius.comp.md}",
       "type": "borderRadius"
     },
     "color": {
