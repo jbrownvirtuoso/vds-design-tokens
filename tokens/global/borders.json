@@ -1,0 +1,20 @@
+{
+  "borderWidth": {
+    "100": {
+      "value": "1",
+      "type": "borderWidth"
+    },
+    "200": {
+      "value": "2",
+      "type": "borderWidth"
+    },
+    "400": {
+      "value": "4",
+      "type": "borderWidth"
+    },
+    "none": {
+      "value": "0",
+      "type": "borderWidth"
+    }
+  }
+}

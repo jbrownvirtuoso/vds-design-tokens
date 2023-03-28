@@ -1,5 +1,23 @@
 [
   {
+    "id": "3a7c26324c166e6ff7c6cf5775ff0d510a0e5d93",
+    "name": "b2b",
+    "selectedTokenSets": {
+      "theme/b2b": "enabled",
+      "global/color": "source",
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled",
+      "global/typography": "source",
+      "global/dimension": "source",
+      "semantic/dimensions": "enabled",
+      "global/radii": "source",
+      "comp/button": "enabled",
+      "global/borders": "source",
+      "semantic/radii": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "100de41353e29c4b3ab0f6a96b4f298ace2be990",
     "name": "b2c",
     "selectedTokenSets": {
@@ -11,7 +29,9 @@
       "semantic/dimensions": "enabled",
       "semantic/typography": "enabled",
       "global/radii": "source",
-      "comp/button": "enabled"
+      "comp/button": "enabled",
+      "global/borders": "source",
+      "semantic/radii": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.primary-accent.idle": "S:aa9eaafe2ad99c7858e2a66db78686a2d898d933,",
@@ -210,23 +230,9 @@
       "semantic/typography": "enabled",
       "theme/b2c-v3": "enabled",
       "global/radii": "source",
-      "comp/button": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "3a7c26324c166e6ff7c6cf5775ff0d510a0e5d93",
-    "name": "b2b",
-    "selectedTokenSets": {
-      "theme/b2b": "enabled",
-      "global/color": "source",
-      "semantic/color": "enabled",
-      "semantic/typography": "enabled",
-      "global/typography": "source",
-      "global/dimension": "source",
-      "semantic/dimensions": "enabled",
-      "global/radii": "source",
-      "comp/button": "enabled"
+      "comp/button": "enabled",
+      "global/borders": "source",
+      "semantic/radii": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -241,7 +247,9 @@
       "global/dimension": "source",
       "global/typography": "source",
       "comp/button": "enabled",
-      "global/radii": "source"
+      "global/radii": "source",
+      "global/borders": "source",
+      "semantic/radii": "enabled"
     },
     "$figmaStyleReferences": {}
   }
