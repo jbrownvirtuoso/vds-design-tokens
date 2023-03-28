@@ -1,5 +1,27 @@
 [
   {
+    "id": "002428eb6a0bcfd1a2717c6991bb821be6be5f8e",
+    "name": "b2c-v3",
+    "selectedTokenSets": {
+      "global/color": "source",
+      "global/typography": "source",
+      "global/dimension": "source",
+      "semantic/color": "enabled",
+      "semantic/dimensions": "enabled",
+      "semantic/typography": "enabled",
+      "theme/b2c-v3": "enabled",
+      "global/radii": "source",
+      "comp/button": "enabled",
+      "global/borders": "source",
+      "semantic/radii": "enabled",
+      "comp/toggleSwitch": "enabled",
+      "comp/checkbox": "enabled",
+      "semantic/borders": "enabled",
+      "comp/radio": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "100de41353e29c4b3ab0f6a96b4f298ace2be990",
     "name": "b2c",
     "selectedTokenSets": {
@@ -17,7 +39,28 @@
       "comp/toggleSwitch": "enabled",
       "comp/checkbox": "enabled",
       "semantic/borders": "enabled",
-      "comp/radio": "disabled"
+      "comp/radio": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "96bee96cbecd73122589aa4e63487163e50e81c3",
+    "name": "None",
+    "selectedTokenSets": {
+      "global/color": "source",
+      "semantic/color": "enabled",
+      "semantic/typography": "enabled",
+      "semantic/dimensions": "enabled",
+      "global/dimension": "source",
+      "global/typography": "source",
+      "comp/button": "enabled",
+      "global/radii": "source",
+      "global/borders": "source",
+      "semantic/radii": "enabled",
+      "comp/toggleSwitch": "enabled",
+      "comp/checkbox": "enabled",
+      "semantic/borders": "enabled",
+      "comp/radio": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -39,7 +82,7 @@
       "comp/toggleSwitch": "enabled",
       "semantic/borders": "enabled",
       "comp/checkbox": "enabled",
-      "comp/radio": "disabled"
+      "comp/radio": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.accent.idle": "S:dc560782f7c2d426c9a08a8b3b47a3053006ca8b,",
@@ -208,48 +251,5 @@
       "semantic.typography.input.large.regular": "S:cdc1d6bb3e0da068d7a39cb370ebe7d382786aef,",
       "semantic.typography.input.large.strong": "S:c393888afd4f5384b54a1811930189ac18580b4c,"
     }
-  },
-  {
-    "id": "002428eb6a0bcfd1a2717c6991bb821be6be5f8e",
-    "name": "b2c-v3",
-    "selectedTokenSets": {
-      "global/color": "source",
-      "global/typography": "source",
-      "global/dimension": "source",
-      "semantic/color": "enabled",
-      "semantic/dimensions": "enabled",
-      "semantic/typography": "enabled",
-      "theme/b2c-v3": "enabled",
-      "global/radii": "source",
-      "comp/button": "enabled",
-      "global/borders": "source",
-      "semantic/radii": "enabled",
-      "comp/toggleSwitch": "enabled",
-      "comp/checkbox": "enabled",
-      "semantic/borders": "enabled",
-      "comp/radio": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "96bee96cbecd73122589aa4e63487163e50e81c3",
-    "name": "None",
-    "selectedTokenSets": {
-      "global/color": "source",
-      "semantic/color": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/dimensions": "enabled",
-      "global/dimension": "source",
-      "global/typography": "source",
-      "comp/button": "enabled",
-      "global/radii": "source",
-      "global/borders": "source",
-      "semantic/radii": "enabled",
-      "comp/toggleSwitch": "enabled",
-      "comp/checkbox": "enabled",
-      "semantic/borders": "enabled",
-      "comp/radio": "disabled"
-    },
-    "$figmaStyleReferences": {}
   }
 ]
