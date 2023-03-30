@@ -6,7 +6,7 @@
           "idle": {
             "value": "{color.extended.blue-4.600}",
             "type": "color",
-            "description": "Primary accent action color is used to indicate the primary action or goal of  a page or start of an important process. "
+            "description": "Idle or resting state of primary accent color"
           },
           "hover": {
             "value": "{color.extended.blue-4.500}",
@@ -25,7 +25,7 @@
           "idle": {
             "value": "{color.extended.blue-4.600}",
             "type": "color",
-            "description": "Use to help user easily identify clickable (interactive) elements"
+            "description": "Idle or resting state of default action color"
           },
           "hover": {
             "value": "{color.extended.blue-4.500}",
@@ -85,7 +85,7 @@
           "emphasis": {
             "value": "{color.key.black}",
             "type": "color",
-            "description": "A neutral emphasis color is a color is used to draw attention to specific elements or information in a design without overpowering the overall color scheme."
+            "description": "A neutral emphasis color is used to draw attention to specific elements or information in a design without overpowering the overall color scheme."
           },
           "default": {
             "value": "{color.default.neutral-1.700}",

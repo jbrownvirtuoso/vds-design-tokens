@@ -6,7 +6,7 @@
           "idle": {
             "value": "{color.default.red-1.500}",
             "type": "color",
-            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
+            "description": "Idle or resting state of primary accent color"
           },
           "hover": {
             "value": "{color.default.red-1.600}",
@@ -25,7 +25,7 @@
           "idle": {
             "value": "{color.default.teal-1.500}",
             "type": "color",
-            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
+            "description": "Idle or resting state of default action color"
           },
           "hover": {
             "value": "{color.default.teal-1.600}",
