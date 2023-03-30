@@ -2,7 +2,7 @@
   "semantic": {
     "color": {
       "action": {
-        "accent": {
+        "primaryAccent": {
           "idle": {
             "value": "{color.default.red-1.500}",
             "type": "color",
@@ -24,7 +24,7 @@
             "description": "Focus state of primary accent color"
           }
         },
-        "default": {
+        "defaultAccent": {
           "idle": {
             "value": "{color.default.teal-1.500}",
             "type": "color",

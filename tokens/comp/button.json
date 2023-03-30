@@ -72,19 +72,19 @@
       "accentButton": {
         "bg": {
           "idle": {
-            "value": "{semantic.color.action.accent.idle}",
+            "value": "{semantic.color.action.primaryAccent.idle}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.action.accent.hover}",
+            "value": "{semantic.color.action.primaryAccent.hover}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.action.accent.press}",
+            "value": "{semantic.color.action.primaryAccent.press}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.action.accent.focus}",
+            "value": "{semantic.color.action.primaryAccent.focus}",
             "type": "color"
           }
         },
