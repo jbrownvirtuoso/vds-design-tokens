@@ -64,7 +64,7 @@
           "surface-lightest": {
             "value": "{color.default.neutral-inverse-1.100}",
             "type": "color",
-            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
+            "description": "Lorem…"
           },
           "surface-lighter": {
             "value": "{color.default.neutral-inverse-1.200}",
@@ -107,7 +107,7 @@
           "surface-lightest": {
             "value": "{color.default.neutral-1.50}",
             "type": "color",
-            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
+            "description": "Lorem…"
           },
           "surface-lighter": {
             "value": "{color.default.neutral-1.200}",
