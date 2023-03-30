@@ -51,6 +51,10 @@
       "value": "Sofia Pro",
       "type": "fontFamilies"
     },
+    "buttons": {
+      "value": "Sofia Pro",
+      "type": "fontFamilies"
+    },
     "body": {
       "value": "FreightDisp Pro",
       "type": "fontFamilies"
