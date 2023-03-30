@@ -1,0 +1,54 @@
+{
+  "radio": {
+    "borderWidth": {
+      "default": {
+        "value": "{borderWidth.100}",
+        "type": "borderWidth"
+      },
+      "focus": {
+        "value": "{semantic.borderWidth.comp.focus}",
+        "type": "borderWidth"
+      }
+    },
+    "borderRadius": {
+      "default": {
+        "value": "{semantic.borderRadius.comp.max}",
+        "type": "borderRadius"
+      }
+    },
+    "sizing": {
+      "base": {
+        "default": {
+          "value": "{semantic.size.comp.reg}",
+          "type": "sizing"
+        }
+      },
+      "bullet": {
+        "idle": {
+          "value": "{semantic.size.comp.xxs}",
+          "type": "sizing"
+        },
+        "Hover": {
+          "value": "{semantic.size.comp.xs}",
+          "type": "sizing"
+        },
+        "press": {
+          "value": "{semantic.size.comp.xxs}",
+          "type": "sizing"
+        },
+        "focus": {
+          "value": "8",
+          "type": "sizing"
+        }
+      }
+    },
+    "color": {
+      "bullet": {
+        "border-color": {
+          "value": "{color.default.gradient.neutral.0-deg-↑}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

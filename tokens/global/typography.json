@@ -165,7 +165,7 @@
   },
   "paragraphSpacing": {
     "default": {
-      "value": "0",
+      "value": "{fontSize.scale}+{fontSize.base}",
       "type": "paragraphSpacing"
     }
   },

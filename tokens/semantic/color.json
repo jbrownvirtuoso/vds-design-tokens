@@ -6,7 +6,7 @@
           "idle": {
             "value": "{color.default.blue-2.500}",
             "type": "color",
-            "description": "lorem…"
+            "description": "Primary accent action color is used to indicate the primary action or goal of  a page or start of an important process. "
           },
           "hover": {
             "value": "{color.default.blue-2.600}",
@@ -48,7 +48,7 @@
             "type": "color"
           },
           "regular": {
-            "value": "{color.default.neutral-inverse-1.700}",
+            "value": "{color.default.neutral-inverse-1.600}",
             "type": "color"
           },
           "subdued": {
@@ -64,7 +64,7 @@
           "surface-lightest": {
             "value": "{color.default.neutral-inverse-1.100}",
             "type": "color",
-            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
+            "description": "Lorem…"
           },
           "surface-lighter": {
             "value": "{color.default.neutral-inverse-1.200}",
@@ -84,18 +84,20 @@
         "fg": {
           "emphasis": {
             "value": "{color.key.black}",
-            "type": "color"
+            "type": "color",
+            "description": "A neutral emphasis color is a color is used to draw attention to specific elements or information in a design without overpowering the overall color scheme."
           },
           "default": {
             "value": "{color.default.neutral-1.600}",
-            "type": "color"
+            "type": "color",
+            "description": "A neutral default foreground color is used as the default for text and other design elements in a design."
           },
           "subdued": {
             "value": "{color.default.neutral-1.400}",
             "type": "color"
           },
           "decorative": {
-            "value": "{color.default.neutral-1.100}",
+            "value": "{color.default.neutral-1.200}",
             "type": "color"
           },
           "on-accent": {
@@ -107,7 +109,7 @@
           "surface-lightest": {
             "value": "{color.default.neutral-1.50}",
             "type": "color",
-            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
+            "description": "Lorem…"
           },
           "surface-lighter": {
             "value": "{color.default.neutral-1.100}",
