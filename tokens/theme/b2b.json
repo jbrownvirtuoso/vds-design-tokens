@@ -108,7 +108,7 @@
         },
         "bg": {
           "surface-lightest": {
-            "value": "{color.default.neutral-1.50}",
+            "value": "{color.default.neutral-1.100}",
             "type": "color",
             "description": "Lorem…"
           },
