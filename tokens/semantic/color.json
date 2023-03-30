@@ -48,7 +48,7 @@
             "type": "color"
           },
           "regular": {
-            "value": "{color.default.neutral-inverse-1.700}",
+            "value": "{color.default.neutral-inverse-1.600}",
             "type": "color"
           },
           "subdued": {
@@ -89,7 +89,8 @@
           },
           "default": {
             "value": "{color.default.neutral-1.600}",
-            "type": "color"
+            "type": "color",
+            "description": "A neutral default foreground color is used as the default for text and other design elements in a design."
           },
           "subdued": {
             "value": "{color.default.neutral-1.400}",
