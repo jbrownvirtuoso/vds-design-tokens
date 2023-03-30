@@ -6,19 +6,22 @@
           "idle": {
             "value": "{color.default.red-1.500}",
             "type": "color",
-            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
+            "description": "Idle or resting state of primary accent color"
           },
           "hover": {
             "value": "{color.default.red-1.600}",
-            "type": "color"
+            "type": "color",
+            "description": "Hover state of primary accent color"
           },
           "press": {
             "value": "{color.default.red-1.400}",
-            "type": "color"
+            "type": "color",
+            "description": "Press state of primary accent color"
           },
           "focus": {
             "value": "{color.default.red-1.600}",
-            "type": "color"
+            "type": "color",
+            "description": "Focus state of primary accent color"
           }
         },
         "default": {
@@ -37,88 +40,6 @@
           },
           "focus": {
             "value": "{color.default.teal-1.400}",
-            "type": "color"
-          }
-        }
-      },
-      "neutral-inverse": {
-        "fg": {
-          "emphasis": {
-            "value": "{color.key.white}",
-            "type": "color"
-          },
-          "regular": {
-            "value": "{color.default.neutral-inverse-1.700}",
-            "type": "color"
-          },
-          "subdued": {
-            "value": "{color.default.neutral-inverse-1.400}",
-            "type": "color"
-          },
-          "decorative": {
-            "value": "{color.default.neutral-inverse-1.100}",
-            "type": "color"
-          }
-        },
-        "bg": {
-          "surface-lightest": {
-            "value": "{color.default.neutral-inverse-1.100}",
-            "type": "color",
-            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
-          },
-          "surface-lighter": {
-            "value": "{color.default.neutral-inverse-1.200}",
-            "type": "color"
-          },
-          "surface-light": {
-            "value": "{color.default.neutral-inverse-1.300}",
-            "type": "color"
-          },
-          "canvase": {
-            "value": "{color.key.black}",
-            "type": "color"
-          }
-        }
-      },
-      "neutral": {
-        "fg": {
-          "emphasis": {
-            "value": "{color.key.black}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{color.default.neutral-1.600}",
-            "type": "color"
-          },
-          "subdued": {
-            "value": "{color.default.neutral-1.400}",
-            "type": "color"
-          },
-          "decorative": {
-            "value": "{color.default.neutral-1.100}",
-            "type": "color"
-          },
-          "on-accent": {
-            "value": "{color.key.white}",
-            "type": "color"
-          }
-        },
-        "bg": {
-          "surface-lightest": {
-            "value": "{color.default.neutral-1.50}",
-            "type": "color",
-            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
-          },
-          "surface-lighter": {
-            "value": "{color.default.neutral-1.100}",
-            "type": "color"
-          },
-          "surface-light": {
-            "value": "{color.default.neutral-1.200}",
-            "type": "color"
-          },
-          "canvase": {
-            "value": "{color.key.white}",
             "type": "color"
           }
         }

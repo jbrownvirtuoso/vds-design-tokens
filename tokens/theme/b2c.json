@@ -41,45 +41,6 @@
           }
         }
       },
-      "neutral-inverse": {
-        "fg": {
-          "emphasis": {
-            "value": "{color.key.white}",
-            "type": "color"
-          },
-          "regular": {
-            "value": "{color.default.neutral-inverse-1.700}",
-            "type": "color"
-          },
-          "subdued": {
-            "value": "{color.default.neutral-inverse-1.400}",
-            "type": "color"
-          },
-          "decorative": {
-            "value": "{color.default.neutral-inverse-1.100}",
-            "type": "color"
-          }
-        },
-        "bg": {
-          "surface-lightest": {
-            "value": "{color.default.neutral-inverse-1.100}",
-            "type": "color",
-            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
-          },
-          "surface-lighter": {
-            "value": "{color.default.neutral-inverse-1.200}",
-            "type": "color"
-          },
-          "surface-light": {
-            "value": "{color.default.neutral-inverse-1.300}",
-            "type": "color"
-          },
-          "canvase": {
-            "value": "{color.key.black}",
-            "type": "color"
-          }
-        }
-      },
       "neutral": {
         "fg": {
           "emphasis": {
