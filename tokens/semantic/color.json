@@ -25,7 +25,7 @@
           "idle": {
             "value": "{color.default.violet-1.500}",
             "type": "color",
-            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
+            "description": "Use to help user easily identify clickable (interactive) elements"
           },
           "hover": {
             "value": "{color.default.violet-1.600}",
