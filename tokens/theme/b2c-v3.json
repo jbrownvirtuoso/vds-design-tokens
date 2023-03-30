@@ -61,11 +61,6 @@
       "regular": {
         "value": "{fontWeights.500}",
         "type": "fontWeights"
-      },
-      "regular-copy": {
-        "value": "{fontWeights.500}",
-        "type": "fontWeights",
-        "description": "test"
       }
     }
   }
