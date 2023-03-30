@@ -40,6 +40,50 @@
             "type": "color"
           }
         }
+      },
+      "neutral": {
+        "fg": {
+          "emphasis": {
+            "value": "{color.key.black}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.default.neutral-1.600}",
+            "type": "color"
+          },
+          "subdued": {
+            "value": "{color.default.neutral-1.400}",
+            "type": "color"
+          },
+          "decorative": {
+            "value": "{color.default.neutral-1.100}",
+            "type": "color",
+            "description": "Neutral decorative color can create a calming and elegant aesthetic, while still allowing for important design elements to stand out. Can be used for 'faint' borders and subtle dividers, or rules"
+          },
+          "on-accent": {
+            "value": "{color.key.white}",
+            "type": "color"
+          }
+        },
+        "bg": {
+          "surface-lightest": {
+            "value": "{color.default.neutral-1.50}",
+            "type": "color",
+            "description": "This color is used for interaction elements that are considered the next best action. Can be used as a bg with inverse text, or as text on a light bg."
+          },
+          "surface-lighter": {
+            "value": "{color.default.neutral-1.100}",
+            "type": "color"
+          },
+          "surface-light": {
+            "value": "{color.default.neutral-1.200}",
+            "type": "color"
+          },
+          "canvase": {
+            "value": "{color.key.white}",
+            "type": "color"
+          }
+        }
       }
     }
   },

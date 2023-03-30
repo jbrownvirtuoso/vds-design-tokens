@@ -2,6 +2,10 @@
   "semantic": {
     "borderRadius": {
       "comp": {
+        "none": {
+          "value": "0",
+          "type": "borderRadius"
+        },
         "sm": {
           "value": "{radii.xs}",
           "type": "borderRadius"

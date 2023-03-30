@@ -108,7 +108,7 @@
         },
         "bg": {
           "surface-lightest": {
-            "value": "{color.default.neutral-1.100}",
+            "value": "{color.default.neutral-1.50}",
             "type": "color",
             "description": "Lorem…"
           },
@@ -260,6 +260,12 @@
     "body": {
       "value": "{fontFamilies.Proxima Nova}",
       "type": "fontFamilies"
+    }
+  },
+  "button": {
+    "borderRadius": {
+      "value": "{semantic.borderRadius.comp.md}",
+      "type": "borderRadius"
     }
   }
 }
