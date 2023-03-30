@@ -103,7 +103,8 @@
           },
           "on-accent": {
             "value": "{color.key.white}",
-            "type": "color"
+            "type": "color",
+            "description": "Use this color for foreground elements atop an accent color."
           }
         },
         "bg": {
@@ -127,7 +128,7 @@
         }
       },
       "alert": {
-        "Warning": {
+        "warning": {
           "emphasis": {
             "value": "{color.extended.yellow-1.600}",
             "type": "color",
@@ -166,7 +167,7 @@
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           },
           "decorative": {
-            "value": "{color.default.red-1.200}",
+            "value": "{color.default.red-1.100}",
             "type": "color",
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           }

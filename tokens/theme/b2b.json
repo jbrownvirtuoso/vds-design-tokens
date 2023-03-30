@@ -127,7 +127,7 @@
         }
       },
       "alert": {
-        "Warning": {
+        "warning": {
           "emphasis": {
             "value": "{color.extended.yellow-1.800}",
             "type": "color",
