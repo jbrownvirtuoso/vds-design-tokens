@@ -503,7 +503,7 @@
         "normal": {
           "regular": {
             "value": {
-              "fontFamily": "{fontFamilies.body}",
+              "fontFamily": "{fontFamilies.buttons}",
               "fontWeight": "{fontWeights.body.regular}",
               "lineHeight": "{lineHeights.body.default}",
               "fontSize": "{fontSize.sm}",
@@ -516,7 +516,7 @@
           },
           "strong": {
             "value": {
-              "fontFamily": "{fontFamilies.body}",
+              "fontFamily": "{fontFamilies.buttons}",
               "fontWeight": "{fontWeights.body.strong}",
               "lineHeight": "{lineHeights.body.default}",
               "fontSize": "{fontSize.sm}",
@@ -531,7 +531,7 @@
         "large": {
           "regular": {
             "value": {
-              "fontFamily": "{fontFamilies.body}",
+              "fontFamily": "{fontFamilies.buttons}",
               "fontWeight": "{fontWeights.body.regular}",
               "lineHeight": "{lineHeights.body.default}",
               "fontSize": "{fontSize.md}",
@@ -544,7 +544,7 @@
           },
           "strong": {
             "value": {
-              "fontFamily": "{fontFamilies.body}",
+              "fontFamily": "{fontFamilies.buttons}",
               "fontWeight": "{fontWeights.body.strong}",
               "lineHeight": "{lineHeights.body.default}",
               "fontSize": "{fontSize.md}",
@@ -559,7 +559,7 @@
         "xLarge": {
           "regular": {
             "value": {
-              "fontFamily": "{fontFamilies.body}",
+              "fontFamily": "{fontFamilies.buttons}",
               "fontWeight": "{fontWeights.body.regular}",
               "lineHeight": "{lineHeights.body.default}",
               "fontSize": "{fontSize.xl}",
@@ -572,7 +572,7 @@
           },
           "strong": {
             "value": {
-              "fontFamily": "{fontFamilies.body}",
+              "fontFamily": "{fontFamilies.buttons}",
               "fontWeight": "{fontWeights.body.strong}",
               "lineHeight": "{lineHeights.body.default}",
               "fontSize": "{fontSize.xl}",
@@ -680,6 +680,10 @@
   "fontFamilies": {
     "headlines": {
       "value": "{fontFamilies.Roboto Slab}",
+      "type": "fontFamilies"
+    },
+    "buttons": {
+      "value": "{fontFamilies.Roboto}",
       "type": "fontFamilies"
     },
     "body": {
