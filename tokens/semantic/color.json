@@ -170,7 +170,7 @@
         },
         "success": {
           "emphasis": {
-            "value": "{color.default.teal-2.600}",
+            "value": "{color.default.teal-2.800}",
             "type": "color"
           },
           "regular": {
