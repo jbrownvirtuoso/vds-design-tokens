@@ -200,7 +200,7 @@
             "type": "color"
           },
           "decorative": {
-            "value": "{color.default.teal-1.200}",
+            "value": "{color.default.teal-1.50}",
             "type": "color"
           }
         }
