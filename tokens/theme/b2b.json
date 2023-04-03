@@ -112,12 +112,8 @@
             "type": "color",
             "description": "Lorem…"
           },
-          "surface-lighter": {
-            "value": "{color.default.neutral-1.200}",
-            "type": "color"
-          },
           "surface-light": {
-            "value": "{color.default.neutral-1.300}",
+            "value": "{color.default.neutral-1.200}",
             "type": "color"
           },
           "canvase": {
