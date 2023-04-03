@@ -595,248 +595,106 @@
     "extended": {
       "blue-4": {
         "50": {
-          "value": "{color.key.accent.blue-4}",
+          "value": "#ebf8fb",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.92",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "lighten $keyColor 0.92, colorSpace:srgb"
         },
         "100": {
-          "value": "{color.key.accent.blue-4}",
+          "value": "#d6f0f7",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.84",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "lighten $keyColor 0.84, colorSpace:srgb"
         },
         "200": {
-          "value": "{color.key.accent.blue-4}",
+          "value": "#b8e5f1",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.72",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "lighten $keyColor 0.72, colorSpace:srgb"
         },
         "300": {
-          "value": "{color.key.accent.blue-4}",
+          "value": "#99daeb",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.60",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "lighten $keyColor 0.60, colorSpace:srgb"
         },
         "400": {
-          "value": "{color.key.accent.blue-4}",
+          "value": "#5cc4df",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.36",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "lighten $keyColor 0.36, colorSpace:srgb"
         },
         "500": {
-          "value": "{color.key.accent.blue-4}",
-          "type": "color"
+          "value": "#00A3CD",
+          "type": "color",
+          "description": "keyColor"
         },
         "600": {
-          "value": "{color.key.accent.blue-4}",
+          "value": "#0090b4",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.12",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "darken $keyColor .12, colorSpace:srgb"
         },
         "700": {
-          "value": "{color.key.accent.blue-4}",
+          "value": "#007594",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.28",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "darken $keyColor .28, colorSpace:srgb"
         },
         "800": {
-          "value": "{color.key.accent.blue-4}",
+          "value": "#00627b",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.40",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "darken $keyColor .40, colorSpace:srgb"
         },
         "900": {
-          "value": "{color.key.accent.blue-4}",
+          "value": "#004e62",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.52",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "darken $keyColor .52, colorSpace:srgb"
         }
       },
       "yellow-1": {
         "50": {
-          "value": "{color.key.accent.yellow-1}",
+          "value": "#fff8eb",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.92",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "lighten $keyColor 0.92, colorSpace:srgb"
         },
         "100": {
-          "value": "{color.key.accent.yellow-1}",
+          "value": "#fff1d8",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.84",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "lighten $keyColor 0.84, colorSpace:srgb"
         },
         "200": {
-          "value": "{color.key.accent.yellow-1}",
+          "value": "#ffe7bb",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.72",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "lighten $keyColor 0.72, colorSpace:srgb"
         },
         "300": {
-          "value": "{color.key.accent.yellow-1}",
+          "value": "#ffdd9d",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.60",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "lighten $keyColor 0.60, colorSpace:srgb"
         },
         "400": {
-          "value": "{color.key.accent.yellow-1}",
+          "value": "#ffc863",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.36",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "lighten $keyColor 0.36, colorSpace:srgb"
         },
         "500": {
-          "value": "{color.key.accent.yellow-1}",
-          "type": "color"
+          "value": "#FFA90B",
+          "type": "color",
+          "description": "keyColor"
         },
         "600": {
-          "value": "{color.key.accent.yellow-1}",
+          "value": "#e0950a",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.12",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "darken $keyColor .12, colorSpace:srgb"
         },
         "700": {
-          "value": "{color.key.accent.yellow-1}",
+          "value": "#b87a08",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.28",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "darken $keyColor .28, colorSpace:srgb"
         },
         "800": {
-          "value": "{color.key.accent.yellow-1}",
+          "value": "#996507",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.40",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "darken $keyColor .40, colorSpace:srgb"
         },
         "900": {
-          "value": "{color.key.accent.yellow-1}",
+          "value": "#7a5105",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.52",
-                "space": "srgb"
-              }
-            }
-          }
+          "description": "darken $keyColor .52, colorSpace:srgb"
         }
       }
     }
