@@ -96,7 +96,11 @@
         }
       },
       "pattern": {
-        "md": {
+        "sm": {
+          "value": "{space.200}",
+          "type": "spacing"
+        },
+        "xl": {
           "value": "{space.700}",
           "type": "spacing"
         }
@@ -174,8 +178,12 @@
           "value": "{size.300}",
           "type": "sizing"
         },
-        "md": {
+        "reg": {
           "value": "{size.450}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{size.500}",
           "type": "sizing"
         },
         "lg": {
