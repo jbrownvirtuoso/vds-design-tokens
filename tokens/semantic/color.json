@@ -148,7 +148,7 @@
         },
         "urgent": {
           "emphasis": {
-            "value": "{color.default.red-1.600}",
+            "value": "{color.default.red-1.700}",
             "type": "color",
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           },
