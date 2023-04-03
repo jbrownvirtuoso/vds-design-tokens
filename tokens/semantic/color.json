@@ -126,7 +126,7 @@
       "alert": {
         "warning": {
           "emphasis": {
-            "value": "{color.extended.yellow-1.600}",
+            "value": "{color.extended.yellow-1.800}",
             "type": "color",
             "description": "This Token can be used for foreground elements on white bgs\n\nUse a warning alert to help a user avoid an issue. If the user can take an immediate action to avoid the issue, provide a way to do that."
           },
