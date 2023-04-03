@@ -158,7 +158,7 @@
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           },
           "subdued": {
-            "value": "{color.default.red-1.300}",
+            "value": "{color.default.red-1.400}",
             "type": "color",
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           },
@@ -178,7 +178,7 @@
             "type": "color"
           },
           "subdued": {
-            "value": "{color.default.teal-2.200}",
+            "value": "{color.default.teal-2.400}",
             "type": "color"
           },
           "decorative": {
@@ -188,19 +188,19 @@
         },
         "info": {
           "emphasis": {
-            "value": "{color.default.teal-1.600}",
+            "value": "{color.default.blue-3.800}",
             "type": "color"
           },
           "regular": {
-            "value": "{color.default.teal-1.500}",
+            "value": "{color.default.blue-3.600}",
             "type": "color"
           },
           "subdued": {
-            "value": "{color.default.teal-1.100}",
+            "value": "{color.default.blue-3.300}",
             "type": "color"
           },
           "decorative": {
-            "value": "{color.default.teal-1.50}",
+            "value": "{color.default.blue-3.50}",
             "type": "color"
           }
         }
