@@ -645,7 +645,7 @@
           "description": "darken $keyColor .52, colorSpace:srgb"
         }
       },
-      "yellow-1": {
+      "orange-1": {
         "50": {
           "value": "#fff8eb",
           "type": "color",
@@ -677,7 +677,7 @@
           "description": "keyColor"
         },
         "600": {
-          "value": "#e0950a",
+          "value": "#CC7A00",
           "type": "color",
           "description": "darken $keyColor .12, colorSpace:srgb"
         },

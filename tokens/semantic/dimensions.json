@@ -158,6 +158,10 @@
           "value": "{size.300}",
           "type": "sizing"
         },
+        "lg": {
+          "value": "{size.400}",
+          "type": "sizing"
+        },
         "xl": {
           "value": "{size.500}",
           "type": "sizing"

@@ -126,22 +126,22 @@
       "alert": {
         "warning": {
           "emphasis": {
-            "value": "{color.extended.yellow-1.800}",
+            "value": "{color.extended.orange-1.800}",
             "type": "color",
             "description": "This Token can be used for foreground elements on white bgs\n\nUse a warning alert to help a user avoid an issue. If the user can take an immediate action to avoid the issue, provide a way to do that."
           },
           "regular": {
-            "value": "{color.extended.yellow-1.500}",
+            "value": "{color.extended.orange-1.600}",
             "type": "color",
             "description": "This Token should not be used for text or important graphic elements. It can be used as a support accent color (borders), but use should be restricted to decorative purposes.\n\nUse a warning alert to help a user avoid an issue. If the user can take an immediate action to avoid the issue, provide a way to do that."
           },
           "subdued": {
-            "value": "{color.extended.yellow-1.400}",
+            "value": "{color.extended.orange-1.400}",
             "type": "color",
             "description": "This Token should not be used for text or important graphic elements. It can be used as a support accent color (borders), but use should be restricted to decorative purposes.\n\nUse a warning alert to help a user avoid an issue. If the user can take an immediate action to avoid the issue, provide a way to do that."
           },
           "decorative": {
-            "value": "{color.extended.yellow-1.100}",
+            "value": "{color.extended.orange-1.100}",
             "type": "color",
             "description": "This Token should not be used for text or important graphic elements. It can be used as a surface/bg color in combination with neutral emphasis.\n\nUse a warning alert to help a user avoid an issue. If the user can take an immediate action to avoid the issue, provide a way to do that."
           }
