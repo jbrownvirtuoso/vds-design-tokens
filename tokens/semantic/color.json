@@ -113,12 +113,8 @@
             "type": "color",
             "description": "Lorem…"
           },
-          "surface-lighter": {
-            "value": "{color.default.neutral-1.100}",
-            "type": "color"
-          },
           "surface-light": {
-            "value": "{color.default.neutral-1.200}",
+            "value": "{color.default.neutral-1.100}",
             "type": "color"
           },
           "canvas": {
@@ -218,7 +214,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.bg.surface-lighter}",
+            "value": "{semantic.color.neutral.bg.surface-light}",
             "type": "color"
           },
           "press": {

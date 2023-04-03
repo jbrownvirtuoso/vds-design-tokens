@@ -86,8 +86,6 @@
       "semantic.color.neutral.fg.decorative": "S:4a3111ae7601d0473af60ae13c69a8303a285ec7,",
       "semantic.color.neutral.fg.on-accent": "S:e5ee6689ac332952109b3c03bd5cfbd7c7ab3c69,",
       "semantic.color.neutral.bg.surface-lightest": "S:b32c660958b8d5322b379009c195c77761596789,",
-      "semantic.color.neutral.bg.surface-lighter": "S:a94b9cb745e91c0e43264e4defcb0c65c408158d,",
-      "semantic.color.neutral.bg.surface-light": "S:a1ebc7826a188fa1223d32e4173188352fd145b0,",
       "semantic.color.neutral.bg.canvase": "S:97bf32945589171fab42038ebf30d7b3d1190858,",
       "semantic.color.alert.Warning.emphasis": "S:3c0a4bb0c129cc7fd2616c2db546c052a3972c94,",
       "semantic.color.alert.Warning.regular": "S:06ea0dd39cd30e8792cffe1407fb229cfafa3034,",
@@ -306,8 +304,6 @@
       "semantic.color.neutral.fg.decorative": "S:4dddaba2cc0b522956e381923144409fc57a8d9f,",
       "semantic.color.neutral.fg.on-accent": "S:16d87a5ea7b61bbd99be9ebbdaaed96abd9cdde3,",
       "semantic.color.neutral.bg.surface-lightest": "S:23be1295a7098c3355fffb80e35d3b07efab7d03,",
-      "semantic.color.neutral.bg.surface-lighter": "S:5de808b1f8b91e0fceed2b587c9a016dd7e4cdeb,",
-      "semantic.color.neutral.bg.surface-light": "S:3526d16ca4ea50b0804807a71395bf41619cee03,",
       "semantic.color.neutral.bg.canvas": "S:6b2660b802423c9b9d44ef90f4b19038660d601f,",
       "semantic.color.alert.Warning.emphasis": "S:6802b3d1fb6d06c018672faed3ab8e1bb16d92af,",
       "semantic.color.alert.Warning.regular": "S:a35336f882dd25c1da6294490b5438bc759a283b,",
@@ -405,7 +401,8 @@
       "semantic.typography.input.normal.regular": "S:103f26a79f536b082e017746fd480eb3e3a12838,",
       "semantic.typography.input.normal.strong": "S:b4ba17eae6551c1184468ad84630519dd9a0134a,",
       "semantic.typography.input.large.regular": "S:a86f71b1a1f30a58f37628fbf0a68030a3b3c558,",
-      "semantic.typography.input.large.strong": "S:394a8f64c06fb18782ae7df0683ae82c74e00acd,"
+      "semantic.typography.input.large.strong": "S:394a8f64c06fb18782ae7df0683ae82c74e00acd,",
+      "semantic.color.neutral.bg.surface-light": "S:5de808b1f8b91e0fceed2b587c9a016dd7e4cdeb,"
     }
   }
 ]
