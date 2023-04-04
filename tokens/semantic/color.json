@@ -97,7 +97,7 @@
             "type": "color"
           },
           "decorative": {
-            "value": "{color.default.neutral-1.200}",
+            "value": "{color.default.neutral-1.100}",
             "type": "color",
             "description": "Neutral decorative color can create a calming and elegant aesthetic, while still allowing for important design elements to stand out. Can be used for 'faint' borders and subtle dividers, or rules"
           },

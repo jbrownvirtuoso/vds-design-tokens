@@ -675,6 +675,10 @@
     "captions": {
       "value": "none",
       "type": "textDecoration"
+    },
+    "strike-though": {
+      "value": "line-through",
+      "type": "textDecoration"
     }
   },
   "fontFamilies": {
