@@ -192,7 +192,7 @@
             "type": "color"
           },
           "regular": {
-            "value": "{color.default.blue-3.600}",
+            "value": "{color.default.blue-3.700}",
             "type": "color"
           },
           "subdued": {
