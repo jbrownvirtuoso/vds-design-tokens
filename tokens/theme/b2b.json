@@ -4,20 +4,20 @@
       "action": {
         "primaryAccent": {
           "idle": {
-            "value": "{color.extended.blue-4.600}",
+            "value": "{color.default.red-1.500}",
             "type": "color",
             "description": "Idle or resting state of primary accent color"
           },
           "hover": {
-            "value": "{color.extended.blue-4.500}",
+            "value": "{color.default.red-1.600}",
             "type": "color"
           },
           "press": {
-            "value": "{color.extended.blue-4.400}",
+            "value": "{color.default.red-1.400}",
             "type": "color"
           },
           "focus": {
-            "value": "{color.extended.blue-4.600}",
+            "value": "{color.default.red-1.500}",
             "type": "color"
           }
         },
@@ -58,7 +58,7 @@
             "type": "color",
             "description": "This Token should not be used for text or important graphic elements. It can be used as a support accent color (borders), but use should be restricted to decorative purposes.\n\nUse a warning alert to help a user avoid an issue. If the user can take an immediate action to avoid the issue, provide a way to do that."
           },
-          "decorative": {
+          "surface": {
             "value": "{color.extended.orange-1.50}",
             "type": "color",
             "description": "This Token should not be used for text or important graphic elements. It can be used as a surface/bg color in combination with neutral emphasis.\n\nUse a warning alert to help a user avoid an issue. If the user can take an immediate action to avoid the issue, provide a way to do that."
@@ -80,7 +80,7 @@
             "type": "color",
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           },
-          "decorative": {
+          "surface": {
             "value": "{color.default.red-1.200}",
             "type": "color",
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
@@ -99,70 +99,28 @@
             "value": "#98db88",
             "type": "color"
           },
-          "decorative": {
+          "surface": {
             "value": "#E0EEDC",
             "type": "color"
           }
         },
         "info": {
           "emphasis": {
-            "value": "#334E8E",
+            "value": "{color.extended.blue-4.700}",
             "type": "color"
           },
           "regular": {
-            "value": "#4163B3",
+            "value": "{color.extended.blue-4.400}",
             "type": "color"
           },
           "subdued": {
-            "value": "#839bd2",
+            "value": "{color.extended.blue-4.100}",
             "type": "color"
           },
-          "decorative": {
-            "value": "#DAE1F2",
+          "surface": {
+            "value": "{color.extended.blue-4.50}",
             "type": "color"
           }
-        }
-      }
-    }
-  },
-  "color": {
-    "default": {
-      "neutral-1": {
-        "100": {
-          "value": "#f8f8f8",
-          "type": "color"
-        },
-        "200": {
-          "value": "#eeeeee",
-          "type": "color"
-        },
-        "300": {
-          "value": "#e8e8e8",
-          "type": "color"
-        },
-        "400": {
-          "value": "#bcbcbc",
-          "type": "color"
-        },
-        "500": {
-          "value": "#959595",
-          "type": "color"
-        },
-        "600": {
-          "value": "#6e6e6e",
-          "type": "color"
-        },
-        "700": {
-          "value": "#4D4D4D",
-          "type": "color"
-        },
-        "800": {
-          "value": "#333333",
-          "type": "color"
-        },
-        "900": {
-          "value": "#1A1A1A",
-          "type": "color"
         }
       }
     }
