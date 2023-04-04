@@ -45,7 +45,7 @@
           "value": "#7d55c7",
           "type": "color"
         },
-        "yellow-1": {
+        "orange-1": {
           "value": "#FFA90B",
           "type": "color",
           "description": "Not supported by marketing palette"
@@ -645,7 +645,7 @@
           "description": "darken $keyColor .52, colorSpace:srgb"
         }
       },
-      "yellow-1": {
+      "orange-1": {
         "50": {
           "value": "#fff8eb",
           "type": "color",
@@ -677,19 +677,16 @@
           "description": "keyColor"
         },
         "600": {
-          "value": "#e0950a",
-          "type": "color",
-          "description": "darken $keyColor .12, colorSpace:srgb"
+          "value": "#CC7A00",
+          "type": "color"
         },
         "700": {
           "value": "#b87a08",
-          "type": "color",
-          "description": "darken $keyColor .28, colorSpace:srgb"
+          "type": "color"
         },
         "800": {
-          "value": "#996507",
-          "type": "color",
-          "description": "darken $keyColor .40, colorSpace:srgb"
+          "value": "#976407",
+          "type": "color"
         },
         "900": {
           "value": "#7a5105",
