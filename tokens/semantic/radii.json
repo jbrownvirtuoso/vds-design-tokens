@@ -10,8 +10,16 @@
           "value": "{radii.xs}",
           "type": "borderRadius"
         },
-        "md": {
+        "reg": {
           "value": "{radii.sm}",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "{radii.md}",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "{radii.lg}",
           "type": "borderRadius"
         },
         "max": {

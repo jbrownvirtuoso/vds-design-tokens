@@ -137,7 +137,7 @@
   },
   "button": {
     "borderRadius": {
-      "value": "{semantic.borderRadius.comp.md}",
+      "value": "{semantic.borderRadius.comp.reg}",
       "type": "borderRadius"
     }
   }
