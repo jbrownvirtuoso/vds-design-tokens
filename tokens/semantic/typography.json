@@ -677,7 +677,7 @@
       "type": "textDecoration"
     },
     "strike-though": {
-      "value": "strikethough",
+      "value": "line-through",
       "type": "textDecoration"
     }
   },
