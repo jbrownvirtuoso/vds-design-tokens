@@ -1,66 +1,14 @@
 {
   "color": {
-    "key": {
-      "brand": {
-        "blue-1": {
-          "value": "#001141",
-          "type": "color"
-        },
-        "virtuoso-blue": {
-          "value": "#6891B0",
-          "type": "color"
-        },
-        "virtuoso-light-blue": {
-          "value": "#97B7C5",
-          "type": "color"
-        }
-      },
-      "accent": {
-        "blue-2": {
-          "value": "#004B87",
-          "type": "color"
-        },
-        "blue-3": {
-          "value": "#92C1E9",
-          "type": "color"
-        },
-        "blue-4": {
-          "value": "#00A3CD",
-          "type": "color",
-          "description": "Not supported by marketing palette"
-        },
-        "red-1": {
-          "value": "#e66142",
-          "type": "color"
-        },
-        "teal-1": {
-          "value": "#0097a9",
-          "type": "color"
-        },
-        "teal-2": {
-          "value": "#6bcaba",
-          "type": "color"
-        },
-        "violet-1": {
-          "value": "#7d55c7",
-          "type": "color"
-        },
-        "orange-1": {
-          "value": "#FFA90B",
-          "type": "color",
-          "description": "Not supported by marketing palette"
-        }
-      },
+    "default": {
       "white": {
         "value": "#ffffff",
         "type": "color"
       },
       "black": {
-        "value": "{color.key.brand.blue-1}",
+        "value": "#001141",
         "type": "color"
-      }
-    },
-    "default": {
+      },
       "virtuoso-blue": {
         "50": {
           "value": "#f3f6f9",
@@ -537,58 +485,72 @@
           "type": "color"
         },
         "900": {
-          "value": "{color.key.brand.blue-1}",
+          "value": "#001141",
           "type": "color"
+        },
+        "gradient": {
+          "0-deg": {
+            "value": "linear-gradient(0deg, rgba({color.default.neutral-1.700}, 0.3) 0%, rgba({color.default.neutral-1.700}, 0.0) 100%)",
+            "type": "color",
+            "description": "Fade Up"
+          },
+          "90-deg": {
+            "value": "linear-gradient(90deg, rgba({color.default.neutral-1.700}, 0.3) 0%, rgba({color.default.neutral-1.700}, 0.0) 100%)",
+            "type": "color",
+            "description": "Fade Right"
+          },
+          "180-deg": {
+            "value": "linear-gradient(180deg, rgba({color.default.neutral-1.700}, 0.3) 0%, rgba({color.default.neutral-1.700}, 0.0) 100%)",
+            "type": "color",
+            "description": "Fade Down"
+          },
+          "270-deg": {
+            "value": "linear-gradient(270deg, rgba({color.default.neutral-1.700}, 0.3) 0%, rgba({color.default.neutral-1.700}, 0.0) 100%)",
+            "type": "color",
+            "description": "Fade left"
+          }
         }
       },
-      "neutral-inverse-1": {
+      "neutral-1-inverse": {
         "50": {
-          "value": "rgba({color.key.white}, 0.08)",
+          "value": "rgba({color.default.white}, 0.08)",
           "type": "color"
         },
         "100": {
-          "value": "rgba({color.key.white}, 0.12)",
+          "value": "rgba({color.default.white}, 0.12)",
           "type": "color"
         },
         "200": {
-          "value": "rgba({color.key.white}, 0.2)",
+          "value": "rgba({color.default.white}, 0.2)",
           "type": "color"
         },
         "300": {
-          "value": "rgba({color.key.white}, 0.28)",
+          "value": "rgba({color.default.white}, 0.28)",
           "type": "color"
         },
         "400": {
-          "value": "rgba({color.key.white}, 0.40)",
+          "value": "rgba({color.default.white}, 0.40)",
           "type": "color"
         },
         "500": {
-          "value": "rgba({color.key.white}, 0.52)",
+          "value": "rgba({color.default.white}, 0.52)",
           "type": "color"
         },
         "600": {
-          "value": "rgba({color.key.white}, 0.6)",
+          "value": "rgba({color.default.white}, 0.6)",
           "type": "color"
         },
         "700": {
-          "value": "rgba({color.key.white}, 0.72)",
+          "value": "rgba({color.default.white}, 0.72)",
           "type": "color"
         },
         "800": {
-          "value": "rgba({color.key.white}, 0.8)",
+          "value": "rgba({color.default.white}, 0.8)",
           "type": "color"
         },
         "900": {
-          "value": "rgba({color.key.white}, 0.92)",
+          "value": "rgba({color.default.white}, 0.92)",
           "type": "color"
-        }
-      },
-      "gradient": {
-        "neutral": {
-          "0-deg-↑": {
-            "value": "linear-gradient(180deg, rgba({color.default.neutral-1.700}, 0.0) 0%, rgba({color.default.neutral-1.700}, 0.3) 100%)",
-            "type": "color"
-          }
         }
       }
     },
