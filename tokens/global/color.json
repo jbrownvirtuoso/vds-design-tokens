@@ -594,7 +594,7 @@
         "700": {
           "value": "#007594",
           "type": "color",
-          "description": "darken $keyColor .28, colorSpace:srgb"
+          "description": "darken $keyColor .28, colorSpace:srgb\n\non whte BG, Spot readable 12px - 15px (regular to bold)\non whte BG, Fluently readable 16px up (regular to bold)\n"
         },
         "800": {
           "value": "#00627b",
