@@ -18,7 +18,7 @@
         },
         "bg": {
           "surface": {
-            "value": "{color.default.blue-2.200}",
+            "value": "{color.default.red-1.100}",
             "type": "color",
             "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           }

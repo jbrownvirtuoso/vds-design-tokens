@@ -210,6 +210,24 @@
             "value": "{color.default.blue-3.50}",
             "type": "color"
           }
+        },
+        "info-safe": {
+          "emphasis": {
+            "value": "{color.default.blue-1.400}",
+            "type": "color"
+          },
+          "regular": {
+            "value": "{color.default.blue-1.400}",
+            "type": "color"
+          },
+          "subdued": {
+            "value": "{color.default.blue-1.200}",
+            "type": "color"
+          },
+          "surface": {
+            "value": "{color.default.blue-1.50}",
+            "type": "color"
+          }
         }
       },
       "inverse": {
