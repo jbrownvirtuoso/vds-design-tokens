@@ -1,0 +1,24 @@
+{
+  "fontFamilies": {
+    "headlines": {
+      "value": "Sofia Pro",
+      "type": "fontFamilies"
+    },
+    "buttons": {
+      "value": "Sofia Pro",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "FreightDisp Pro",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeights": {
+    "body": {
+      "regular": {
+        "value": "{fontWeights.500}",
+        "type": "fontWeights"
+      }
+    }
+  }
+}
