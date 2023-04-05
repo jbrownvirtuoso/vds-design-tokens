@@ -16,13 +16,7 @@
       "comp/toggleSwitch": "enabled",
       "comp/checkbox": "enabled",
       "semantic/borders": "enabled",
-      "comp/radio": "enabled",
-      "theme/b2b/color": "disabled",
-      "theme/b2b/typography": "disabled",
-      "theme/b2c-v3/color": "disabled",
-      "theme/b2c-v3/typography": "disabled",
-      "theme/b2c/color": "disabled",
-      "theme/b2c/typography": "disabled"
+      "comp/radio": "enabled"
     },
     "$figmaStyleReferences": {
       "radio.color.bullet.border-color": "S:7e39e52486cbe6ef843b70b4096926713c341e83,",
