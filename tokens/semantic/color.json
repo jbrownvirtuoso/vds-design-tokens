@@ -9,15 +9,15 @@
             "description": "Idle or resting state of primary accent color"
           },
           "hover": {
-            "value": "{color.default.blue-2.600}",
+            "value": "{semantic.color.primaryAccent.fg.emphasis}",
             "type": "color"
           },
           "press": {
-            "value": "{color.default.blue-2.400}",
+            "value": "{semantic.color.primaryAccent.fg.subdued}",
             "type": "color"
           },
           "focus": {
-            "value": "{color.default.blue-2.600}",
+            "value": "{semantic.color.primaryAccent.fg.emphasis}",
             "type": "color"
           }
         },
