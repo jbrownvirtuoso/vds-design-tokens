@@ -10,12 +10,12 @@
     "semantic/dimensions",
     "semantic/radii",
     "semantic/borders",
+    "theme/b2b",
+    "theme/b2c",
+    "theme/b2c-v3",
     "comp/button",
     "comp/checkbox",
     "comp/radio",
-    "comp/toggleSwitch",
-    "theme/b2b",
-    "theme/b2c",
-    "theme/b2c-v3"
+    "comp/toggleSwitch"
   ]
 }
