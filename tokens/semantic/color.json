@@ -4,7 +4,7 @@
       "action": {
         "primaryAccent": {
           "idle": {
-            "value": "{color.default.blue-2.500}",
+            "value": "{semantic.color.primaryAccent.fg.regular}",
             "type": "color",
             "description": "Idle or resting state of primary accent color"
           },
@@ -23,20 +23,20 @@
         },
         "defaultAccent": {
           "idle": {
-            "value": "{color.default.violet-1.500}",
+            "value": "{semantic.color.defaultAccent.fg.regular}",
             "type": "color",
             "description": "Use to help user easily identify clickable (interactive) elements"
           },
           "hover": {
-            "value": "{color.default.violet-1.600}",
+            "value": "{semantic.color.defaultAccent.fg.emphasis}",
             "type": "color"
           },
           "press": {
-            "value": "{color.default.violet-1.400}",
+            "value": "{semantic.color.defaultAccent.fg.subdued}",
             "type": "color"
           },
           "focus": {
-            "value": "{color.default.violet-1.600}",
+            "value": "{semantic.color.defaultAccent.fg.emphasis}",
             "type": "color"
           }
         }
@@ -80,32 +80,22 @@
         "primaryAccent": {
           "fg": {
             "emphasis": {
-              "value": "{semantic.color.action.primaryAccent.hover}",
+              "value": "{color.default.blue-2.300}",
               "type": "color"
             },
             "regular": {
-              "value": "{semantic.color.action.primaryAccent.idle}",
+              "value": "{color.default.blue-2.400}",
               "type": "color"
             },
             "subdued": {
-              "value": "{semantic.color.action.primaryAccent.press}",
+              "value": "{color.default.blue-2.500}",
               "type": "color"
             }
           },
           "bg": {
             "surface": {
-              "value": "{semantic.color.action.primaryAccent.idle}",
-              "type": "color",
-              "description": "Use an urgent alert color to help a user understand a critical issue at the system level.",
-              "$extensions": {
-                "studio.tokens": {
-                  "modify": {
-                    "type": "lighten",
-                    "value": "0.88",
-                    "space": "srgb"
-                  }
-                }
-              }
+              "value": "{color.default.blue-2.200}",
+              "type": "color"
             }
           }
         }
@@ -156,32 +146,23 @@
       "primaryAccent": {
         "fg": {
           "emphasis": {
-            "value": "{semantic.color.action.primaryAccent.hover}",
+            "value": "{color.default.blue-2.600}",
             "type": "color"
           },
           "regular": {
-            "value": "{semantic.color.action.primaryAccent.idle}",
+            "value": "{color.default.blue-2.500}",
             "type": "color"
           },
           "subdued": {
-            "value": "{semantic.color.action.primaryAccent.press}",
+            "value": "{color.default.blue-2.300}",
             "type": "color"
           }
         },
         "bg": {
           "surface": {
-            "value": "{semantic.color.action.primaryAccent.idle}",
+            "value": "{color.default.blue-2.200}",
             "type": "color",
-            "description": "Use an urgent alert color to help a user understand a critical issue at the system level.",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.88",
-                  "space": "srgb"
-                }
-              }
-            }
+            "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           }
         }
       },
@@ -264,6 +245,29 @@
           "surface": {
             "value": "{color.default.blue-3.50}",
             "type": "color"
+          }
+        }
+      },
+      "defaultAccent": {
+        "fg": {
+          "emphasis": {
+            "value": "{color.default.violet-1.600}",
+            "type": "color"
+          },
+          "regular": {
+            "value": "{color.default.violet-1.500}",
+            "type": "color"
+          },
+          "subdued": {
+            "value": "{color.default.violet-1.300}",
+            "type": "color"
+          }
+        },
+        "bg": {
+          "surface": {
+            "value": "{color.default.violet-1.200}",
+            "type": "color",
+            "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
           }
         }
       }
