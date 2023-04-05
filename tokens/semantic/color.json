@@ -76,6 +76,38 @@
               "type": "color"
             }
           }
+        },
+        "primaryAccent": {
+          "fg": {
+            "emphasis": {
+              "value": "{semantic.color.action.primaryAccent.hover}",
+              "type": "color"
+            },
+            "regular": {
+              "value": "{semantic.color.action.primaryAccent.idle}",
+              "type": "color"
+            },
+            "subdued": {
+              "value": "{semantic.color.action.primaryAccent.press}",
+              "type": "color"
+            }
+          },
+          "bg": {
+            "surface": {
+              "value": "{semantic.color.action.primaryAccent.idle}",
+              "type": "color",
+              "description": "Use an urgent alert color to help a user understand a critical issue at the system level.",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "lighten",
+                    "value": "0.88",
+                    "space": "srgb"
+                  }
+                }
+              }
+            }
+          }
         }
       },
       "neutral": {
