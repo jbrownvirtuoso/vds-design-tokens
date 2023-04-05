@@ -90,19 +90,19 @@
         },
         "fg": {
           "idle": {
-            "value": "{semantic.color.neutral.fg.on-accent}",
+            "value": "{semantic.color.fg.neutral.on-accent}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.fg.on-accent}",
+            "value": "{semantic.color.fg.neutral.on-accent}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.fg.on-accent}",
+            "value": "{semantic.color.fg.neutral.on-accent}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.fg.on-accent}",
+            "value": "{semantic.color.fg.neutral.on-accent}",
             "type": "color"
           }
         }
@@ -110,55 +110,55 @@
       "outlineButton": {
         "bg": {
           "idle": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.bg.neutral.canvas}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.bg.neutral.canvas}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.bg.neutral.canvas}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.bg.neutral.canvas}",
             "type": "color"
           }
         },
         "fg": {
           "idle": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.fg.neutral.emphasis}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.fg.neutral.default}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.fg.neutral.default}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.fg.neutral.emphasis}",
             "type": "color"
           }
         },
         "border-color": {
           "idle": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.fg.neutral.emphasis}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.fg.neutral.default}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.fg.neutral.default}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.fg.neutral.emphasis}",
             "type": "color"
           }
         }
@@ -166,55 +166,55 @@
       "basicButton": {
         "bg": {
           "idle": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.bg.neutral.canvas}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.bg.neutral.canvas}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.bg.neutral.canvas}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.bg.neutral.canvas}",
             "type": "color"
           }
         },
         "fg": {
           "idle": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.fg.neutral.emphasis}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.fg.neutral.default}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.fg.neutral.default}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.fg.neutral.emphasis}",
             "type": "color"
           }
         },
         "border-color": {
           "idle": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.bg.neutral.canvas}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.bg.neutral.canvas}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.fg.neutral.default}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.bg.neutral.canvas}",
             "type": "color"
           }
         }
