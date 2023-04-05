@@ -42,13 +42,13 @@
           "type": "typography"
         }
       },
-      "display": {
+      "uber": {
         "strong": {
           "value": {
             "fontFamily": "{fontFamilies.headlines}",
             "fontWeight": "{fontWeights.headlines.strong}",
-            "lineHeight": "{lineHeights.headlines.default}",
-            "fontSize": "{fontSize.7xl}",
+            "lineHeight": "{lineHeights.headlines.lg}",
+            "fontSize": "{fontSize.9xl}",
             "letterSpacing": "{letterSpacing.headlines}",
             "paragraphSpacing": "{paragraphSpacing.default}",
             "textCase": "{textCase.headlines}",
@@ -60,8 +60,8 @@
           "value": {
             "fontFamily": "{fontFamilies.headlines}",
             "fontWeight": "{fontWeights.headlines.regular}",
-            "lineHeight": "{lineHeights.headlines.default}",
-            "fontSize": "{fontSize.7xl}",
+            "lineHeight": "{lineHeights.headlines.lg}",
+            "fontSize": "{fontSize.9xl}",
             "letterSpacing": "{letterSpacing.headlines}",
             "paragraphSpacing": "{paragraphSpacing.default}",
             "textCase": "{textCase.headlines}",
@@ -98,13 +98,13 @@
           "type": "typography"
         }
       },
-      "uber": {
+      "display": {
         "strong": {
           "value": {
             "fontFamily": "{fontFamilies.headlines}",
             "fontWeight": "{fontWeights.headlines.strong}",
-            "lineHeight": "{lineHeights.headlines.lg}",
-            "fontSize": "{fontSize.9xl}",
+            "lineHeight": "{lineHeights.headlines.default}",
+            "fontSize": "{fontSize.7xl}",
             "letterSpacing": "{letterSpacing.headlines}",
             "paragraphSpacing": "{paragraphSpacing.default}",
             "textCase": "{textCase.headlines}",
@@ -116,8 +116,8 @@
           "value": {
             "fontFamily": "{fontFamilies.headlines}",
             "fontWeight": "{fontWeights.headlines.regular}",
-            "lineHeight": "{lineHeights.headlines.lg}",
-            "fontSize": "{fontSize.9xl}",
+            "lineHeight": "{lineHeights.headlines.default}",
+            "fontSize": "{fontSize.7xl}",
             "letterSpacing": "{letterSpacing.headlines}",
             "paragraphSpacing": "{paragraphSpacing.default}",
             "textCase": "{textCase.headlines}",
