@@ -1,0 +1,12 @@
+{
+  "fontFamilies": {
+    "headlines": {
+      "value": "{fontFamilies.Proxima Nova}",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "{fontFamilies.Proxima Nova}",
+      "type": "fontFamilies"
+    }
+  }
+}

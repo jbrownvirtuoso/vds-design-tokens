@@ -10,15 +10,18 @@
           },
           "hover": {
             "value": "{color.default.red-1.600}",
-            "type": "color"
+            "type": "color",
+            "description": "Hover state of primary accent color"
           },
           "press": {
             "value": "{color.default.red-1.400}",
-            "type": "color"
+            "type": "color",
+            "description": "Press state of primary accent color"
           },
           "focus": {
             "value": "{color.default.red-1.600}",
-            "type": "color"
+            "type": "color",
+            "description": "Focus state of primary accent color"
           }
         },
         "defaultAccent": {
@@ -41,16 +44,6 @@
           }
         }
       }
-    }
-  },
-  "fontFamilies": {
-    "headlines": {
-      "value": "Utopia Std",
-      "type": "fontFamilies"
-    },
-    "body": {
-      "value": "{fontFamilies.Proxima Nova}",
-      "type": "fontFamilies"
     }
   }
 }

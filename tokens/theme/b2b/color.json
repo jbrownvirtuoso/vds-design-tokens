@@ -81,16 +81,6 @@
       }
     }
   },
-  "fontFamilies": {
-    "headlines": {
-      "value": "{fontFamilies.Proxima Nova}",
-      "type": "fontFamilies"
-    },
-    "body": {
-      "value": "{fontFamilies.Proxima Nova}",
-      "type": "fontFamilies"
-    }
-  },
   "button": {
     "borderRadius": {
       "value": "{semantic.borderRadius.comp.reg}",

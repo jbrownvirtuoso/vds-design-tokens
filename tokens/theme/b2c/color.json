@@ -10,18 +10,15 @@
           },
           "hover": {
             "value": "{color.default.red-1.600}",
-            "type": "color",
-            "description": "Hover state of primary accent color"
+            "type": "color"
           },
           "press": {
             "value": "{color.default.red-1.400}",
-            "type": "color",
-            "description": "Press state of primary accent color"
+            "type": "color"
           },
           "focus": {
             "value": "{color.default.red-1.600}",
-            "type": "color",
-            "description": "Focus state of primary accent color"
+            "type": "color"
           }
         },
         "defaultAccent": {
@@ -43,28 +40,6 @@
             "type": "color"
           }
         }
-      }
-    }
-  },
-  "fontFamilies": {
-    "headlines": {
-      "value": "Sofia Pro",
-      "type": "fontFamilies"
-    },
-    "buttons": {
-      "value": "Sofia Pro",
-      "type": "fontFamilies"
-    },
-    "body": {
-      "value": "FreightDisp Pro",
-      "type": "fontFamilies"
-    }
-  },
-  "fontWeights": {
-    "body": {
-      "regular": {
-        "value": "{fontWeights.500}",
-        "type": "fontWeights"
       }
     }
   }
