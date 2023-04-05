@@ -2,7 +2,7 @@
   "semantic": {
     "color": {
       "action": {
-        "primaryAccent": {
+        "primary": {
           "idle": {
             "value": "{semantic.color.primaryAccent.fg.regular}",
             "type": "color",
@@ -21,7 +21,7 @@
             "type": "color"
           }
         },
-        "defaultAccent": {
+        "default": {
           "idle": {
             "value": "{semantic.color.defaultAccent.fg.regular}",
             "type": "color",
@@ -350,19 +350,19 @@
       "selected": {
         "bg": {
           "idle": {
-            "value": "{semantic.color.action.defaultAccent.idle}",
+            "value": "{semantic.color.action.default.idle}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.action.defaultAccent.hover}",
+            "value": "{semantic.color.action.default.hover}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.action.defaultAccent.press}",
+            "value": "{semantic.color.action.default.press}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.action.defaultAccent.focus}",
+            "value": "{semantic.color.action.default.focus}",
             "type": "color"
           }
         },
@@ -386,19 +386,19 @@
         },
         "border-color": {
           "idle": {
-            "value": "{semantic.color.action.defaultAccent.idle}",
+            "value": "{semantic.color.action.default.idle}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.action.defaultAccent.hover}",
+            "value": "{semantic.color.action.default.hover}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.action.defaultAccent.press}",
+            "value": "{semantic.color.action.default.press}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.action.defaultAccent.focus}",
+            "value": "{semantic.color.action.default.focus}",
             "type": "color"
           }
         },
