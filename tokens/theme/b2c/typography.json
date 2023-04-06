@@ -1,12 +1,14 @@
 {
-  "fontFamilies": {
-    "headlines": {
-      "value": "Utopia Std",
-      "type": "fontFamilies"
-    },
-    "body": {
-      "value": "{fontFamilies.Proxima Nova}",
-      "type": "fontFamilies"
+  "semantic": {
+    "fontFamilies": {
+      "headlines": {
+        "value": "Utopia Std",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "{fontFamilies.Proxima Nova}",
+        "type": "fontFamilies"
+      }
     }
   }
 }

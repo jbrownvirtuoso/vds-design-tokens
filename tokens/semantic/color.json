@@ -185,7 +185,7 @@
             "type": "color"
           },
           "subdued": {
-            "value": "{color.default.teal-2.400}",
+            "value": "{color.default.teal-2.300}",
             "type": "color"
           },
           "surface": {
@@ -269,21 +269,21 @@
         "primaryAccent": {
           "fg": {
             "emphasis": {
-              "value": "{color.default.blue-2.300}",
+              "value": "{color.default.red-1.300}",
               "type": "color"
             },
             "regular": {
-              "value": "{color.default.blue-2.400}",
+              "value": "{color.default.red-1.400}",
               "type": "color"
             },
             "subdued": {
-              "value": "{color.default.blue-2.500}",
+              "value": "{color.default.red-1.500}",
               "type": "color"
             }
           },
           "bg": {
             "surface": {
-              "value": "{color.default.blue-2.200}",
+              "value": "{color.default.red-1.200}",
               "type": "color"
             }
           }
