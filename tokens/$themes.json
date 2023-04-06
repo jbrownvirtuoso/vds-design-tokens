@@ -16,7 +16,8 @@
       "comp/toggleSwitch": "enabled",
       "comp/checkbox": "enabled",
       "semantic/borders": "enabled",
-      "comp/radio": "enabled"
+      "comp/radio": "enabled",
+      "global/shadows": "disabled"
     },
     "$figmaStyleReferences": {
       "radio.color.bullet.border-color": "S:7e39e52486cbe6ef843b70b4096926713c341e83,",
@@ -198,7 +199,8 @@
       "semantic/borders": "enabled",
       "comp/radio": "enabled",
       "theme/b2c/color": "enabled",
-      "theme/b2c/typography": "enabled"
+      "theme/b2c/typography": "enabled",
+      "global/shadows": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -221,7 +223,8 @@
       "semantic/borders": "enabled",
       "comp/radio": "enabled",
       "theme/b2c-v3/color": "enabled",
-      "theme/b2c-v3/typography": "enabled"
+      "theme/b2c-v3/typography": "enabled",
+      "global/shadows": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -244,7 +247,8 @@
       "comp/checkbox": "enabled",
       "comp/radio": "enabled",
       "theme/b2b/color": "enabled",
-      "theme/b2b/typography": "enabled"
+      "theme/b2b/typography": "enabled",
+      "global/shadows": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.accent.idle": "S:dc560782f7c2d426c9a08a8b3b47a3053006ca8b,",

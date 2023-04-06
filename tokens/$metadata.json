@@ -5,6 +5,7 @@
     "global/dimension",
     "global/radii",
     "global/borders",
+    "global/shadows",
     "semantic/color",
     "semantic/typography",
     "semantic/dimensions",
