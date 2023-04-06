@@ -6,7 +6,7 @@
         "y": "0",
         "blur": "{size.base}/2",
         "spread": "0",
-        "color": "rgba(0,0,0,0.08)",
+        "color": "rgba(0,0,0,0.04)",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -28,7 +28,7 @@
         "y": "0",
         "blur": "{size.base}*1.5",
         "spread": "0",
-        "color": "rgba(0,0,0,0.12)",
+        "color": "rgba(0,0,0,0.08)",
         "type": "dropShadow"
       },
       "type": "boxShadow"
