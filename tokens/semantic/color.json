@@ -238,26 +238,26 @@
               "type": "color"
             },
             "regular": {
-              "value": "{color.default.neutral-1-inverse.600}",
+              "value": "{color.default.inverse-neutral-1.600}",
               "type": "color"
             },
             "subdued": {
-              "value": "{color.default.neutral-1-inverse.400}",
+              "value": "{color.default.inverse-neutral-1.400}",
               "type": "color"
             },
             "decorative": {
-              "value": "{color.default.neutral-1-inverse.100}",
+              "value": "{color.default.inverse-neutral-1.100}",
               "type": "color"
             }
           },
           "bg": {
             "surface-lightest": {
-              "value": "{color.default.neutral-1-inverse.100}",
+              "value": "{color.default.inverse-neutral-1.100}",
               "type": "color",
               "description": "Lorem…"
             },
             "surface-light": {
-              "value": "{color.default.neutral-1-inverse.200}",
+              "value": "{color.default.inverse-neutral-1.200}",
               "type": "color"
             },
             "canvas": {
