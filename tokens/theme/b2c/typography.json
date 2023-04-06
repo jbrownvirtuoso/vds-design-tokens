@@ -2,7 +2,7 @@
   "semantic": {
     "fontFamilies": {
       "headlines": {
-        "value": "{fontFamilies.Proxima Nova}",
+        "value": "{fontFamilies.Utopia}",
         "type": "fontFamilies"
       },
       "body": {
