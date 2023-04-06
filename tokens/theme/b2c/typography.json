@@ -2,7 +2,7 @@
   "semantic": {
     "fontFamilies": {
       "headlines": {
-        "value": "Utopia Std",
+        "value": "{fontFamilies.Utopia}",
         "type": "fontFamilies"
       },
       "body": {
