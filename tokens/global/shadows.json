@@ -32,6 +32,39 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "250": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "{size.base}*2.5",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.16)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "400": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "{size.base}*4",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.16)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "500": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "{size.base}*5",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.16)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   }
 }
