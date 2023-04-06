@@ -511,7 +511,7 @@
           }
         }
       },
-      "neutral-1-inverse": {
+      "inverse-neutral-1": {
         "50": {
           "value": "rgba({color.default.white}, 0.08)",
           "type": "color"
