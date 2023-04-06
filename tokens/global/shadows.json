@@ -6,7 +6,7 @@
         "y": "0",
         "blur": "{size.base}/2",
         "spread": "0",
-        "color": "rgba(0,0,0,0.04)",
+        "color": "rgba(0,0,0,0.12)",
         "type": "dropShadow"
       },
       "type": "boxShadow"
