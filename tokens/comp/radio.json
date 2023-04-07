@@ -45,7 +45,7 @@
     "color": {
       "bullet": {
         "border-color": {
-          "value": "{color.default.neutral-1.gradient.0-deg}",
+          "value": "{gradiant.neutral-1.0-deg}",
           "type": "color"
         }
       }
