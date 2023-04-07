@@ -1,44 +1,6 @@
 {
   "semantic": {
     "color": {
-      "alert": {
-        "success": {
-          "emphasis": {
-            "value": "#28671E",
-            "type": "color"
-          },
-          "regular": {
-            "value": "#589649",
-            "type": "color"
-          },
-          "subdued": {
-            "value": "#98db88",
-            "type": "color"
-          },
-          "surface": {
-            "value": "#E0EEDC",
-            "type": "color"
-          }
-        },
-        "info": {
-          "emphasis": {
-            "value": "{color.extended.blue-4.700}",
-            "type": "color"
-          },
-          "regular": {
-            "value": "{color.extended.blue-4.600}",
-            "type": "color"
-          },
-          "subdued": {
-            "value": "{color.extended.blue-4.100}",
-            "type": "color"
-          },
-          "surface": {
-            "value": "{color.extended.blue-4.50}",
-            "type": "color"
-          }
-        }
-      },
       "theme": {
         "brandPrimary": {
           "emphasis": {
@@ -91,6 +53,44 @@
           },
           "light": {
             "value": "{color.default.violet-1.50}",
+            "type": "color"
+          }
+        }
+      },
+      "alert": {
+        "success": {
+          "emphasis": {
+            "value": "#28671E",
+            "type": "color"
+          },
+          "regular": {
+            "value": "#589649",
+            "type": "color"
+          },
+          "subdued": {
+            "value": "#98db88",
+            "type": "color"
+          },
+          "surface": {
+            "value": "#E0EEDC",
+            "type": "color"
+          }
+        },
+        "info": {
+          "emphasis": {
+            "value": "{color.extended.blue-4.700}",
+            "type": "color"
+          },
+          "regular": {
+            "value": "{color.extended.blue-4.600}",
+            "type": "color"
+          },
+          "subdued": {
+            "value": "{color.extended.blue-4.100}",
+            "type": "color"
+          },
+          "surface": {
+            "value": "{color.extended.blue-4.50}",
             "type": "color"
           }
         }
