@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "global/color",
+    "global/gradiant",
     "global/typography",
     "global/dimension",
     "global/radii",
