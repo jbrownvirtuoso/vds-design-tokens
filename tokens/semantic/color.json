@@ -4,20 +4,20 @@
       "action": {
         "primary": {
           "idle": {
-            "value": "{semantic.color.primaryAccent.fg.regular}",
+            "value": "{semantic.color.theme.brandColor-1.regular}",
             "type": "color",
             "description": "Idle or resting state of primary accent color"
           },
           "hover": {
-            "value": "{semantic.color.primaryAccent.fg.emphasis}",
+            "value": "{semantic.color.theme.brandColor-1.emphasis}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.primaryAccent.fg.subdued}",
+            "value": "{semantic.color.theme.brandColor-1.weak}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.primaryAccent.fg.emphasis}",
+            "value": "{semantic.color.theme.brandColor-1.emphasis}",
             "type": "color"
           }
         },
