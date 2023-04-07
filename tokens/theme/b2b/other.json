@@ -1,0 +1,8 @@
+{
+  "button": {
+    "borderRadius": {
+      "value": "{semantic.borderRadius.comp.reg}",
+      "type": "borderRadius"
+    }
+  }
+}
