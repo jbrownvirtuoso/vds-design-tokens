@@ -19,7 +19,9 @@
       "comp/radio": "enabled",
       "theme/b2b/color": "enabled",
       "theme/b2b/typography": "enabled",
-      "global/shadows": "source"
+      "global/shadows": "source",
+      "global/gradiant": "source",
+      "theme/b2b/other": "enabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.accent.idle": "S:dc560782f7c2d426c9a08a8b3b47a3053006ca8b,",
@@ -188,30 +190,6 @@
     }
   },
   {
-    "id": "002428eb6a0bcfd1a2717c6991bb821be6be5f8e",
-    "name": "b2c-v3",
-    "selectedTokenSets": {
-      "global/color": "source",
-      "global/typography": "source",
-      "global/dimension": "source",
-      "semantic/color": "enabled",
-      "semantic/dimensions": "enabled",
-      "semantic/typography": "enabled",
-      "global/radii": "source",
-      "comp/button": "enabled",
-      "global/borders": "source",
-      "semantic/radii": "enabled",
-      "comp/toggleSwitch": "enabled",
-      "comp/checkbox": "enabled",
-      "semantic/borders": "enabled",
-      "comp/radio": "enabled",
-      "theme/b2c-v3/color": "enabled",
-      "theme/b2c-v3/typography": "enabled",
-      "global/shadows": "source"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "100de41353e29c4b3ab0f6a96b4f298ace2be990",
     "name": "b2c",
     "selectedTokenSets": {
@@ -231,7 +209,33 @@
       "comp/radio": "enabled",
       "theme/b2c/color": "enabled",
       "theme/b2c/typography": "enabled",
-      "global/shadows": "source"
+      "global/shadows": "source",
+      "global/gradiant": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "002428eb6a0bcfd1a2717c6991bb821be6be5f8e",
+    "name": "b2c-v3",
+    "selectedTokenSets": {
+      "global/color": "source",
+      "global/typography": "source",
+      "global/dimension": "source",
+      "semantic/color": "enabled",
+      "semantic/dimensions": "enabled",
+      "semantic/typography": "enabled",
+      "global/radii": "source",
+      "comp/button": "enabled",
+      "global/borders": "source",
+      "semantic/radii": "enabled",
+      "comp/toggleSwitch": "enabled",
+      "comp/checkbox": "enabled",
+      "semantic/borders": "enabled",
+      "comp/radio": "enabled",
+      "theme/b2c-v3/color": "enabled",
+      "theme/b2c-v3/typography": "enabled",
+      "global/shadows": "source",
+      "global/gradiant": "source"
     },
     "$figmaStyleReferences": {}
   },

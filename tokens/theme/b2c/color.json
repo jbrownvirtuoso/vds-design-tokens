@@ -1,49 +1,117 @@
 {
   "semantic": {
     "color": {
-      "primaryAccent": {
-        "fg": {
+      "theme-copy": {
+        "brandPrimary": {
           "emphasis": {
-            "value": "{color.default.red-1.600}",
+            "value": "{color.default.red-1.700}",
             "type": "color"
           },
           "regular": {
             "value": "{color.default.red-1.500}",
             "type": "color"
           },
-          "subdued": {
+          "weak": {
             "value": "{color.default.red-1.300}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.default.red-1.50}",
             "type": "color"
           }
         },
-        "bg": {
-          "surface": {
-            "value": "{color.default.red-1.100}",
-            "type": "color",
-            "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
-          }
-        }
-      },
-      "defaultAccent": {
-        "fg": {
+        "brandSecondary": {
           "emphasis": {
-            "value": "{color.default.teal-1.600}",
+            "value": "{color.extended.blue-4.700}",
             "type": "color"
           },
           "regular": {
-            "value": "{color.default.teal-1.500}",
+            "value": "{color.extended.blue-4.500}",
             "type": "color"
           },
-          "subdued": {
-            "value": "{color.default.teal-1.300}",
+          "weak": {
+            "value": "{color.extended.blue-4.300}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.extended.blue-4.50}",
             "type": "color"
           }
         },
-        "bg": {
-          "surface": {
-            "value": "{color.default.teal-1.200}",
-            "type": "color",
-            "description": "Use an urgent alert color to help a user understand a critical issue at the system level."
+        "brandTertiary": {
+          "emphasis": {
+            "value": "{color.default.violet-1.700}",
+            "type": "color"
+          },
+          "regular": {
+            "value": "{color.default.violet-1.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{color.default.violet-1.300}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.default.violet-1.50}",
+            "type": "color"
+          }
+        }
+      },
+      "theme": {
+        "inverse": {
+          "brandPrimary": {
+            "emphasis": {
+              "value": "{color.default.red-1.100}",
+              "type": "color"
+            },
+            "regular": {
+              "value": "{color.default.red-1.300}",
+              "type": "color"
+            },
+            "weak": {
+              "value": "{color.default.red-1.500}",
+              "type": "color"
+            },
+            "light": {
+              "value": "{color.default.red-1.600}",
+              "type": "color"
+            }
+          },
+          "brandSecondary": {
+            "emphasis": {
+              "value": "{color.extended.blue-4.100}",
+              "type": "color"
+            },
+            "regular": {
+              "value": "{color.extended.blue-4.200}",
+              "type": "color"
+            },
+            "weak": {
+              "value": "{color.extended.blue-4.400}",
+              "type": "color"
+            },
+            "light": {
+              "value": "{color.extended.blue-4.500}",
+              "type": "color"
+            }
+          },
+          "brandTertiary": {
+            "emphasis": {
+              "value": "{color.default.violet-1.100}",
+              "type": "color"
+            },
+            "regular": {
+              "value": "{color.default.violet-1.300}",
+              "type": "color"
+            },
+            "weak": {
+              "value": "{color.default.violet-1.500}",
+              "type": "color"
+            },
+            "light": {
+              "value": "{color.default.violet-1.600}",
+              "type": "color"
+            }
           }
         }
       }
