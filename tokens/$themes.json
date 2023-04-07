@@ -19,8 +19,7 @@
       "comp/radio": "enabled",
       "theme/b2b/color": "enabled",
       "theme/b2b/typography": "enabled",
-      "global/shadows": "source",
-      "global/gradiant": "disabled"
+      "global/shadows": "source"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.accent.idle": "S:dc560782f7c2d426c9a08a8b3b47a3053006ca8b,",
@@ -208,8 +207,7 @@
       "comp/radio": "enabled",
       "theme/b2c-v3/color": "enabled",
       "theme/b2c-v3/typography": "enabled",
-      "global/shadows": "source",
-      "global/gradiant": "disabled"
+      "global/shadows": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -233,8 +231,7 @@
       "comp/radio": "enabled",
       "theme/b2c/color": "enabled",
       "theme/b2c/typography": "enabled",
-      "global/shadows": "source",
-      "global/gradiant": "disabled"
+      "global/shadows": "source"
     },
     "$figmaStyleReferences": {}
   },

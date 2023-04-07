@@ -635,29 +635,5 @@
         }
       }
     }
-  },
-  "gradiant": {
-    "neutral-1": {
-      "0-deg": {
-        "value": "linear-gradient(0deg, rgba({color.default.neutral-1.700}, 0.3) 0%, rgba({color.default.neutral-1.700}, 0.0) 100%)",
-        "type": "color",
-        "description": "Fade Up"
-      },
-      "90-deg": {
-        "value": "linear-gradient(90deg, rgba({color.default.neutral-1.700}, 0.3) 0%, rgba({color.default.neutral-1.700}, 0.0) 100%)",
-        "type": "color",
-        "description": "Fade Right"
-      },
-      "180-deg": {
-        "value": "linear-gradient(180deg, rgba({color.default.neutral-1.700}, 0.3) 0%, rgba({color.default.neutral-1.700}, 0.0) 100%)",
-        "type": "color",
-        "description": "Fade Down"
-      },
-      "270-deg": {
-        "value": "linear-gradient(270deg, rgba({color.default.neutral-1.700}, 0.3) 0%, rgba({color.default.neutral-1.700}, 0.0) 100%)",
-        "type": "color",
-        "description": "Fade left"
-      }
-    }
   }
 }
