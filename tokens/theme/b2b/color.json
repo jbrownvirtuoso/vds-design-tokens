@@ -55,6 +55,62 @@
             "value": "{color.default.violet-1.50}",
             "type": "color"
           }
+        },
+        "inverse": {
+          "brandPrimary": {
+            "emphasis": {
+              "value": "{color.default.red-1.100}",
+              "type": "color"
+            },
+            "regular": {
+              "value": "{color.default.red-1.300}",
+              "type": "color"
+            },
+            "weak": {
+              "value": "{color.default.red-1.500}",
+              "type": "color"
+            },
+            "light": {
+              "value": "{color.default.red-1.600}",
+              "type": "color"
+            }
+          },
+          "brandSecondary": {
+            "emphasis": {
+              "value": "{color.extended.blue-4.100}",
+              "type": "color"
+            },
+            "regular": {
+              "value": "{color.extended.blue-4.200}",
+              "type": "color"
+            },
+            "weak": {
+              "value": "{color.extended.blue-4.400}",
+              "type": "color"
+            },
+            "light": {
+              "value": "{color.extended.blue-4.500}",
+              "type": "color"
+            }
+          },
+          "brandTertiary": {
+            "emphasis": {
+              "value": "{color.default.violet-1.100}",
+              "type": "color"
+            },
+            "regular": {
+              "value": "{color.default.violet-1.300}",
+              "type": "color"
+            },
+            "weak": {
+              "value": "{color.default.violet-1.500}",
+              "type": "color"
+            },
+            "light": {
+              "value": "{color.default.violet-1.600}",
+              "type": "color"
+            }
+          }
         }
       },
       "alert": {

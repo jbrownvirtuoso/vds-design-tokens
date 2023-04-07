@@ -219,28 +219,6 @@
               "type": "color"
             }
           }
-        },
-        "primaryAccent": {
-          "fg": {
-            "emphasis": {
-              "value": "{color.default.red-1.300}",
-              "type": "color"
-            },
-            "regular": {
-              "value": "{color.default.red-1.400}",
-              "type": "color"
-            },
-            "subdued": {
-              "value": "{color.default.red-1.500}",
-              "type": "color"
-            }
-          },
-          "bg": {
-            "surface": {
-              "value": "{color.default.red-1.200}",
-              "type": "color"
-            }
-          }
         }
       }
     },
