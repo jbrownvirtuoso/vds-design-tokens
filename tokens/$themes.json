@@ -7,7 +7,6 @@
       "semantic/color": "enabled",
       "semantic/typography": "enabled",
       "global/typography": "source",
-      "global/dimension": "source",
       "semantic/dimensions": "enabled",
       "global/radii": "source",
       "comp/button": "enabled",
@@ -21,7 +20,8 @@
       "theme/b2b/typography": "enabled",
       "global/shadows": "source",
       "global/gradiant": "source",
-      "theme/b2b/other": "enabled"
+      "theme/b2b/other": "enabled",
+      "global/dimensions": "source"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.accent.idle": "S:dc560782f7c2d426c9a08a8b3b47a3053006ca8b,",
@@ -196,7 +196,6 @@
       "global/color": "source",
       "semantic/color": "enabled",
       "global/typography": "source",
-      "global/dimension": "source",
       "semantic/dimensions": "enabled",
       "semantic/typography": "enabled",
       "global/radii": "source",
@@ -210,7 +209,8 @@
       "theme/b2c/color": "enabled",
       "theme/b2c/typography": "enabled",
       "global/shadows": "source",
-      "global/gradiant": "source"
+      "global/gradiant": "source",
+      "global/dimensions": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -220,7 +220,6 @@
     "selectedTokenSets": {
       "global/color": "source",
       "global/typography": "source",
-      "global/dimension": "source",
       "semantic/color": "enabled",
       "semantic/dimensions": "enabled",
       "semantic/typography": "enabled",
@@ -235,7 +234,8 @@
       "theme/b2c-v3/color": "enabled",
       "theme/b2c-v3/typography": "enabled",
       "global/shadows": "source",
-      "global/gradiant": "source"
+      "global/gradiant": "source",
+      "global/dimensions": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -247,7 +247,6 @@
       "semantic/color": "enabled",
       "semantic/typography": "enabled",
       "semantic/dimensions": "enabled",
-      "global/dimension": "source",
       "global/typography": "source",
       "comp/button": "enabled",
       "global/radii": "source",
@@ -258,7 +257,8 @@
       "semantic/borders": "enabled",
       "comp/radio": "enabled",
       "global/shadows": "source",
-      "global/gradiant": "source"
+      "global/gradiant": "source",
+      "global/dimensions": "source"
     },
     "$figmaStyleReferences": {
       "radio.color.bullet.border-color": "S:b56f937a76af6a3de4df8634b658284251ddf0b5,",
