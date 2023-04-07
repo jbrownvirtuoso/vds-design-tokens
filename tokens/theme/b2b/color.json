@@ -40,7 +40,7 @@
         }
       },
       "theme": {
-        "brandColor-1": {
+        "brandPrimary": {
           "emphasis": {
             "value": "{color.default.red-1.700}",
             "type": "color"
@@ -58,7 +58,7 @@
             "type": "color"
           }
         },
-        "brandColor-2": {
+        "brandSecondary": {
           "emphasis": {
             "value": "{color.extended.blue-4.700}",
             "type": "color"
@@ -76,7 +76,7 @@
             "type": "color"
           }
         },
-        "brandColor-3": {
+        "brandTertiary": {
           "emphasis": {
             "value": "{color.default.violet-1.700}",
             "type": "color"
