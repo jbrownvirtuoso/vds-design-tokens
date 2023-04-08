@@ -89,11 +89,11 @@
       "type": "fontSizes"
     },
     "xs": {
-      "value": "roundTo({fontSize.sm} / {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.sm} / {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "sm": {
-      "value": "roundTo({fontSize.base} / {fontSize.scale}, 0)",
+      "value": "1+roundTo({fontSize.md} / {fontSize.scale}, 0)",
       "type": "fontSizes"
     },
     "md": {
@@ -101,47 +101,47 @@
       "type": "fontSizes"
     },
     "lg": {
-      "value": "roundTo({fontSize.base} * {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.base} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "xl": {
-      "value": "roundTo({fontSize.lg} * {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.lg} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "2xl": {
-      "value": "roundTo({fontSize.xl} * {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "3xl": {
-      "value": "roundTo({fontSize.2xl} * {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.2xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "4xl": {
-      "value": "roundTo({fontSize.3xl} * {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.3xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "5xl": {
-      "value": "roundTo({fontSize.4xl} * {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.4xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "6xl": {
-      "value": "roundTo({fontSize.5xl} * {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.5xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "7xl": {
-      "value": "roundTo({fontSize.6xl} * {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.6xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "8xl": {
-      "value": "roundTo({fontSize.7xl} * {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.7xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "9xl": {
-      "value": "roundTo({fontSize.8xl} * {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.8xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "10xl": {
-      "value": "roundTo({fontSize.9xl} * {fontSize.scale}, 0)",
+      "value": "4*roundTo({fontSize.9xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     }
   },
@@ -165,7 +165,7 @@
   },
   "paragraphSpacing": {
     "default": {
-      "value": "{fontSize.scale}+{fontSize.base}",
+      "value": "{fontSize.base}/2",
       "type": "paragraphSpacing"
     }
   },
