@@ -1,7 +1,7 @@
 {
   "semantic": {
     "color": {
-      "theme-copy": {
+      "theme": {
         "brandPrimary": {
           "emphasis": {
             "value": "{color.default.red-1.700}",
@@ -55,9 +55,7 @@
             "value": "{color.default.violet-1.50}",
             "type": "color"
           }
-        }
-      },
-      "theme": {
+        },
         "inverse": {
           "brandPrimary": {
             "emphasis": {
@@ -97,19 +95,19 @@
           },
           "brandTertiary": {
             "emphasis": {
-              "value": "{color.default.violet-1.100}",
+              "value": "{color.default.blue-2.200}",
               "type": "color"
             },
             "regular": {
-              "value": "{color.default.violet-1.300}",
+              "value": "{color.default.blue-2.300}",
               "type": "color"
             },
             "weak": {
-              "value": "{color.default.violet-1.500}",
+              "value": "{color.default.blue-3.700}",
               "type": "color"
             },
             "light": {
-              "value": "{color.default.violet-1.600}",
+              "value": "{color.default.blue-3.800}",
               "type": "color"
             }
           }

@@ -192,15 +192,15 @@
               "type": "color"
             },
             "regular": {
-              "value": "{color.default.inverse-neutral-1.600}",
+              "value": "{color.default.inverse-neutral-1.700}",
               "type": "color"
             },
             "subdued": {
-              "value": "{color.default.inverse-neutral-1.400}",
+              "value": "{color.default.inverse-neutral-1.500}",
               "type": "color"
             },
             "decorative": {
-              "value": "{color.default.inverse-neutral-1.100}",
+              "value": "{color.default.inverse-neutral-1.300}",
               "type": "color"
             }
           },

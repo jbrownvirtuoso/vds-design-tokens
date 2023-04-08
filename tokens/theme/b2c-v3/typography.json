@@ -5,6 +5,10 @@
         "value": "Sofia Pro",
         "type": "fontFamilies"
       },
+      "small-text": {
+        "value": "Sofia Pro",
+        "type": "fontFamilies"
+      },
       "buttons": {
         "value": "Sofia Pro",
         "type": "fontFamilies"

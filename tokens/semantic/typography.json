@@ -99,6 +99,19 @@
         }
       },
       "display": {
+        "light": {
+          "value": {
+            "fontFamily": "{semantic.fontFamilies.headlines}",
+            "fontWeight": "{fontWeights.headlines.light}",
+            "lineHeight": "{lineHeights.headlines.default}",
+            "fontSize": "{fontSize.7xl}",
+            "letterSpacing": "{letterSpacing.headlines}",
+            "paragraphSpacing": "{paragraphSpacing.default}",
+            "textCase": "{textCase.headlines}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamilies.headlines}",
@@ -390,7 +403,7 @@
       "small": {
         "regular": {
           "value": {
-            "fontFamily": "{semantic.fontFamilies.body}",
+            "fontFamily": "{semantic.fontFamilies.small-text}",
             "fontWeight": "{fontWeights.body.regular}",
             "lineHeight": "{lineHeights.body.default}",
             "fontSize": "{fontSize.md}",
@@ -403,7 +416,7 @@
         },
         "strong": {
           "value": {
-            "fontFamily": "{semantic.fontFamilies.body}",
+            "fontFamily": "{semantic.fontFamilies.small-text}",
             "fontWeight": "{fontWeights.body.strong}",
             "lineHeight": "{lineHeights.body.default}",
             "fontSize": "{fontSize.md}",
@@ -418,7 +431,7 @@
       "caption": {
         "regular": {
           "value": {
-            "fontFamily": "{semantic.fontFamilies.body}",
+            "fontFamily": "{semantic.fontFamilies.small-text}",
             "fontWeight": "{fontWeights.body.regular}",
             "lineHeight": "{lineHeights.body.default}",
             "fontSize": "{fontSize.sm}",
@@ -431,7 +444,7 @@
         },
         "strong": {
           "value": {
-            "fontFamily": "{semantic.fontFamilies.body}",
+            "fontFamily": "{semantic.fontFamilies.small-text}",
             "fontWeight": "{fontWeights.body.strong}",
             "lineHeight": "{lineHeights.body.default}",
             "fontSize": "{fontSize.sm}",
@@ -646,6 +659,10 @@
     },
     "fontFamilies": {
       "headlines": {
+        "value": "{fontFamilies.Roboto Slab}",
+        "type": "fontFamilies"
+      },
+      "small-text": {
         "value": "{fontFamilies.Roboto Slab}",
         "type": "fontFamilies"
       },
