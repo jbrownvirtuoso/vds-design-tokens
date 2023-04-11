@@ -6,42 +6,42 @@
     },
     "label": {
       "sm": {
-        "value": "{semantic.typography.button.large.strong}",
+        "value": "{semantic.typography.button.small.regular}",
         "type": "typography"
       },
       "md": {
-        "value": "{semantic.typography.button.large.strong}",
+        "value": "{semantic.typography.button.medium.regular}",
         "type": "typography"
       },
       "lg": {
-        "value": "{semantic.typography.button.large.strong}",
+        "value": "{semantic.typography.button.large.regular}",
         "type": "typography"
       }
     },
     "spacing": {
       "sm": {
         "space-around": {
-          "value": "{semantic.space-around.comp.sm}, {semantic.space-around.comp.sm}",
+          "value": "{semantic.space-around.comp.sm}, {semantic.space-around.comp.md}",
           "type": "spacing"
         },
         "item-spacing": {
-          "value": "{semantic.space-between.comp.md}",
+          "value": "{semantic.space-between.comp.xs}",
           "type": "spacing"
         }
       },
       "md": {
         "spacing-around": {
-          "value": "{semantic.space-around.comp.reg}, {semantic.space-around.comp.reg}",
+          "value": "{semantic.space-around.comp.reg}, {semantic.space-around.comp.lg}",
           "type": "spacing"
         },
         "item-spacing": {
-          "value": "{semantic.space-between.comp.md}",
+          "value": "{semantic.space-between.comp.sm}",
           "type": "spacing"
         }
       },
       "lg": {
         "spacing-around": {
-          "value": "{semantic.space-around.comp.md}, {semantic.space-around.comp.md}",
+          "value": "{semantic.space-around.comp.md}, {semantic.space-around.comp.xl}",
           "type": "spacing"
         },
         "item-spacing": {
@@ -52,7 +52,7 @@
     },
     "icon-size": {
       "sm": {
-        "value": "{semantic.size.icon.md}",
+        "value": "{semantic.size.icon.sm}",
         "type": "sizing"
       },
       "md": {
@@ -60,7 +60,7 @@
         "type": "sizing"
       },
       "lg": {
-        "value": "{semantic.size.icon.md}",
+        "value": "{semantic.size.icon.lg}",
         "type": "sizing"
       }
     },

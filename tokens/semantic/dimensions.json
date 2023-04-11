@@ -2,8 +2,12 @@
   "semantic": {
     "space-between": {
       "comp": {
-        "xs": {
+        "tiny": {
           "value": "{spacing.-05}",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "{spacing.-1}",
           "type": "spacing"
         },
         "sm": {
