@@ -76,14 +76,6 @@
     }
   },
   "fontSize": {
-    "base": {
-      "value": "16",
-      "type": "scale"
-    },
-    "scale": {
-      "value": "1.2",
-      "type": "scale"
-    },
     "xxs": {
       "value": "roundTo({fontSize.xs} / {fontSize.scale}, 0)",
       "type": "fontSizes"
