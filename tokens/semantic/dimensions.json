@@ -2,68 +2,72 @@
   "semantic": {
     "space-between": {
       "comp": {
+        "tiny": {
+          "value": "{spacing.-05}",
+          "type": "spacing"
+        },
         "xs": {
-          "value": "{space.25}",
+          "value": "{spacing.-1}",
           "type": "spacing"
         },
         "sm": {
-          "value": "{space.100}",
+          "value": "{spacing.-2}",
           "type": "spacing"
         },
         "md": {
-          "value": "{space.150}",
+          "value": "{spacing.-3}",
           "type": "spacing"
         }
       },
       "pattern": {
         "xs": {
-          "value": "{space.25}",
+          "value": "{spacing.-05}",
           "type": "spacing"
         },
         "sm": {
-          "value": "{space.100}",
+          "value": "{spacing.-2}",
           "type": "spacing"
         },
         "md": {
-          "value": "{space.200}",
+          "value": "{spacing.-4}",
           "type": "spacing"
         },
         "lg": {
-          "value": "{space.300}",
+          "value": "{spacing.-6}",
           "type": "spacing"
         },
         "xl": {
-          "value": "{space.400}",
+          "value": "{spacing.-8}",
           "type": "spacing"
         }
       },
       "section": {
         "xxs": {
-          "value": "{space.200}",
+          "value": "{spacing.-4}",
           "type": "spacing"
         },
         "xs": {
-          "value": "{space.300}",
+          "value": "{spacing.-6}",
           "type": "spacing"
         },
         "sm": {
-          "value": "{space.400}",
+          "value": "{spacing.-8}",
           "type": "spacing"
         },
         "md": {
-          "value": "{space.500}",
+          "value": "{spacing.-10}",
           "type": "spacing"
         },
         "lg": {
-          "value": "{space.700}",
+          "value": "{spacing.-14}",
           "type": "spacing"
         },
         "xl": {
-          "value": "{space.800}",
+          "value": "{spacing.-16}",
           "type": "spacing"
         },
         "xxl": {
-          "value": "{space.1200}",
+          "value": "{spacing.-24}",
           "type": "spacing"
         }
       }
@@ -71,67 +75,67 @@
     "space-around": {
       "comp": {
         "xs": {
-          "value": "{space.50}",
+          "value": "{spacing.-05}",
           "type": "spacing"
         },
         "sm": {
-          "value": "{space.100}",
+          "value": "{spacing.-2}",
           "type": "spacing"
         },
         "reg": {
-          "value": "{space.150}",
+          "value": "{spacing.-3}",
           "type": "spacing"
         },
         "md": {
-          "value": "{space.200}",
+          "value": "{spacing.-4}",
           "type": "spacing"
         },
         "lg": {
-          "value": "{space.250}",
+          "value": "{spacing.-5}",
           "type": "spacing"
         },
         "xl": {
-          "value": "{space.300}",
+          "value": "{spacing.-6}",
           "type": "spacing"
         }
       },
       "pattern": {
         "sm": {
-          "value": "{space.200}",
+          "value": "{spacing.-4}",
           "type": "spacing"
         },
         "xl": {
-          "value": "{space.700}",
+          "value": "{spacing.-14}",
           "type": "spacing"
         }
       },
       "section": {
         "xxs": {
-          "value": "{space.500}",
+          "value": "{spacing.-5}",
           "type": "spacing"
         },
         "xs": {
-          "value": "{space.800}",
+          "value": "{spacing.-6}",
           "type": "spacing"
         },
         "sm": {
-          "value": "{space.1200}",
+          "value": "{spacing.-10}",
           "type": "spacing"
         },
         "md": {
-          "value": "{space.1600}",
+          "value": "{spacing.-12}",
           "type": "spacing"
         },
         "lg": {
-          "value": "{space.2000}",
+          "value": "{spacing.-14}",
           "type": "spacing"
         },
         "xl": {
-          "value": "{space.2200}",
+          "value": "{spacing.-16}",
           "type": "spacing"
         },
         "xxl": {
-          "value": "{space.2600}",
+          "value": "{spacing.-20}",
           "type": "spacing"
         }
       }
@@ -139,47 +143,47 @@
     "size": {
       "comp": {
         "xs": {
-          "value": "{size.150}",
+          "value": "{sizing.-3}",
           "type": "sizing"
         },
         "xxs": {
-          "value": "{size.100}",
+          "value": "{sizing.-4}",
           "type": "sizing"
         },
         "sm": {
-          "value": "{size.200}",
+          "value": "{sizing.-5}",
           "type": "sizing"
         },
         "reg": {
-          "value": "{size.250}",
+          "value": "{sizing.-6}",
           "type": "sizing"
         },
         "md": {
-          "value": "{size.300}",
+          "value": "{sizing.-8}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{size.400}",
+          "value": "{sizing.-10}",
           "type": "sizing"
         },
         "xl": {
-          "value": "{size.500}",
+          "value": "{sizing.-12}",
           "type": "sizing"
         }
       },
       "pattern": {
         "md": {
-          "value": "{size.600}",
+          "value": "{sizing.-7}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{size.700}",
+          "value": "{sizing.-10}",
           "type": "sizing"
         }
       },
       "section": {
         "sm": {
-          "value": "{size.300}",
+          "value": "{sizing.-7}",
           "type": "sizing"
         },
         "reg": {
