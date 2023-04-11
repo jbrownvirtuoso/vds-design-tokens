@@ -169,17 +169,17 @@
       },
       "pattern": {
         "md": {
-          "value": "{size.600}",
+          "value": "{sizing.-7}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{size.700}",
+          "value": "{sizing.-10}",
           "type": "sizing"
         }
       },
       "section": {
         "sm": {
-          "value": "{size.300}",
+          "value": "{sizing.-7}",
           "type": "sizing"
         },
         "reg": {

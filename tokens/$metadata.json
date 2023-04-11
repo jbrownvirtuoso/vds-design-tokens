@@ -16,6 +16,7 @@
     "comp/checkbox",
     "comp/radio",
     "comp/toggleSwitch",
+    "theme/none/color",
     "theme/b2b/color",
     "theme/b2b/typography",
     "theme/b2b/other",

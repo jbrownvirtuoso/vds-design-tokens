@@ -445,7 +445,8 @@
       "global/shadows": "source",
       "global/gradiant": "source",
       "global/dimensions": "source",
-      "breakpoints/lg": "source"
+      "breakpoints/lg": "source",
+      "theme/none/color": "enabled"
     },
     "$figmaStyleReferences": {
       "radio.color.bullet.border-color": "S:b56f937a76af6a3de4df8634b658284251ddf0b5,",
@@ -643,7 +644,8 @@
       "comp/checkbox": "enabled",
       "comp/radio": "enabled",
       "comp/toggleSwitch": "enabled",
-      "breakpoints/sm": "source"
+      "breakpoints/sm": "source",
+      "theme/none/color": "enabled"
     },
     "$figmaStyleReferences": {}
   }
