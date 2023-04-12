@@ -663,7 +663,7 @@
         "type": "fontFamilies"
       },
       "small-text": {
-        "value": "{fontFamilies.Roboto Slab}",
+        "value": "{fontFamilies.Roboto}",
         "type": "fontFamilies"
       },
       "body": {
