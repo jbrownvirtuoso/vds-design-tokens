@@ -711,5 +711,23 @@
       "value": "line-through",
       "type": "textDecoration"
     }
+  },
+  "letterSpacing": {
+    "body": {
+      "value": "{letterSpacing.tracking-normal}",
+      "type": "letterSpacing"
+    },
+    "headlines": {
+      "value": "{letterSpacing.tracking-tight}",
+      "type": "letterSpacing"
+    },
+    "buttons": {
+      "value": "{letterSpacing.tracking-widest}",
+      "type": "letterSpacing"
+    },
+    "captions": {
+      "value": "{letterSpacing.tracking-normal}",
+      "type": "letterSpacing"
+    }
   }
 }

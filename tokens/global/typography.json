@@ -137,24 +137,6 @@
       "type": "fontSizes"
     }
   },
-  "letterSpacing": {
-    "body": {
-      "value": "0%",
-      "type": "letterSpacing"
-    },
-    "headlines": {
-      "value": "-1%",
-      "type": "letterSpacing"
-    },
-    "buttons": {
-      "value": "3%",
-      "type": "letterSpacing"
-    },
-    "captions": {
-      "value": "0%",
-      "type": "letterSpacing"
-    }
-  },
   "paragraphSpacing": {
     "default": {
       "value": "{fontSize.base}/2",
@@ -181,6 +163,37 @@
     "Roboto Slab": {
       "value": "Roboto Slab",
       "type": "fontFamilies"
+    }
+  },
+  "letterSpacing": {
+    "tracking-tightest": {
+      "value": "{fontSize.base} *-0.075",
+      "type": "letterSpacing",
+      "description": "{fontSize.base} *-0.075"
+    },
+    "tracking-tighter": {
+      "value": "{fontSize.base} * -0.05",
+      "type": "letterSpacing"
+    },
+    "tracking-tight": {
+      "value": "{fontSize.base} * -0.025",
+      "type": "letterSpacing"
+    },
+    "tracking-normal": {
+      "value": "0",
+      "type": "letterSpacing"
+    },
+    "tracking-wide": {
+      "value": "{fontSize.base} * 0.025",
+      "type": "letterSpacing"
+    },
+    "tracking-wider": {
+      "value": "{fontSize.base} * 0.05",
+      "type": "letterSpacing"
+    },
+    "tracking-widest": {
+      "value": "{fontSize.base} * 0.075",
+      "type": "letterSpacing"
     }
   }
 }
