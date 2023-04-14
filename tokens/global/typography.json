@@ -137,23 +137,35 @@
       "type": "fontSizes"
     }
   },
+  "paragraphSpacing": {
+    "default": {
+      "value": "{fontSize.base}/2",
+      "type": "paragraphSpacing"
+    }
+  },
+  "fontFamilies": {
+    "Sofia": {
+      "value": "Sofia Pro",
+      "type": "fontFamilies"
+    },
+    "Utopia": {
+      "value": "Utopia Std",
+      "type": "fontFamilies"
+    },
+    "Proxima Nova": {
+      "value": "Proxima Nova",
+      "type": "fontFamilies"
+    },
+    "Roboto": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "Roboto Slab": {
+      "value": "Roboto Slab",
+      "type": "fontFamilies"
+    }
+  },
   "letterSpacing": {
-    "body": {
-      "value": "0%",
-      "type": "letterSpacing"
-    },
-    "headlines": {
-      "value": "-1%",
-      "type": "letterSpacing"
-    },
-    "buttons": {
-      "value": "3%",
-      "type": "letterSpacing"
-    },
-    "captions": {
-      "value": "0%",
-      "type": "letterSpacing"
-    },
     "tracking-tightest": {
       "value": "{fontSize.base} *-0.075",
       "type": "letterSpacing",
@@ -182,34 +194,6 @@
     "tracking-widest": {
       "value": "{fontSize.base} * 0.075",
       "type": "letterSpacing"
-    }
-  },
-  "paragraphSpacing": {
-    "default": {
-      "value": "{fontSize.base}/2",
-      "type": "paragraphSpacing"
-    }
-  },
-  "fontFamilies": {
-    "Sofia": {
-      "value": "Sofia Pro",
-      "type": "fontFamilies"
-    },
-    "Utopia": {
-      "value": "Utopia Std",
-      "type": "fontFamilies"
-    },
-    "Proxima Nova": {
-      "value": "Proxima Nova",
-      "type": "fontFamilies"
-    },
-    "Roboto": {
-      "value": "Roboto",
-      "type": "fontFamilies"
-    },
-    "Roboto Slab": {
-      "value": "Roboto Slab",
-      "type": "fontFamilies"
     }
   }
 }
