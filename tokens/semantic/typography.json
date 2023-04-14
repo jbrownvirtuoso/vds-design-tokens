@@ -704,8 +704,12 @@
         "value": "none",
         "type": "textDecoration"
       },
-      "strike-though": {
+      "line-through": {
         "value": "line-through",
+        "type": "textDecoration"
+      },
+      "underline": {
+        "value": "underline",
         "type": "textDecoration"
       }
     },
