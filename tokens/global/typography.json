@@ -45,20 +45,16 @@
       }
     }
   },
-  "fontSize": {
-    "xxs": {
-      "value": "roundTo({fontSize.xs} / {fontSize.scale}, 0)",
-      "type": "fontSizes"
-    },
+  "text": {
     "xs": {
-      "value": "4*roundTo({fontSize.sm} / {fontSize.scale}^1/4, 0)",
+      "value": "4*roundTo({text.sm} / {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "sm": {
-      "value": "1+roundTo({fontSize.md} / {fontSize.scale}, 0)",
+      "value": "1+roundTo({text.base} / {fontSize.scale}, 0)",
       "type": "fontSizes"
     },
-    "md": {
+    "base": {
       "value": "{fontSize.base}",
       "type": "fontSizes"
     },
@@ -67,43 +63,43 @@
       "type": "fontSizes"
     },
     "xl": {
-      "value": "4*roundTo({fontSize.lg} * {fontSize.scale}^1/4, 0)",
+      "value": "4*roundTo({text.lg} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "2xl": {
-      "value": "4*roundTo({fontSize.xl} * {fontSize.scale}^1/4, 0)",
+      "value": "4*roundTo({text.xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "3xl": {
-      "value": "4*roundTo({fontSize.2xl} * {fontSize.scale}^1/4, 0)",
+      "value": "4*roundTo({text.2xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "4xl": {
-      "value": "4*roundTo({fontSize.3xl} * {fontSize.scale}^1/4, 0)",
+      "value": "4*roundTo({text.3xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "5xl": {
-      "value": "4*roundTo({fontSize.4xl} * {fontSize.scale}^1/4, 0)",
+      "value": "4*roundTo({text.4xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "6xl": {
-      "value": "4*roundTo({fontSize.5xl} * {fontSize.scale}^1/4, 0)",
+      "value": "4*roundTo({text.5xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "7xl": {
-      "value": "4*roundTo({fontSize.6xl} * {fontSize.scale}^1/4, 0)",
+      "value": "4*roundTo({text.6xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "8xl": {
-      "value": "4*roundTo({fontSize.7xl} * {fontSize.scale}^1/4, 0)",
+      "value": "4*roundTo({text.7xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "9xl": {
-      "value": "4*roundTo({fontSize.8xl} * {fontSize.scale}^1/4, 0)",
+      "value": "4*roundTo({text.8xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     },
     "10xl": {
-      "value": "4*roundTo({fontSize.9xl} * {fontSize.scale}^1/4, 0)",
+      "value": "4*roundTo({text.9xl} * {fontSize.scale}^1/4, 0)",
       "type": "fontSizes"
     }
   },
