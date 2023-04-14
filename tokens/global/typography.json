@@ -178,5 +178,23 @@
       "value": "200%",
       "type": "lineHeights"
     }
+  },
+  "fontCase": {
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    },
+    "lowercase": {
+      "value": "lowercase",
+      "type": "textCase"
+    },
+    "capitalize": {
+      "value": "capitalize",
+      "type": "textCase"
+    },
+    "normal-case": {
+      "value": "none",
+      "type": "textCase"
+    }
   }
 }
