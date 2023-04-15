@@ -1,35 +1,41 @@
 {
   "radii": {
     "base": {
-      "value": "4",
+      "value": "16",
       "type": "other",
       "description": "the base for our radii tokens"
-    },
-    "xs": {
-      "value": "{radii.base} / 2",
-      "type": "borderRadius"
-    },
-    "sm": {
-      "value": "{radii.base}",
-      "type": "borderRadius"
-    },
-    "md": {
-      "value": "{radii.sm} + {radii.base}",
-      "type": "borderRadius"
-    },
-    "lg": {
-      "value": "{radii.md} + {radii.base}",
-      "type": "borderRadius"
-    },
-    "xl": {
-      "value": "{radii.lg} + {radii.base}",
-      "type": "borderRadius"
-    },
-    "2xl": {
-      "value": "{radii.xl} + {radii.base}",
+    }
+  },
+  "borderRadius": {
+    "rounded-sm": {
+      "value": "{radii.base} *0.125",
       "type": "borderRadius"
     },
     "rounded": {
+      "value": "{radii.base} *0.25",
+      "type": "borderRadius"
+    },
+    "rounded-md": {
+      "value": "{radii.base} *0.375",
+      "type": "borderRadius"
+    },
+    "rounded-lg": {
+      "value": "{radii.base} *0.5",
+      "type": "borderRadius"
+    },
+    "rounded-xl": {
+      "value": "{radii.base} *0.75",
+      "type": "borderRadius"
+    },
+    "rounded-2xl": {
+      "value": "{radii.base}",
+      "type": "borderRadius"
+    },
+    "rounded-3xl": {
+      "value": "{radii.base} *1.5",
+      "type": "borderRadius"
+    },
+    "rounded-full": {
       "value": "100",
       "type": "borderRadius"
     }

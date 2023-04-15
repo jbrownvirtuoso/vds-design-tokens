@@ -7,29 +7,29 @@
           "type": "borderRadius"
         },
         "sm": {
-          "value": "{radii.xs}",
+          "value": "{borderRadius.rounded-sm}",
           "type": "borderRadius"
         },
         "reg": {
-          "value": "{radii.sm}",
+          "value": "{borderRadius.rounded}",
           "type": "borderRadius"
         },
         "md": {
-          "value": "{radii.md}",
+          "value": "{borderRadius.rounded-md}",
           "type": "borderRadius"
         },
         "lg": {
-          "value": "{radii.lg}",
+          "value": "{borderRadius.rounded-lg}",
           "type": "borderRadius"
         },
         "max": {
-          "value": "{radii.rounded}",
+          "value": "{borderRadius.rounded-full}",
           "type": "borderRadius"
         }
       },
       "pattern": {
         "md": {
-          "value": "{radii.lg}",
+          "value": "{borderRadius.rounded-2xl}",
           "type": "borderRadius"
         }
       }
