@@ -4,7 +4,7 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "{size.base}/2",
+        "blur": "{sizing.base}/2",
         "spread": "0",
         "color": "rgba(0,0,0,0.12)",
         "type": "dropShadow"
@@ -15,7 +15,7 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "{size.base}*1",
+        "blur": "{sizing.base}*1",
         "spread": "0",
         "color": "rgba(0,0,0,0.08)",
         "type": "dropShadow"
