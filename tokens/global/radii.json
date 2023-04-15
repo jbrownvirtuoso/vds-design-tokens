@@ -11,6 +11,10 @@
       "value": "{radii.base} *0.125",
       "type": "borderRadius"
     },
+    "rounded-none": {
+      "value": "0",
+      "type": "borderRadius"
+    },
     "rounded": {
       "value": "{radii.base} *0.25",
       "type": "borderRadius"

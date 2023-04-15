@@ -1,5 +1,9 @@
 {
   "borderWidth": {
+    "border-0": {
+      "value": "0",
+      "type": "borderWidth"
+    },
     "border": {
       "value": "1",
       "type": "borderWidth"
@@ -10,10 +14,6 @@
     },
     "border-4": {
       "value": "4",
-      "type": "borderWidth"
-    },
-    "border-0": {
-      "value": "0",
       "type": "borderWidth"
     }
   }
