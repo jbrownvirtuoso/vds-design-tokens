@@ -2,7 +2,7 @@
   "radio": {
     "borderWidth": {
       "default": {
-        "value": "{borderWidth.100}",
+        "value": "{borderWidth.border}",
         "type": "borderWidth"
       },
       "focus": {

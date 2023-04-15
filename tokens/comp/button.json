@@ -222,15 +222,15 @@
     },
     "borderWidth": {
       "accentButton": {
-        "value": "{borderWidth.none}",
+        "value": "{borderWidth.border-0}",
         "type": "borderWidth"
       },
       "outlineButton": {
-        "value": "{borderWidth.100}",
+        "value": "{borderWidth.border}",
         "type": "borderWidth"
       },
       "basicButton": {
-        "value": "{borderWidth.100}",
+        "value": "{borderWidth.border}",
         "type": "borderWidth"
       }
     }

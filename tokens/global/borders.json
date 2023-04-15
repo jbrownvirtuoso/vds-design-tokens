@@ -1,18 +1,18 @@
 {
   "borderWidth": {
-    "100": {
+    "border": {
       "value": "1",
       "type": "borderWidth"
     },
-    "200": {
+    "border-2": {
       "value": "2",
       "type": "borderWidth"
     },
-    "400": {
+    "border-4": {
       "value": "4",
       "type": "borderWidth"
     },
-    "none": {
+    "border-0": {
       "value": "0",
       "type": "borderWidth"
     }

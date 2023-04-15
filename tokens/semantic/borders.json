@@ -3,7 +3,7 @@
     "borderWidth": {
       "comp": {
         "focus": {
-          "value": "{borderWidth.200}",
+          "value": "{borderWidth.border-2}",
           "type": "borderWidth"
         }
       }
