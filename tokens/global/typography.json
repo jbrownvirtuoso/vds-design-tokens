@@ -96,8 +96,9 @@
   },
   "paragraphSpacing": {
     "default": {
-      "value": "{fontSize.base}/2",
-      "type": "paragraphSpacing"
+      "value": "20%",
+      "type": "paragraphSpacing",
+      "description": "{fontSize.base}/2"
     }
   },
   "fontFamilies": {
