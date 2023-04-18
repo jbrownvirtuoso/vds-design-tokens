@@ -187,6 +187,46 @@
         }
       },
       "on-dark": {
+        "action": {
+          "primary": {
+            "idle": {
+              "value": "{semantic.color.on-dark.accent.brandPrimary.regular}",
+              "type": "color",
+              "description": "Idle or resting state of primary accent color"
+            },
+            "hover": {
+              "value": "{semantic.color.on-dark.accent.brandPrimary.emphasis}",
+              "type": "color"
+            },
+            "press": {
+              "value": "{semantic.color.on-dark.accent.brandPrimary.weak}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{semantic.color.on-dark.accent.brandPrimary.emphasis}",
+              "type": "color"
+            }
+          },
+          "secondary": {
+            "idle": {
+              "value": "{semantic.color.on-dark.accent.brandSecondary.regular}",
+              "type": "color",
+              "description": "Use to help user easily identify clickable (interactive) elements"
+            },
+            "hover": {
+              "value": "{semantic.color.on-dark.accent.brandSecondary.emphasis}",
+              "type": "color"
+            },
+            "press": {
+              "value": "{semantic.color.on-dark.accent.brandSecondary.weak}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{semantic.color.on-dark.accent.brandSecondary.emphasis}",
+              "type": "color"
+            }
+          }
+        },
         "neutral": {
           "fg": {
             "emphasis": {
