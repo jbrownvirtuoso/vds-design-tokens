@@ -1,62 +1,66 @@
 {
   "semantic": {
     "color": {
-      "accent": {
-        "brandPrimary": {
-          "emphasis": {
-            "value": "{color.default.red-1.700}",
-            "type": "color"
+      "on-light": {
+        "accent": {
+          "brandPrimary": {
+            "emphasis": {
+              "value": "{color.default.red-1.700}",
+              "type": "color"
+            },
+            "regular": {
+              "value": "{color.default.red-1.500}",
+              "type": "color"
+            },
+            "weak": {
+              "value": "{color.default.red-1.300}",
+              "type": "color"
+            },
+            "light": {
+              "value": "{color.default.red-1.50}",
+              "type": "color"
+            }
           },
-          "regular": {
-            "value": "{color.default.red-1.500}",
-            "type": "color"
+          "brandSecondary": {
+            "emphasis": {
+              "value": "{color.extended.blue-4.700}",
+              "type": "color"
+            },
+            "regular": {
+              "value": "{color.extended.blue-4.500}",
+              "type": "color"
+            },
+            "weak": {
+              "value": "{color.extended.blue-4.300}",
+              "type": "color"
+            },
+            "light": {
+              "value": "{color.extended.blue-4.50}",
+              "type": "color"
+            }
           },
-          "weak": {
-            "value": "{color.default.red-1.300}",
-            "type": "color"
-          },
-          "light": {
-            "value": "{color.default.red-1.50}",
-            "type": "color"
+          "brandTertiary": {
+            "emphasis": {
+              "value": "{color.extended.orange-1.700}",
+              "type": "color"
+            },
+            "regular": {
+              "value": "{color.extended.orange-1.500}",
+              "type": "color"
+            },
+            "weak": {
+              "value": "{color.extended.orange-1.300}",
+              "type": "color"
+            },
+            "light": {
+              "value": "{color.extended.orange-1.50}",
+              "type": "color"
+            }
           }
-        },
-        "brandSecondary": {
-          "emphasis": {
-            "value": "{color.extended.blue-4.700}",
-            "type": "color"
-          },
-          "regular": {
-            "value": "{color.extended.blue-4.500}",
-            "type": "color"
-          },
-          "weak": {
-            "value": "{color.extended.blue-4.300}",
-            "type": "color"
-          },
-          "light": {
-            "value": "{color.extended.blue-4.50}",
-            "type": "color"
-          }
-        },
-        "brandTertiary": {
-          "emphasis": {
-            "value": "{color.extended.orange-1.700}",
-            "type": "color"
-          },
-          "regular": {
-            "value": "{color.extended.orange-1.500}",
-            "type": "color"
-          },
-          "weak": {
-            "value": "{color.extended.orange-1.300}",
-            "type": "color"
-          },
-          "light": {
-            "value": "{color.extended.orange-1.50}",
-            "type": "color"
-          }
-        },
-        "on-dark": {
+        }
+      },
+      "on-dark": {
+        "accent": {
           "brandPrimary": {
             "emphasis": {
               "value": "{color.default.red-1.100}",

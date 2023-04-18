@@ -72,37 +72,37 @@
       "accentButton": {
         "bg": {
           "idle": {
-            "value": "{semantic.color.action.primary.idle}",
+            "value": "{semantic.color.on-light.action.primary.idle}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.action.primary.hover}",
+            "value": "{semantic.color.on-light.action.primary.hover}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.action.primary.press}",
+            "value": "{semantic.color.on-light.action.primary.press}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.action.primary.focus}",
+            "value": "{semantic.color.on-light.action.primary.focus}",
             "type": "color"
           }
         },
         "fg": {
           "idle": {
-            "value": "{semantic.color.neutral.fg.on-accent}",
+            "value": "{semantic.color.on-light.neutral.fg.on-accent}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.fg.on-accent}",
+            "value": "{semantic.color.on-light.neutral.fg.on-accent}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.fg.on-accent}",
+            "value": "{semantic.color.on-light.neutral.fg.on-accent}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.fg.on-accent}",
+            "value": "{semantic.color.on-light.neutral.fg.on-accent}",
             "type": "color"
           }
         }
@@ -110,55 +110,55 @@
       "outlineButton": {
         "bg": {
           "idle": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.on-light.neutral.bg.canvas}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.on-light.neutral.bg.canvas}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.on-light.neutral.bg.canvas}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.on-light.neutral.bg.canvas}",
             "type": "color"
           }
         },
         "fg": {
           "idle": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.on-light.neutral.fg.emphasis}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.on-light.neutral.fg.default}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.on-light.neutral.fg.default}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.on-light.neutral.fg.emphasis}",
             "type": "color"
           }
         },
         "border-color": {
           "idle": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.on-light.neutral.fg.emphasis}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.on-light.neutral.fg.default}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.on-light.neutral.fg.default}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.on-light.neutral.fg.emphasis}",
             "type": "color"
           }
         }
@@ -166,55 +166,55 @@
       "basicButton": {
         "bg": {
           "idle": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.on-light.neutral.bg.canvas}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.on-light.neutral.bg.canvas}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.on-light.neutral.bg.canvas}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.on-light.neutral.bg.canvas}",
             "type": "color"
           }
         },
         "fg": {
           "idle": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.on-light.neutral.fg.emphasis}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.on-light.neutral.fg.default}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.on-light.neutral.fg.default}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.fg.emphasis}",
+            "value": "{semantic.color.on-light.neutral.fg.emphasis}",
             "type": "color"
           }
         },
         "border-color": {
           "idle": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.on-light.neutral.bg.canvas}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.on-light.neutral.bg.canvas}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.neutral.fg.default}",
+            "value": "{semantic.color.on-light.neutral.fg.default}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.neutral.bg.canvas}",
+            "value": "{semantic.color.on-light.neutral.bg.canvas}",
             "type": "color"
           }
         }
