@@ -95,11 +95,11 @@
           },
           "brandTertiary": {
             "emphasis": {
-              "value": "{color.default.blue-2.200}",
+              "value": "{color.default.blue-3.200}",
               "type": "color"
             },
             "regular": {
-              "value": "{color.default.blue-2.300}",
+              "value": "{color.default.blue-3.300}",
               "type": "color"
             },
             "weak": {

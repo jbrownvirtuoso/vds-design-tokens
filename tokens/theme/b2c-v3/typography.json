@@ -25,6 +25,10 @@
         "value": "{fontWeights.font-medium}",
         "type": "fontWeights"
       }
+    },
+    "font-normal": {
+      "value": "Medium",
+      "type": "fontWeights"
     }
   }
 }
