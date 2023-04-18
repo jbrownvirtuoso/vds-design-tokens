@@ -4,39 +4,39 @@
       "action": {
         "primary": {
           "idle": {
-            "value": "{semantic.color.theme.brandPrimary.regular}",
+            "value": "{semantic.color.accent.brandPrimary.regular}",
             "type": "color",
             "description": "Idle or resting state of primary accent color"
           },
           "hover": {
-            "value": "{semantic.color.theme.brandPrimary.emphasis}",
+            "value": "{semantic.color.accent.brandPrimary.emphasis}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.theme.brandPrimary.weak}",
+            "value": "{semantic.color.accent.brandPrimary.weak}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.theme.brandPrimary.emphasis}",
+            "value": "{semantic.color.accent.brandPrimary.emphasis}",
             "type": "color"
           }
         },
         "secondary": {
           "idle": {
-            "value": "{semantic.color.theme.brandSecondary.regular}",
+            "value": "{semantic.color.accent.brandSecondary.regular}",
             "type": "color",
             "description": "Use to help user easily identify clickable (interactive) elements"
           },
           "hover": {
-            "value": "{semantic.color.theme.brandSecondary.emphasis}",
+            "value": "{semantic.color.accent.brandSecondary.emphasis}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.theme.brandSecondary.weak}",
+            "value": "{semantic.color.accent.brandSecondary.weak}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.theme.brandSecondary.emphasis}",
+            "value": "{semantic.color.accent.brandSecondary.emphasis}",
             "type": "color"
           }
         }
@@ -184,7 +184,7 @@
           }
         }
       },
-      "inverse": {
+      "on-dark": {
         "neutral": {
           "fg": {
             "emphasis": {
