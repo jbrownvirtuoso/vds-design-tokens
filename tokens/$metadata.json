@@ -20,10 +20,10 @@
     "theme/b2b/color",
     "theme/b2b/typography",
     "theme/b2b/other",
+    "theme/b2c-v2/color",
+    "theme/b2c-v2/typography",
     "theme/b2c/color",
     "theme/b2c/typography",
-    "theme/b2c-v3/color",
-    "theme/b2c-v3/typography",
     "breakpoints/lg",
     "breakpoints/sm"
   ]

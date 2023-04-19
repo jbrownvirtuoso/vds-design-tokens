@@ -1,0 +1,14 @@
+{
+  "semantic": {
+    "fontFamilies": {
+      "headlines": {
+        "value": "{fontFamilies.Utopia}",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "{fontFamilies.Proxima Nova}",
+        "type": "fontFamilies"
+      }
+    }
+  }
+}

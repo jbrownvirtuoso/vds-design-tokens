@@ -2,13 +2,33 @@
   "semantic": {
     "fontFamilies": {
       "headlines": {
-        "value": "{fontFamilies.Utopia}",
+        "value": "Sofia Pro",
+        "type": "fontFamilies"
+      },
+      "small-text": {
+        "value": "Sofia Pro",
+        "type": "fontFamilies"
+      },
+      "buttons": {
+        "value": "Sofia Pro",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{fontFamilies.Proxima Nova}",
+        "value": "FreightText Pro",
         "type": "fontFamilies"
       }
+    }
+  },
+  "fontWeights": {
+    "body": {
+      "regular": {
+        "value": "{fontWeights.font-medium}",
+        "type": "fontWeights"
+      }
+    },
+    "font-normal": {
+      "value": "Medium",
+      "type": "fontWeights"
     }
   }
 }

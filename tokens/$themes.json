@@ -20,7 +20,11 @@
       "global/gradiant": "source",
       "global/dimensions": "source",
       "breakpoints/lg": "source",
-      "theme/none/color": "enabled"
+      "theme/none/color": "enabled",
+      "theme/b2c-v2/color": "disabled",
+      "theme/b2c-v2/typography": "disabled",
+      "theme/b2c/color": "disabled",
+      "theme/b2c/typography": "disabled"
     },
     "$figmaStyleReferences": {
       "radio.color.bullet.border-color": "S:b56f937a76af6a3de4df8634b658284251ddf0b5,",
@@ -219,7 +223,11 @@
       "comp/radio": "enabled",
       "comp/toggleSwitch": "enabled",
       "breakpoints/sm": "source",
-      "theme/none/color": "enabled"
+      "theme/none/color": "enabled",
+      "theme/b2c-v2/color": "disabled",
+      "theme/b2c-v2/typography": "disabled",
+      "theme/b2c/color": "disabled",
+      "theme/b2c/typography": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -240,12 +248,14 @@
       "comp/checkbox": "enabled",
       "semantic/borders": "enabled",
       "comp/radio": "enabled",
-      "theme/b2c/color": "enabled",
-      "theme/b2c/typography": "enabled",
       "global/shadows": "source",
       "global/gradiant": "source",
       "global/dimensions": "source",
-      "breakpoints/lg": "source"
+      "breakpoints/lg": "source",
+      "theme/b2c-v2/color": "enabled",
+      "theme/b2c-v2/typography": "enabled",
+      "theme/b2c/color": "disabled",
+      "theme/b2c/typography": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -266,12 +276,14 @@
       "comp/checkbox": "enabled",
       "semantic/borders": "enabled",
       "comp/radio": "enabled",
-      "theme/b2c-v3/color": "enabled",
-      "theme/b2c-v3/typography": "enabled",
       "global/shadows": "source",
       "global/gradiant": "source",
       "global/dimensions": "source",
-      "breakpoints/lg": "enabled"
+      "breakpoints/lg": "enabled",
+      "theme/b2c-v2/color": "disabled",
+      "theme/b2c-v2/typography": "disabled",
+      "theme/b2c/color": "enabled",
+      "theme/b2c/typography": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -295,9 +307,11 @@
       "comp/checkbox": "enabled",
       "comp/radio": "enabled",
       "comp/toggleSwitch": "enabled",
-      "theme/b2c-v3/color": "enabled",
-      "theme/b2c-v3/typography": "enabled",
-      "breakpoints/sm": "enabled"
+      "breakpoints/sm": "enabled",
+      "theme/b2c-v2/color": "disabled",
+      "theme/b2c-v2/typography": "disabled",
+      "theme/b2c/color": "enabled",
+      "theme/b2c/typography": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -324,7 +338,11 @@
       "global/gradiant": "source",
       "theme/b2b/other": "enabled",
       "global/dimensions": "source",
-      "breakpoints/lg": "enabled"
+      "breakpoints/lg": "enabled",
+      "theme/b2c-v2/color": "disabled",
+      "theme/b2c-v2/typography": "disabled",
+      "theme/b2c/color": "disabled",
+      "theme/b2c/typography": "disabled"
     },
     "$figmaStyleReferences": {
       "semantic.color.action.accent.idle": "S:dc560782f7c2d426c9a08a8b3b47a3053006ca8b,",
@@ -515,7 +533,11 @@
       "theme/b2b/color": "enabled",
       "theme/b2b/typography": "enabled",
       "theme/b2b/other": "enabled",
-      "breakpoints/sm": "enabled"
+      "breakpoints/sm": "enabled",
+      "theme/b2c-v2/color": "disabled",
+      "theme/b2c-v2/typography": "disabled",
+      "theme/b2c/color": "disabled",
+      "theme/b2c/typography": "disabled"
     },
     "$figmaStyleReferences": {}
   }
