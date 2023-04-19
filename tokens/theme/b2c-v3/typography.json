@@ -14,7 +14,7 @@
         "type": "fontFamilies"
       },
       "body": {
-        "value": "FreightDisp Pro",
+        "value": "FreightText Pro",
         "type": "fontFamilies"
       }
     }
@@ -25,6 +25,10 @@
         "value": "{fontWeights.font-medium}",
         "type": "fontWeights"
       }
+    },
+    "font-normal": {
+      "value": "Medium",
+      "type": "fontWeights"
     }
   }
 }

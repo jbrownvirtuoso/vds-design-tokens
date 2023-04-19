@@ -8,5 +8,17 @@
       "value": "1.2",
       "type": "fontSizes"
     }
+  },
+  "spacing": {
+    "base": {
+      "value": "16",
+      "type": "spacing"
+    }
+  },
+  "sizing": {
+    "base": {
+      "value": "16",
+      "type": "sizing"
+    }
   }
 }

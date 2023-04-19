@@ -220,8 +220,16 @@
           "value": "28",
           "type": "sizing"
         },
-        "2x": {
+        "xl": {
           "value": "36",
+          "type": "sizing"
+        },
+        "2xl": {
+          "value": "40",
+          "type": "sizing"
+        },
+        "3xl": {
+          "value": "48",
           "type": "sizing"
         }
       }
