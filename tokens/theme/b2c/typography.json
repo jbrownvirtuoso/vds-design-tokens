@@ -1,6 +1,10 @@
 {
   "semantic": {
     "fontFamilies": {
+      "super-headlines": {
+        "value": "{fontFamilies.Utopia}",
+        "type": "fontFamilies"
+      },
       "headlines": {
         "value": "Sofia Pro",
         "type": "fontFamilies"
