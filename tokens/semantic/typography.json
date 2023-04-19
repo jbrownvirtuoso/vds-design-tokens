@@ -4,7 +4,7 @@
       "colossus": {
         "light": {
           "value": {
-            "fontFamily": "{semantic.fontFamilies.headlines}",
+            "fontFamily": "{semantic.fontFamilies.super-headlines}",
             "fontWeight": "{fontWeights.font-light}",
             "lineHeight": "{semantic.lineHeights.headlines.xl}",
             "fontSize": "{text.10xl}",
@@ -656,6 +656,10 @@
       }
     },
     "fontFamilies": {
+      "super-headlines": {
+        "value": "{fontFamilies.Utopia}",
+        "type": "fontFamilies"
+      },
       "headlines": {
         "value": "{fontFamilies.Roboto Slab}",
         "type": "fontFamilies"
