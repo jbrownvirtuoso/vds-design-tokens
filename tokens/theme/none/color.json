@@ -61,7 +61,7 @@
       },
       "on-dark": {
         "accent": {
-          "tertiaryBrand": {
+          "brandTertiary": {
             "emphasis": {
               "value": "{color.default.red-1.100}",
               "type": "color"
