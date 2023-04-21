@@ -121,6 +121,10 @@
     "Roboto Slab": {
       "value": "Roboto Slab",
       "type": "fontFamilies"
+    },
+    "FreightText Pro": {
+      "value": "FreightText Pro",
+      "type": "fontFamilies"
     }
   },
   "letterSpacing": {
