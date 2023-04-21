@@ -10,15 +10,15 @@
         "type": "fontFamilies"
       },
       "small-text": {
-        "value": "Sofia Pro",
+        "value": "{fontFamilies.Sofia}",
         "type": "fontFamilies"
       },
       "buttons": {
-        "value": "Sofia Pro",
+        "value": "{fontFamilies.Sofia}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "FreightText Pro",
+        "value": "{fontFamilies.FreightText Pro}",
         "type": "fontFamilies"
       }
     }
