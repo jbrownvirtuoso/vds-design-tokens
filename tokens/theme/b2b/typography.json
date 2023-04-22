@@ -3,32 +3,32 @@
     "fontFamilies": {
       "headlines": {
         "xl": {
-          "value": "{fontFamilies.Utopia}",
+          "value": "{fontFamilies.Sofia}",
           "type": "fontFamilies"
         },
         "lg": {
-          "value": "{fontFamilies.Utopia}",
+          "value": "{fontFamilies.Sofia}",
           "type": "fontFamilies"
         },
         "default": {
-          "value": "{fontFamilies.Roboto Slab}",
+          "value": "{fontFamilies.Sofia}",
           "type": "fontFamilies"
         },
         "sm": {
-          "value": "{fontFamilies.Utopia}",
+          "value": "{fontFamilies.Sofia}",
           "type": "fontFamilies"
         }
       },
       "small-text": {
-        "value": "{fontFamilies.Roboto}",
+        "value": "{fontFamilies.Sofia}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{fontFamilies.Roboto}",
+        "value": "{fontFamilies.Sofia}",
         "type": "fontFamilies"
       },
       "buttons": {
-        "value": "{fontFamilies.Roboto}",
+        "value": "{fontFamilies.Sofia}",
         "type": "fontFamilies"
       }
     }
