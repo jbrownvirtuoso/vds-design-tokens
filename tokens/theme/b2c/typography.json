@@ -1,7 +1,7 @@
 {
   "semantic": {
     "fontFamilies": {
-      "super-headlines": {
+      "xl-headlines": {
         "value": "{fontFamilies.Sofia}",
         "type": "fontFamilies"
       },
