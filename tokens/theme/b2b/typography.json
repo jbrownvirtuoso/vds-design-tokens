@@ -2,11 +2,33 @@
   "semantic": {
     "fontFamilies": {
       "headlines": {
-        "value": "{fontFamilies.Proxima Nova}",
+        "xl": {
+          "value": "{fontFamilies.Utopia}",
+          "type": "fontFamilies"
+        },
+        "lg": {
+          "value": "{fontFamilies.Utopia}",
+          "type": "fontFamilies"
+        },
+        "default": {
+          "value": "{fontFamilies.Roboto Slab}",
+          "type": "fontFamilies"
+        },
+        "sm": {
+          "value": "{fontFamilies.Utopia}",
+          "type": "fontFamilies"
+        }
+      },
+      "small-text": {
+        "value": "{fontFamilies.Roboto}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{fontFamilies.Proxima Nova}",
+        "value": "{fontFamilies.Roboto}",
+        "type": "fontFamilies"
+      },
+      "buttons": {
+        "value": "{fontFamilies.Roboto}",
         "type": "fontFamilies"
       }
     }
