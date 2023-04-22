@@ -28,16 +28,33 @@
         }
       },
       "small-text": {
-        "value": "{fontFamilies.Roboto}",
+        "value": "{fontFamilies.Sofia}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{fontFamilies.Roboto}",
+        "value": "{fontFamilies.FreightText Pro}",
         "type": "fontFamilies"
       },
       "buttons": {
-        "value": "{fontFamilies.Roboto}",
+        "value": "{fontFamilies.Sofia}",
         "type": "fontFamilies"
+      }
+    },
+    "typography": {
+      "body": {
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.FreightText Pro}",
+            "fontWeight": "{fontWeights.font-medium}",
+            "lineHeight": "{semantic.lineHeights.body.normal}",
+            "fontSize": "{fontSize.base}",
+            "letterSpacing": "{letterSpacing.tracking-normal}",
+            "paragraphSpacing": "{paragraphSpacing.default}",
+            "textDecoration": "",
+            "textCase": "{fontCase.normal-case}"
+          },
+          "type": "typography"
+        }
       }
     }
   }

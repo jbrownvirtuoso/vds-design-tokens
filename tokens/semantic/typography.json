@@ -373,11 +373,11 @@
       "lead": {
         "regular": {
           "value": {
-            "fontFamily": "{semantic.fontFamilies.body}",
+            "fontFamily": "{semantic.fontFamilies.headlines.sm}",
             "fontWeight": "{fontWeights.font-normal}",
-            "lineHeight": "{semantic.lineHeights.body.normal}",
+            "lineHeight": "{semantic.lineHeights.headlines.sm}",
             "fontSize": "{text.2xl}",
-            "letterSpacing": "{semantic.letterSpacing.body}",
+            "letterSpacing": "{semantic.letterSpacing.headlines}",
             "paragraphSpacing": "{paragraphSpacing.default}",
             "textCase": "{semantic.textCase.none}",
             "textDecoration": "{semantic.textDecoration.none}"
@@ -386,11 +386,11 @@
         },
         "strong": {
           "value": {
-            "fontFamily": "{semantic.fontFamilies.body}",
+            "fontFamily": "{semantic.fontFamilies.headlines.sm}",
             "fontWeight": "{fontWeights.font-bold}",
-            "lineHeight": "{semantic.lineHeights.body.normal}",
+            "lineHeight": "{semantic.lineHeights.headlines.sm}",
             "fontSize": "{text.2xl}",
-            "letterSpacing": "{semantic.letterSpacing.body}",
+            "letterSpacing": "{semantic.letterSpacing.headlines}",
             "paragraphSpacing": "{paragraphSpacing.default}",
             "textCase": "{semantic.textCase.none}",
             "textDecoration": "{semantic.textDecoration.none}"
