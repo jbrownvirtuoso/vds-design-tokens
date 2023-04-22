@@ -47,7 +47,7 @@
             "fontFamily": "{fontFamilies.FreightText Pro}",
             "fontWeight": "{fontWeights.font-medium}",
             "lineHeight": "{semantic.lineHeights.body.normal}",
-            "fontSize": "{fontSize.base}",
+            "fontSize": "{text.lg}",
             "letterSpacing": "{letterSpacing.tracking-normal}",
             "paragraphSpacing": "{paragraphSpacing.default}",
             "textDecoration": "",
