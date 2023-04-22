@@ -2,11 +2,33 @@
   "semantic": {
     "fontFamilies": {
       "headlines": {
-        "value": "{fontFamilies.Proxima Nova}",
+        "xl": {
+          "value": "{fontFamilies.Sofia}",
+          "type": "fontFamilies"
+        },
+        "lg": {
+          "value": "{fontFamilies.Sofia}",
+          "type": "fontFamilies"
+        },
+        "default": {
+          "value": "{fontFamilies.Sofia}",
+          "type": "fontFamilies"
+        },
+        "sm": {
+          "value": "{fontFamilies.Sofia}",
+          "type": "fontFamilies"
+        }
+      },
+      "small-text": {
+        "value": "{fontFamilies.Sofia}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{fontFamilies.Proxima Nova}",
+        "value": "{fontFamilies.Sofia}",
+        "type": "fontFamilies"
+      },
+      "buttons": {
+        "value": "{fontFamilies.Sofia}",
         "type": "fontFamilies"
       }
     }

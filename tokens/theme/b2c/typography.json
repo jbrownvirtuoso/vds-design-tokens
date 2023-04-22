@@ -1,33 +1,60 @@
 {
+  "fontWeights": {
+    "body": {
+      "regular": {
+        "value": "{fontWeights.font-medium}",
+        "type": "fontWeights"
+      }
+    }
+  },
   "semantic": {
     "fontFamilies": {
-      "xl-headlines": {
-        "value": "{fontFamilies.Sofia}",
-        "type": "fontFamilies"
-      },
       "headlines": {
-        "value": "{fontFamilies.Sofia}",
-        "type": "fontFamilies"
+        "xl": {
+          "value": "{fontFamilies.Sofia}",
+          "type": "fontFamilies"
+        },
+        "lg": {
+          "value": "{fontFamilies.Sofia}",
+          "type": "fontFamilies"
+        },
+        "default": {
+          "value": "{fontFamilies.Sofia}",
+          "type": "fontFamilies"
+        },
+        "sm": {
+          "value": "{fontFamilies.Sofia}",
+          "type": "fontFamilies"
+        }
       },
       "small-text": {
-        "value": "{fontFamilies.Sofia}",
-        "type": "fontFamilies"
-      },
-      "buttons": {
         "value": "{fontFamilies.Sofia}",
         "type": "fontFamilies"
       },
       "body": {
         "value": "{fontFamilies.FreightText Pro}",
         "type": "fontFamilies"
+      },
+      "buttons": {
+        "value": "{fontFamilies.Sofia}",
+        "type": "fontFamilies"
       }
-    }
-  },
-  "fontWeights": {
-    "body": {
-      "regular": {
-        "value": "{fontWeights.font-medium}",
-        "type": "fontWeights"
+    },
+    "typography": {
+      "body": {
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamilies.FreightText Pro}",
+            "fontWeight": "{fontWeights.font-medium}",
+            "lineHeight": "{semantic.lineHeights.body.normal}",
+            "fontSize": "{text.lg}",
+            "letterSpacing": "{letterSpacing.tracking-normal}",
+            "paragraphSpacing": "{paragraphSpacing.default}",
+            "textDecoration": "",
+            "textCase": "{fontCase.normal-case}"
+          },
+          "type": "typography"
+        }
       }
     }
   }
