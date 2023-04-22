@@ -43,10 +43,10 @@
         }
       },
       "uber": {
-        "regular": {
+        "light": {
           "value": {
             "fontFamily": "{semantic.fontFamilies.super-headlines}",
-            "fontWeight": "{fontWeights.font-normal}",
+            "fontWeight": "{fontWeights.font-light}",
             "lineHeight": "{semantic.lineHeights.headlines.lg}",
             "fontSize": "{text.9xl}",
             "letterSpacing": "{semantic.letterSpacing.headlines}",
@@ -56,10 +56,10 @@
           },
           "type": "typography"
         },
-        "light": {
+        "regular": {
           "value": {
             "fontFamily": "{semantic.fontFamilies.super-headlines}",
-            "fontWeight": "{fontWeights.font-light}",
+            "fontWeight": "{fontWeights.font-normal}",
             "lineHeight": "{semantic.lineHeights.headlines.lg}",
             "fontSize": "{text.9xl}",
             "letterSpacing": "{semantic.letterSpacing.headlines}",
