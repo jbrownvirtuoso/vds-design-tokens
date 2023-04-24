@@ -120,8 +120,6 @@
       "semantic.color.on-light.neutral.fg.subdued": "S:1fc2f604aa61ccf7f01e706058f2660ce816ef1b,",
       "semantic.color.on-light.neutral.fg.decorative": "S:ba76e16b0293d3bbd3c569447a5e67b14c7f3201,",
       "semantic.color.on-light.neutral.fg.on-accent": "S:f44d172092bdab059f496fb9a9b7fec03aa7db27,",
-      "semantic.color.on-light.neutral.bg.surface-lightest": "S:3e66b7720c67db22a84be8834e8c3d769bc305cf,",
-      "semantic.color.on-light.neutral.bg.surface-light": "S:4d7d35e2ed7d66024dc511f961bbca911896ecd1,",
       "semantic.color.on-light.neutral.bg.canvas": "S:a59a1ad5e22a2eeb64e678c2a5060a4a8850c01b,",
       "semantic.color.on-light.alert.warning.emphasis": "S:0c3e1c00a6691e36b63bc1d917ab39ddb91044eb,",
       "semantic.color.on-light.alert.warning.regular": "S:3d7310a23aa250e6615366b79b00c52d69d8c8fd,",
@@ -155,8 +153,6 @@
       "semantic.color.on-dark.neutral.fg.regular": "S:e08a30c0d2de0fac8f723362132ed8002434271e,",
       "semantic.color.on-dark.neutral.fg.subdued": "S:64de22bddd53a0e86a1d04c73df6dd1714f4f2d6,",
       "semantic.color.on-dark.neutral.fg.decorative": "S:77c0f4fff84cb7b6d58bd1e783e5b6fcb789ab79,",
-      "semantic.color.on-dark.neutral.bg.surface-lightest": "S:fe6102b5e317f012fb8368cb894e081f1c7cc50a,",
-      "semantic.color.on-dark.neutral.bg.surface-light": "S:b3853a4598a36b55783518b43bc40549b20cdf58,",
       "semantic.color.on-dark.neutral.bg.canvas": "S:4c6e335c4c97a81c6be03ff9f49b30653abdc2c2,",
       "semantic.input.unselected.bg.idle": "S:9ddf284ce8c8ce789b5e393bd5d1289429bd7842,",
       "semantic.input.unselected.bg.hover": "S:07a0b54368d2a6299b224750e9d64b3177c9a13a,",
@@ -239,7 +235,11 @@
       "semantic.typography.input.normal.regular": "S:a4b498f687fd041ee3845b9e888c30c543f89ba3,",
       "semantic.typography.input.normal.strong": "S:890056821835f12f7b7b74509b71627625c69aa9,",
       "semantic.typography.input.large.regular": "S:cee4a5983f22c98b8b4b99b8ec465c23332621fc,",
-      "semantic.typography.input.large.strong": "S:c7128cce034d160d9249026894d0df2fee25be75,"
+      "semantic.typography.input.large.strong": "S:c7128cce034d160d9249026894d0df2fee25be75,",
+      "semantic.color.on-light.neutral.bg.surface-lowest": "S:3e66b7720c67db22a84be8834e8c3d769bc305cf,",
+      "semantic.color.on-light.neutral.bg.surface-low": "S:4d7d35e2ed7d66024dc511f961bbca911896ecd1,",
+      "semantic.color.on-dark.neutral.bg.surface-lowest": "S:fe6102b5e317f012fb8368cb894e081f1c7cc50a,",
+      "semantic.color.on-dark.neutral.bg.surface-low": "S:b3853a4598a36b55783518b43bc40549b20cdf58,"
     }
   },
   {
@@ -337,8 +337,6 @@
       "semantic.color.on-light.neutral.fg.subdued": "S:6fd565d35cf818df0bb847a2a062eb73cc85823e,",
       "semantic.color.on-light.neutral.fg.decorative": "S:c08b9ac011b040f7c6d9216f9506ef143fa581c7,",
       "semantic.color.on-light.neutral.fg.on-accent": "S:e9cb13eeb5960973580b5e655f8d8de05c250a01,",
-      "semantic.color.on-light.neutral.bg.surface-lightest": "S:2df3f1077c4b0c6bb110cd70018ce3e3e87ecf0b,",
-      "semantic.color.on-light.neutral.bg.surface-light": "S:afb254653d6f468d7bc20ff508b2f9c0b2b3134e,",
       "semantic.color.on-light.neutral.bg.canvas": "S:39f6e35f582c4cefa3ea18587cd0a6f92754e00e,",
       "semantic.color.on-light.alert.warning.emphasis": "S:c5ccaaefff8846c6a51b9f245ddaf9a126bc0689,",
       "semantic.color.on-light.alert.warning.regular": "S:145fed16f8b5d55629ef075b4b837083ab8987e7,",
@@ -372,8 +370,6 @@
       "semantic.color.on-dark.neutral.fg.regular": "S:7ce8d9a6d38679d68c1ee0e050baae55d48ee748,",
       "semantic.color.on-dark.neutral.fg.subdued": "S:b347cff167e4dfc857d7cc91923f3b3819dbd4e1,",
       "semantic.color.on-dark.neutral.fg.decorative": "S:b22379462465b10b033e9b759da1cc637a93f2c5,",
-      "semantic.color.on-dark.neutral.bg.surface-lightest": "S:b685fcfdacc7f6dbc1fcdd5ff3d279b9f2ce3f68,",
-      "semantic.color.on-dark.neutral.bg.surface-light": "S:d8071c2fd950737effe48d22807710845e73df3d,",
       "semantic.color.on-dark.neutral.bg.canvas": "S:edccc724d4ce5d1ece7c4a884bb74f9c0e2f6b84,",
       "semantic.input.unselected.bg.idle": "S:9a5864bb70881ca0fc242fca72577ab7d305b8d8,",
       "semantic.input.unselected.bg.hover": "S:c847c39f02176499647da95566fef35fc0a36f65,",
@@ -406,7 +402,11 @@
       "semantic.input.selected.text-color.idle": "S:df0a82a9a07aae4a6db5485b06d03c6a38f0ff93,",
       "semantic.input.selected.text-color.hover": "S:53566725e9fded81ecb9091add5a0e6520ce0f54,",
       "semantic.input.selected.text-color.press": "S:c809908a1d8323576ee73a8d5ba0cdf815c7846d,",
-      "semantic.input.selected.text-color.focus": "S:9fc6a48285549b91a86357d47374a410d84e2699,"
+      "semantic.input.selected.text-color.focus": "S:9fc6a48285549b91a86357d47374a410d84e2699,",
+      "semantic.color.on-light.neutral.bg.surface-lowest": "S:2df3f1077c4b0c6bb110cd70018ce3e3e87ecf0b,",
+      "semantic.color.on-light.neutral.bg.surface-low": "S:afb254653d6f468d7bc20ff508b2f9c0b2b3134e,",
+      "semantic.color.on-dark.neutral.bg.surface-lowest": "S:b685fcfdacc7f6dbc1fcdd5ff3d279b9f2ce3f68,",
+      "semantic.color.on-dark.neutral.bg.surface-low": "S:d8071c2fd950737effe48d22807710845e73df3d,"
     }
   },
   {
@@ -717,8 +717,6 @@
       "semantic.color.on-light.neutral.fg.subdued": "S:6621c32437722a9939cf0476a1cc897d9da650cd,",
       "semantic.color.on-light.neutral.fg.decorative": "S:208bc2d120551b87d3cd1f9bb15fce6e872e06ea,",
       "semantic.color.on-light.neutral.fg.on-accent": "S:4d56fa3090d1f2a7ec4f13c1f9a38c023040b6c1,",
-      "semantic.color.on-light.neutral.bg.surface-lightest": "S:2b8c0759eb500bcdebf8652c5e452b06a973398d,",
-      "semantic.color.on-light.neutral.bg.surface-light": "S:c5d1606ca77fbee17a8365b04ab69204fe67631d,",
       "semantic.color.on-light.neutral.bg.canvas": "S:51597f184ed5288e212fd6b50d6a33b772c986c8,",
       "semantic.color.on-light.alert.warning.emphasis": "S:df54c280bedb32d365a7fb5457007ab11dd04f30,",
       "semantic.color.on-light.alert.warning.regular": "S:3583addbc2431b87c8aefc4c0358916ae1afabb1,",
@@ -752,8 +750,6 @@
       "semantic.color.on-dark.neutral.fg.regular": "S:8b8c9839525c1bf6b96fb7b1aec22d638359e19c,",
       "semantic.color.on-dark.neutral.fg.subdued": "S:e9f7df019445f1294f817bd61928396b9916f10f,",
       "semantic.color.on-dark.neutral.fg.decorative": "S:62baecd14202d224a71805ffb3aa3e68ab552c01,",
-      "semantic.color.on-dark.neutral.bg.surface-lightest": "S:73c337ac580c01889066d22c1b491a4d61e4f670,",
-      "semantic.color.on-dark.neutral.bg.surface-light": "S:4c1abbcc59fae18473fe18e7f2b5b793db09c2e7,",
       "semantic.color.on-dark.neutral.bg.canvas": "S:55d550efb79c708ba4a4cffe50e434c66c0ae420,",
       "semantic.input.unselected.bg.idle": "S:5d12c3b05cf117163b0a69128ea7653074a092e8,",
       "semantic.input.unselected.bg.hover": "S:007a20e7b6d095c94a1b1818c3139bdac98d5089,",
@@ -836,7 +832,11 @@
       "semantic.typography.input.normal.regular": "S:31cf7380a81b46d8807bf07988e539e35525f0e0,",
       "semantic.typography.input.normal.strong": "S:6a16c9ecbc54469b7bf3e1e0da9d765a3230c58e,",
       "semantic.typography.input.large.regular": "S:9638f975f5420bb8be50ab37ef44cdc60ba755cc,",
-      "semantic.typography.input.large.strong": "S:21ee2bfd8c8022aa9b67274b29835622caf60cc0,"
+      "semantic.typography.input.large.strong": "S:21ee2bfd8c8022aa9b67274b29835622caf60cc0,",
+      "semantic.color.on-light.neutral.bg.surface-lowest": "S:2b8c0759eb500bcdebf8652c5e452b06a973398d,",
+      "semantic.color.on-light.neutral.bg.surface-low": "S:c5d1606ca77fbee17a8365b04ab69204fe67631d,",
+      "semantic.color.on-dark.neutral.bg.surface-lowest": "S:73c337ac580c01889066d22c1b491a4d61e4f670,",
+      "semantic.color.on-dark.neutral.bg.surface-low": "S:4c1abbcc59fae18473fe18e7f2b5b793db09c2e7,"
     }
   },
   {
@@ -1069,8 +1069,6 @@
       "semantic.color.on-light.neutral.fg.subdued": "S:cd6dc8e6bc32deea4e2b91af9e83051c9adad077,",
       "semantic.color.on-light.neutral.fg.decorative": "S:3ae483a6896ac67a85332b7f806d84a91390199d,",
       "semantic.color.on-light.neutral.fg.on-accent": "S:67d9150c261f633003afe80d9d3a0327383e6349,",
-      "semantic.color.on-light.neutral.bg.surface-lightest": "S:9bf60e21d5c01c66c2714842cbc204270b377dd8,",
-      "semantic.color.on-light.neutral.bg.surface-light": "S:ccc611972d05d9e89189e16b15bdc7f7773ab47e,",
       "semantic.color.on-light.neutral.bg.canvas": "S:d7224c00c0112ffec79ac33911cb718e18a5b476,",
       "semantic.color.on-light.alert.warning.emphasis": "S:4f29ea7bfbf86b2c3a4df94bd4a63432cd0e7ca3,",
       "semantic.color.on-light.alert.warning.regular": "S:2cefa04f3123bfe28a3a74ee992f333afd28ee32,",
@@ -1104,8 +1102,6 @@
       "semantic.color.on-dark.neutral.fg.regular": "S:2103994073f16b47128d27b536d770084f7d92f1,",
       "semantic.color.on-dark.neutral.fg.subdued": "S:1e8f41b89399db7d4e58d666d9ec79ea66fca5a9,",
       "semantic.color.on-dark.neutral.fg.decorative": "S:48b37cb7fcc28b57d5c791bd5fce37b3c7daf3fd,",
-      "semantic.color.on-dark.neutral.bg.surface-lightest": "S:33e501eedda6e7dcd903051661d05db2c2231b87,",
-      "semantic.color.on-dark.neutral.bg.surface-light": "S:8381726e1b45b7265544c1a4e19a5ea919687288,",
       "semantic.color.on-dark.neutral.bg.canvas": "S:2c5b061ac102be4a078013cec45a72e121f62f97,",
       "semantic.typography.uber.light": "S:e7f457716de7913eda7b3db6646563224424ce62,",
       "semantic.typography.hero.light": "S:90bf6a884b2545ab24eb13aabcbf20b9146640ac,",
@@ -1113,7 +1109,11 @@
       "semantic.typography.button.small.regular": "S:b16caf10464baa04deac85be8d24f4be4fb8699e,",
       "semantic.typography.button.small.strong": "S:25a4d3c835bc0cd742475d57975542ffe702d7fa,",
       "semantic.typography.button.medium.regular": "S:735a63b8e0230d9ae563ea0021f24e48cf951cbb,",
-      "semantic.typography.button.medium.strong": "S:731cfa0daea6ebba082ef01d54e6c268bdd13dea,"
+      "semantic.typography.button.medium.strong": "S:731cfa0daea6ebba082ef01d54e6c268bdd13dea,",
+      "semantic.color.on-light.neutral.bg.surface-lowest": "S:9bf60e21d5c01c66c2714842cbc204270b377dd8,",
+      "semantic.color.on-light.neutral.bg.surface-low": "S:ccc611972d05d9e89189e16b15bdc7f7773ab47e,",
+      "semantic.color.on-dark.neutral.bg.surface-lowest": "S:33e501eedda6e7dcd903051661d05db2c2231b87,",
+      "semantic.color.on-dark.neutral.bg.surface-low": "S:8381726e1b45b7265544c1a4e19a5ea919687288,"
     }
   }
 ]

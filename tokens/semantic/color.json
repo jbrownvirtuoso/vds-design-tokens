@@ -70,12 +70,12 @@
             }
           },
           "bg": {
-            "surface-lightest": {
+            "surface-lowest": {
               "value": "{color.default.neutral-1.50}",
               "type": "color",
               "description": "Lorem…"
             },
-            "surface-light": {
+            "surface-low": {
               "value": "{color.default.neutral-1.100}",
               "type": "color"
             },
@@ -247,12 +247,12 @@
             }
           },
           "bg": {
-            "surface-lightest": {
+            "surface-lowest": {
               "value": "{color.default.inverse-neutral-1.100}",
               "type": "color",
               "description": "Lorem…"
             },
-            "surface-light": {
+            "surface-low": {
               "value": "{color.default.inverse-neutral-1.200}",
               "type": "color"
             },
@@ -272,15 +272,15 @@
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.color.on-light.neutral.bg.surface-light}",
+            "value": "{semantic.color.on-light.neutral.bg.surface-low}",
             "type": "color"
           },
           "press": {
-            "value": "{semantic.color.on-light.neutral.bg.surface-light}",
+            "value": "{semantic.color.on-light.neutral.bg.surface-low}",
             "type": "color"
           },
           "focus": {
-            "value": "{semantic.color.on-light.neutral.bg.surface-lightest}",
+            "value": "{semantic.color.on-light.neutral.bg.surface-lowest}",
             "type": "color"
           }
         },
